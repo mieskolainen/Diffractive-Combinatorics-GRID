@@ -1,0 +1,3146 @@
+Rapidity [0] = -9.419632 
+Rapidity [1] = -4.399944 
+Rapidity [2] = -2.930714 
+Rapidity [3] = -2.113010 
+Rapidity [4] = -2.095714 
+Rapidity [5] = -1.909630 
+Rapidity [6] = -1.457337 
+Rapidity [7] = -1.159331 
+Rapidity [8] = -0.837678 
+Rapidity [9] = -0.442265 
+Rapidity [10] = -0.370777 
+Rapidity [11] = -0.242188 
+Rapidity [12] = -0.050916 
+Rapidity [13] = 0.147640 
+Rapidity [14] = 0.156575 
+Rapidity [15] = 0.232113 
+Rapidity [16] = 0.275135 
+Rapidity [17] = 0.348105 
+Rapidity [18] = 0.385393 
+Rapidity [19] = 1.212577 
+Rapidity [20] = 1.471968 
+Rapidity [21] = 1.571414 
+Rapidity [22] = 1.735884 
+Rapidity [23] = 1.780999 
+Rapidity [24] = 1.954714 
+Rapidity [25] = 2.641262 
+Rapidity [26] = 2.947248 
+Rapidity [27] = 3.037082 
+Rapidity [28] = 5.242855 
+Rapidity [29] = 9.470844 
+
+Rapidity [0] = -8.262845 
+Rapidity [1] = -8.109150 
+Rapidity [2] = -7.998873 
+Rapidity [3] = -7.929209 
+Rapidity [4] = -7.623030 
+Rapidity [5] = -7.443727 
+Rapidity [6] = -7.416078 
+Rapidity [7] = -7.188616 
+Rapidity [8] = -7.094890 
+Rapidity [9] = -7.074914 
+Rapidity [10] = -6.612810 
+Rapidity [11] = -6.436924 
+Rapidity [12] = -6.423841 
+Rapidity [13] = -6.371954 
+Rapidity [14] = -6.341158 
+Rapidity [15] = -6.323084 
+Rapidity [16] = -6.260609 
+Rapidity [17] = -6.245319 
+Rapidity [18] = -6.228703 
+Rapidity [19] = -6.200058 
+Rapidity [20] = -6.091425 
+Rapidity [21] = -5.887377 
+Rapidity [22] = -5.812483 
+Rapidity [23] = -5.746446 
+Rapidity [24] = -5.736366 
+Rapidity [25] = -5.672636 
+Rapidity [26] = -5.656276 
+Rapidity [27] = -5.646627 
+Rapidity [28] = -5.572419 
+Rapidity [29] = -5.570600 
+Rapidity [30] = -5.515520 
+Rapidity [31] = -5.454035 
+Rapidity [32] = -5.366448 
+Rapidity [33] = -5.215042 
+Rapidity [34] = -5.022813 
+Rapidity [35] = -5.007278 
+Rapidity [36] = -4.733641 
+Rapidity [37] = -4.600278 
+Rapidity [38] = -4.520922 
+Rapidity [39] = -4.508214 
+Rapidity [40] = -4.480857 
+Rapidity [41] = -4.446740 
+Rapidity [42] = -4.440963 
+Rapidity [43] = -4.427731 
+Rapidity [44] = -4.423031 
+Rapidity [45] = -4.398030 
+Rapidity [46] = -4.372174 
+Rapidity [47] = -4.326456 
+Rapidity [48] = -4.320849 
+Rapidity [49] = -4.187271 
+Rapidity [50] = -4.185814 
+Rapidity [51] = -4.165671 
+Rapidity [52] = -4.141612 
+Rapidity [53] = -4.133390 
+Rapidity [54] = -4.092488 
+Rapidity [55] = -4.086821 
+Rapidity [56] = -4.050407 
+Rapidity [57] = -4.000558 
+Rapidity [58] = -3.945747 
+Rapidity [59] = -3.926552 
+Rapidity [60] = -3.850108 
+Rapidity [61] = -3.815317 
+Rapidity [62] = -3.802794 
+Rapidity [63] = -3.763201 
+Rapidity [64] = -3.754734 
+Rapidity [65] = -3.714926 
+Rapidity [66] = -3.674202 
+Rapidity [67] = -3.659947 
+Rapidity [68] = -3.636890 
+Rapidity [69] = -3.601448 
+Rapidity [70] = -3.496361 
+Rapidity [71] = -3.472486 
+Rapidity [72] = -3.464542 
+Rapidity [73] = -3.439107 
+Rapidity [74] = -3.374605 
+Rapidity [75] = -3.283849 
+Rapidity [76] = -3.258372 
+Rapidity [77] = -3.197828 
+Rapidity [78] = -3.195155 
+Rapidity [79] = -3.163182 
+Rapidity [80] = -3.128027 
+Rapidity [81] = -3.028795 
+Rapidity [82] = -2.910488 
+Rapidity [83] = -2.904156 
+Rapidity [84] = -2.755048 
+Rapidity [85] = -2.691226 
+Rapidity [86] = -2.670832 
+Rapidity [87] = -2.440751 
+Rapidity [88] = -2.334891 
+Rapidity [89] = -2.298336 
+Rapidity [90] = -2.148620 
+Rapidity [91] = -2.115421 
+Rapidity [92] = -2.025880 
+Rapidity [93] = -1.980770 
+Rapidity [94] = -1.945950 
+Rapidity [95] = -1.814363 
+Rapidity [96] = -1.743277 
+Rapidity [97] = -1.740401 
+Rapidity [98] = -1.481302 
+Rapidity [99] = -1.428737 
+Rapidity [100] = -1.344895 
+Rapidity [101] = -1.261271 
+Rapidity [102] = -1.240506 
+Rapidity [103] = -1.072390 
+Rapidity [104] = -1.009738 
+Rapidity [105] = -0.914548 
+Rapidity [106] = -0.738915 
+Rapidity [107] = -0.717357 
+Rapidity [108] = -0.469164 
+Rapidity [109] = -0.431001 
+Rapidity [110] = -0.247629 
+Rapidity [111] = -0.161776 
+Rapidity [112] = -0.065873 
+Rapidity [113] = -0.044680 
+Rapidity [114] = 0.094156 
+Rapidity [115] = 0.192425 
+Rapidity [116] = 0.398754 
+Rapidity [117] = 0.484497 
+Rapidity [118] = 0.599280 
+Rapidity [119] = 0.825998 
+Rapidity [120] = 0.847456 
+Rapidity [121] = 0.957266 
+Rapidity [122] = 1.109825 
+Rapidity [123] = 1.163560 
+Rapidity [124] = 1.166421 
+Rapidity [125] = 1.197283 
+Rapidity [126] = 1.200541 
+Rapidity [127] = 1.275509 
+Rapidity [128] = 1.326802 
+Rapidity [129] = 1.778881 
+Rapidity [130] = 2.113035 
+Rapidity [131] = 3.360387 
+Rapidity [132] = 4.319346 
+Rapidity [133] = 4.563918 
+Rapidity [134] = 9.405030 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rapidity [0] = -10.136258 
+Rapidity [1] = -8.276989 
+Rapidity [2] = -8.091069 
+Rapidity [3] = -7.946371 
+Rapidity [4] = -7.703298 
+Rapidity [5] = -7.557010 
+Rapidity [6] = -6.847491 
+Rapidity [7] = -6.155136 
+Rapidity [8] = -1.692392 
+Rapidity [9] = -1.500070 
+Rapidity [10] = 0.450127 
+Rapidity [11] = 1.667023 
+Rapidity [12] = 1.775818 
+Rapidity [13] = 1.996814 
+Rapidity [14] = 2.071310 
+Rapidity [15] = 2.142021 
+Rapidity [16] = 2.461262 
+Rapidity [17] = 2.759544 
+Rapidity [18] = 2.993609 
+Rapidity [19] = 3.160413 
+Rapidity [20] = 3.213441 
+Rapidity [21] = 3.331577 
+Rapidity [22] = 3.478525 
+Rapidity [23] = 3.539572 
+Rapidity [24] = 3.542066 
+Rapidity [25] = 3.605377 
+Rapidity [26] = 3.683366 
+Rapidity [27] = 3.704214 
+Rapidity [28] = 3.739016 
+Rapidity [29] = 3.747745 
+Rapidity [30] = 3.791996 
+Rapidity [31] = 3.824707 
+Rapidity [32] = 3.850797 
+Rapidity [33] = 3.890167 
+Rapidity [34] = 4.027179 
+Rapidity [35] = 4.165136 
+Rapidity [36] = 4.308202 
+Rapidity [37] = 4.349928 
+Rapidity [38] = 4.407684 
+Rapidity [39] = 4.581649 
+Rapidity [40] = 4.647616 
+Rapidity [41] = 4.762313 
+Rapidity [42] = 4.965107 
+Rapidity [43] = 5.004392 
+Rapidity [44] = 5.133417 
+Rapidity [45] = 5.227576 
+Rapidity [46] = 5.235502 
+Rapidity [47] = 5.382995 
+Rapidity [48] = 5.605879 
+Rapidity [49] = 5.766417 
+Rapidity [50] = 5.809184 
+Rapidity [51] = 6.054408 
+Rapidity [52] = 6.089460 
+Rapidity [53] = 6.315326 
+Rapidity [54] = 6.355020 
+Rapidity [55] = 6.606942 
+Rapidity [56] = 7.023281 
+Rapidity [57] = 7.207654 
+Rapidity [58] = 7.377113 
+Rapidity [59] = 7.384171 
+Rapidity [60] = 7.450065 
+Rapidity [61] = 7.944250 
+Rapidity [62] = 8.253233 
+Rapidity [63] = 8.473813 
+Rapidity [64] = 8.663195 
+
+
+
+
+
+
+
+Rapidity [0] = -8.595614 
+Rapidity [1] = -8.294777 
+Rapidity [2] = -7.958164 
+Rapidity [3] = -7.887610 
+Rapidity [4] = -7.525471 
+Rapidity [5] = -7.306523 
+Rapidity [6] = -7.044735 
+Rapidity [7] = -6.964132 
+Rapidity [8] = -6.936100 
+Rapidity [9] = -6.883073 
+Rapidity [10] = -6.775212 
+Rapidity [11] = -6.605255 
+Rapidity [12] = -6.463541 
+Rapidity [13] = -6.442253 
+Rapidity [14] = -6.438133 
+Rapidity [15] = -6.347664 
+Rapidity [16] = -6.233627 
+Rapidity [17] = -6.142271 
+Rapidity [18] = -5.940328 
+Rapidity [19] = -5.798823 
+Rapidity [20] = -5.738009 
+Rapidity [21] = -5.464503 
+Rapidity [22] = -5.457241 
+Rapidity [23] = -5.383073 
+Rapidity [24] = -5.040377 
+Rapidity [25] = -4.684193 
+Rapidity [26] = -4.506203 
+Rapidity [27] = -4.372431 
+Rapidity [28] = -4.320563 
+Rapidity [29] = -4.298736 
+Rapidity [30] = -4.289349 
+Rapidity [31] = -3.538726 
+Rapidity [32] = 9.424399 
+
+
+
+
+
+Rapidity [0] = -9.437964 
+Rapidity [1] = -5.899683 
+Rapidity [2] = -5.860728 
+Rapidity [3] = -5.529197 
+Rapidity [4] = -5.450946 
+Rapidity [5] = -5.292393 
+Rapidity [6] = -5.206881 
+Rapidity [7] = -4.934477 
+Rapidity [8] = -4.790829 
+Rapidity [9] = -4.649217 
+Rapidity [10] = -4.592130 
+Rapidity [11] = -3.857195 
+Rapidity [12] = -3.707230 
+Rapidity [13] = -3.675416 
+Rapidity [14] = 0.645012 
+Rapidity [15] = 1.094812 
+Rapidity [16] = 1.159632 
+Rapidity [17] = 1.300669 
+Rapidity [18] = 1.321804 
+Rapidity [19] = 1.721010 
+Rapidity [20] = 1.900514 
+Rapidity [21] = 1.986109 
+Rapidity [22] = 2.005961 
+Rapidity [23] = 2.096381 
+Rapidity [24] = 2.098729 
+Rapidity [25] = 2.338737 
+Rapidity [26] = 2.388375 
+Rapidity [27] = 2.493024 
+Rapidity [28] = 2.502393 
+Rapidity [29] = 2.638324 
+Rapidity [30] = 2.730843 
+Rapidity [31] = 2.861733 
+Rapidity [32] = 2.898423 
+Rapidity [33] = 2.902958 
+Rapidity [34] = 2.920493 
+Rapidity [35] = 3.275076 
+Rapidity [36] = 3.447472 
+Rapidity [37] = 3.453442 
+Rapidity [38] = 3.484003 
+Rapidity [39] = 3.502841 
+Rapidity [40] = 3.559093 
+Rapidity [41] = 3.577738 
+Rapidity [42] = 3.728871 
+Rapidity [43] = 3.735893 
+Rapidity [44] = 3.753152 
+Rapidity [45] = 3.874500 
+Rapidity [46] = 3.885653 
+Rapidity [47] = 3.961929 
+Rapidity [48] = 4.006821 
+Rapidity [49] = 4.103620 
+Rapidity [50] = 4.249299 
+Rapidity [51] = 4.250638 
+Rapidity [52] = 4.277166 
+Rapidity [53] = 4.345689 
+Rapidity [54] = 4.411932 
+Rapidity [55] = 4.418299 
+Rapidity [56] = 4.590062 
+Rapidity [57] = 4.602473 
+Rapidity [58] = 4.632935 
+Rapidity [59] = 4.694604 
+Rapidity [60] = 4.825595 
+Rapidity [61] = 4.883632 
+Rapidity [62] = 4.946040 
+Rapidity [63] = 4.987484 
+Rapidity [64] = 5.141607 
+Rapidity [65] = 5.167593 
+Rapidity [66] = 5.237224 
+Rapidity [67] = 5.394876 
+Rapidity [68] = 5.470443 
+Rapidity [69] = 5.580865 
+Rapidity [70] = 5.752379 
+Rapidity [71] = 5.766828 
+Rapidity [72] = 5.890896 
+Rapidity [73] = 5.930258 
+Rapidity [74] = 6.028981 
+Rapidity [75] = 6.245910 
+Rapidity [76] = 6.290117 
+Rapidity [77] = 6.345170 
+Rapidity [78] = 6.400644 
+Rapidity [79] = 6.460533 
+Rapidity [80] = 6.462826 
+Rapidity [81] = 6.542783 
+Rapidity [82] = 6.579123 
+Rapidity [83] = 6.767985 
+Rapidity [84] = 7.107477 
+Rapidity [85] = 7.125627 
+Rapidity [86] = 7.748353 
+Rapidity [87] = 7.900604 
+Rapidity [88] = 7.917374 
+Rapidity [89] = 8.360011 
+Rapidity [90] = 8.747825 
+Rapidity [91] = 8.900205 
+Rapidity [92] = 9.372358 
+
+Rapidity [0] = -9.440807 
+Rapidity [1] = -9.364678 
+Rapidity [2] = -8.186376 
+Rapidity [3] = 1.018324 
+Rapidity [4] = 2.006038 
+Rapidity [5] = 2.530320 
+Rapidity [6] = 2.757822 
+Rapidity [7] = 2.815184 
+Rapidity [8] = 3.158285 
+Rapidity [9] = 3.296648 
+Rapidity [10] = 4.006497 
+Rapidity [11] = 4.097029 
+Rapidity [12] = 4.309965 
+Rapidity [13] = 4.400148 
+Rapidity [14] = 4.573691 
+Rapidity [15] = 4.886820 
+Rapidity [16] = 5.189844 
+Rapidity [17] = 5.392654 
+Rapidity [18] = 5.416013 
+Rapidity [19] = 5.895220 
+Rapidity [20] = 6.195140 
+Rapidity [21] = 6.483402 
+Rapidity [22] = 6.654011 
+Rapidity [23] = 6.862340 
+Rapidity [24] = 7.168008 
+Rapidity [25] = 7.272668 
+Rapidity [26] = 7.284510 
+Rapidity [27] = 7.715776 
+Rapidity [28] = 8.758784 
+Rapidity [29] = 8.941280 
+
+
+
+
+
+
+
+
+
+
+
+Rapidity [0] = -9.420933 
+Rapidity [1] = -0.650331 
+Rapidity [2] = 1.410537 
+Rapidity [3] = 1.778380 
+Rapidity [4] = 1.939519 
+Rapidity [5] = 2.144479 
+Rapidity [6] = 2.353843 
+Rapidity [7] = 2.680265 
+Rapidity [8] = 3.067846 
+Rapidity [9] = 3.192575 
+Rapidity [10] = 3.281748 
+Rapidity [11] = 3.342018 
+Rapidity [12] = 3.388987 
+Rapidity [13] = 3.482363 
+Rapidity [14] = 3.658354 
+Rapidity [15] = 3.991259 
+Rapidity [16] = 4.134498 
+Rapidity [17] = 4.485525 
+Rapidity [18] = 4.857905 
+Rapidity [19] = 4.878955 
+Rapidity [20] = 4.985991 
+Rapidity [21] = 5.034858 
+Rapidity [22] = 5.479553 
+Rapidity [23] = 5.528007 
+Rapidity [24] = 5.528204 
+Rapidity [25] = 5.907998 
+Rapidity [26] = 6.162833 
+Rapidity [27] = 7.859230 
+Rapidity [28] = 7.914426 
+Rapidity [29] = 8.077507 
+Rapidity [30] = 8.145288 
+Rapidity [31] = 8.241709 
+Rapidity [32] = 8.497216 
+Rapidity [33] = 8.621112 
+Rapidity [34] = 9.008167 
+
+
+
+
+
+
+
+Rapidity [0] = -9.486631 
+Rapidity [1] = 2.600517 
+Rapidity [2] = 6.190015 
+Rapidity [3] = 8.841396 
+Rapidity [4] = 8.927945 
+
+
+Rapidity [0] = -9.495007 
+Rapidity [1] = -5.420294 
+Rapidity [2] = -4.664452 
+Rapidity [3] = -4.537554 
+Rapidity [4] = -4.476458 
+Rapidity [5] = -4.375352 
+Rapidity [6] = -4.030933 
+Rapidity [7] = -4.000856 
+Rapidity [8] = -3.895524 
+Rapidity [9] = -3.625316 
+Rapidity [10] = -3.553928 
+Rapidity [11] = -3.544637 
+Rapidity [12] = -3.404536 
+Rapidity [13] = -3.221573 
+Rapidity [14] = -3.197271 
+Rapidity [15] = -3.058896 
+Rapidity [16] = -2.997970 
+Rapidity [17] = -2.715141 
+Rapidity [18] = -2.676049 
+Rapidity [19] = -2.550630 
+Rapidity [20] = -2.416651 
+Rapidity [21] = -2.376814 
+Rapidity [22] = -2.318669 
+Rapidity [23] = -2.246574 
+Rapidity [24] = -2.205598 
+Rapidity [25] = -2.191649 
+Rapidity [26] = -1.919861 
+Rapidity [27] = -1.916632 
+Rapidity [28] = -1.885691 
+Rapidity [29] = -1.806051 
+Rapidity [30] = -1.786364 
+Rapidity [31] = -1.550602 
+Rapidity [32] = -1.300769 
+Rapidity [33] = -1.225213 
+Rapidity [34] = -1.158151 
+Rapidity [35] = -1.148400 
+Rapidity [36] = -1.112902 
+Rapidity [37] = -0.997898 
+Rapidity [38] = -0.984975 
+Rapidity [39] = -0.854433 
+Rapidity [40] = -0.843704 
+Rapidity [41] = -0.659108 
+Rapidity [42] = -0.465517 
+Rapidity [43] = -0.464400 
+Rapidity [44] = -0.408936 
+Rapidity [45] = -0.396089 
+Rapidity [46] = -0.379567 
+Rapidity [47] = -0.376521 
+Rapidity [48] = -0.308470 
+Rapidity [49] = -0.297032 
+Rapidity [50] = -0.201790 
+Rapidity [51] = -0.117218 
+Rapidity [52] = -0.035086 
+Rapidity [53] = -0.026002 
+Rapidity [54] = 0.000515 
+Rapidity [55] = 0.008898 
+Rapidity [56] = 0.068951 
+Rapidity [57] = 0.085900 
+Rapidity [58] = 0.339670 
+Rapidity [59] = 0.371290 
+Rapidity [60] = 0.459982 
+Rapidity [61] = 0.487364 
+Rapidity [62] = 0.570694 
+Rapidity [63] = 0.768152 
+Rapidity [64] = 0.852415 
+Rapidity [65] = 0.932949 
+Rapidity [66] = 0.984730 
+Rapidity [67] = 0.992415 
+Rapidity [68] = 1.006171 
+Rapidity [69] = 1.033310 
+Rapidity [70] = 1.048146 
+Rapidity [71] = 1.357128 
+Rapidity [72] = 1.539291 
+Rapidity [73] = 1.571215 
+Rapidity [74] = 1.712181 
+Rapidity [75] = 1.802744 
+Rapidity [76] = 1.819439 
+Rapidity [77] = 1.895212 
+Rapidity [78] = 1.896942 
+Rapidity [79] = 1.949407 
+Rapidity [80] = 1.983896 
+Rapidity [81] = 1.984859 
+Rapidity [82] = 1.994329 
+Rapidity [83] = 2.077706 
+Rapidity [84] = 2.165833 
+Rapidity [85] = 2.209537 
+Rapidity [86] = 2.267593 
+Rapidity [87] = 2.278439 
+Rapidity [88] = 2.344793 
+Rapidity [89] = 2.499072 
+Rapidity [90] = 2.525432 
+Rapidity [91] = 2.587118 
+Rapidity [92] = 2.672961 
+Rapidity [93] = 2.983686 
+Rapidity [94] = 3.041793 
+Rapidity [95] = 3.044467 
+Rapidity [96] = 3.111779 
+Rapidity [97] = 3.171266 
+Rapidity [98] = 3.205274 
+Rapidity [99] = 3.487474 
+Rapidity [100] = 3.500684 
+Rapidity [101] = 3.618923 
+Rapidity [102] = 3.712798 
+Rapidity [103] = 3.846077 
+Rapidity [104] = 3.856136 
+Rapidity [105] = 4.319500 
+Rapidity [106] = 4.410702 
+Rapidity [107] = 4.428605 
+Rapidity [108] = 4.465202 
+Rapidity [109] = 4.596343 
+Rapidity [110] = 4.714927 
+Rapidity [111] = 4.756803 
+Rapidity [112] = 4.913716 
+Rapidity [113] = 4.944647 
+Rapidity [114] = 5.063069 
+Rapidity [115] = 5.064064 
+Rapidity [116] = 5.103838 
+Rapidity [117] = 5.324590 
+Rapidity [118] = 5.377335 
+Rapidity [119] = 5.445990 
+Rapidity [120] = 5.476345 
+Rapidity [121] = 5.495207 
+Rapidity [122] = 5.498306 
+Rapidity [123] = 5.517993 
+Rapidity [124] = 5.529431 
+Rapidity [125] = 5.834231 
+Rapidity [126] = 5.876475 
+Rapidity [127] = 5.905779 
+Rapidity [128] = 5.942289 
+Rapidity [129] = 5.949745 
+Rapidity [130] = 6.062063 
+Rapidity [131] = 6.356689 
+Rapidity [132] = 6.522411 
+Rapidity [133] = 6.583094 
+Rapidity [134] = 6.607114 
+Rapidity [135] = 6.648545 
+Rapidity [136] = 6.954166 
+Rapidity [137] = 7.133396 
+Rapidity [138] = 7.202202 
+Rapidity [139] = 7.295675 
+Rapidity [140] = 7.754161 
+Rapidity [141] = 7.767419 
+Rapidity [142] = 7.770084 
+Rapidity [143] = 7.944061 
+Rapidity [144] = 8.067692 
+Rapidity [145] = 8.069773 
+Rapidity [146] = 8.133284 
+Rapidity [147] = 8.236207 
+Rapidity [148] = 8.489688 
+
+
+
+
+
+
+Rapidity [0] = -10.087563 
+Rapidity [1] = -8.884862 
+Rapidity [2] = -6.501541 
+Rapidity [3] = -6.463988 
+Rapidity [4] = -6.381384 
+Rapidity [5] = -6.330854 
+Rapidity [6] = -6.220621 
+Rapidity [7] = -6.068637 
+Rapidity [8] = -5.954214 
+Rapidity [9] = -5.792750 
+Rapidity [10] = -5.505119 
+Rapidity [11] = -5.130050 
+Rapidity [12] = -4.966616 
+Rapidity [13] = -4.798113 
+Rapidity [14] = -4.599594 
+Rapidity [15] = -4.435958 
+Rapidity [16] = -4.232109 
+Rapidity [17] = -3.800713 
+Rapidity [18] = -3.318589 
+Rapidity [19] = -3.315725 
+Rapidity [20] = -2.984583 
+Rapidity [21] = -2.818710 
+Rapidity [22] = -2.686838 
+Rapidity [23] = -2.611790 
+Rapidity [24] = -2.521944 
+Rapidity [25] = -2.472088 
+Rapidity [26] = -2.139040 
+Rapidity [27] = -2.092848 
+Rapidity [28] = -1.590816 
+Rapidity [29] = -1.589250 
+Rapidity [30] = -1.201699 
+Rapidity [31] = -1.048824 
+Rapidity [32] = -0.950513 
+Rapidity [33] = -0.583896 
+Rapidity [34] = -0.325326 
+Rapidity [35] = 0.006888 
+Rapidity [36] = 2.196876 
+Rapidity [37] = 3.164397 
+Rapidity [38] = 3.194764 
+Rapidity [39] = 4.232423 
+Rapidity [40] = 4.345122 
+Rapidity [41] = 5.028931 
+Rapidity [42] = 5.165909 
+Rapidity [43] = 5.199168 
+Rapidity [44] = 5.339266 
+Rapidity [45] = 5.444529 
+Rapidity [46] = 5.486660 
+Rapidity [47] = 5.511158 
+Rapidity [48] = 5.576234 
+Rapidity [49] = 5.633597 
+Rapidity [50] = 5.718740 
+Rapidity [51] = 5.765316 
+Rapidity [52] = 5.797210 
+Rapidity [53] = 5.900675 
+Rapidity [54] = 6.138262 
+Rapidity [55] = 6.185386 
+Rapidity [56] = 6.219940 
+Rapidity [57] = 6.513064 
+Rapidity [58] = 6.733164 
+Rapidity [59] = 6.786605 
+Rapidity [60] = 7.086920 
+Rapidity [61] = 7.138330 
+Rapidity [62] = 7.175185 
+Rapidity [63] = 7.208413 
+Rapidity [64] = 7.500538 
+Rapidity [65] = 8.073388 
+Rapidity [66] = 8.097201 
+Rapidity [67] = 8.121942 
+Rapidity [68] = 8.628333 
+
+
+
+
+
+Rapidity [0] = -9.493414 
+Rapidity [1] = -4.136933 
+Rapidity [2] = -3.468460 
+Rapidity [3] = -3.300306 
+Rapidity [4] = -3.242494 
+Rapidity [5] = -3.023781 
+Rapidity [6] = -2.586526 
+Rapidity [7] = -2.178492 
+Rapidity [8] = -2.028025 
+Rapidity [9] = -1.701360 
+Rapidity [10] = -1.565515 
+Rapidity [11] = -1.421004 
+Rapidity [12] = -1.187154 
+Rapidity [13] = -0.052910 
+Rapidity [14] = 0.161748 
+Rapidity [15] = 0.283491 
+Rapidity [16] = 0.310091 
+Rapidity [17] = 0.602041 
+Rapidity [18] = 0.787334 
+Rapidity [19] = 0.794284 
+Rapidity [20] = 0.914196 
+Rapidity [21] = 0.967148 
+Rapidity [22] = 2.158684 
+Rapidity [23] = 2.249149 
+Rapidity [24] = 2.303951 
+Rapidity [25] = 2.324995 
+Rapidity [26] = 2.688497 
+Rapidity [27] = 2.778369 
+Rapidity [28] = 2.867912 
+Rapidity [29] = 2.949122 
+Rapidity [30] = 3.101780 
+Rapidity [31] = 3.179273 
+Rapidity [32] = 3.430895 
+Rapidity [33] = 3.537202 
+Rapidity [34] = 3.601199 
+Rapidity [35] = 3.624910 
+Rapidity [36] = 3.856417 
+Rapidity [37] = 3.895877 
+Rapidity [38] = 3.926660 
+Rapidity [39] = 4.035831 
+Rapidity [40] = 4.189476 
+Rapidity [41] = 4.192428 
+Rapidity [42] = 4.645562 
+Rapidity [43] = 4.782812 
+Rapidity [44] = 5.065923 
+Rapidity [45] = 5.241384 
+Rapidity [46] = 5.328415 
+Rapidity [47] = 5.457837 
+Rapidity [48] = 6.363566 
+Rapidity [49] = 6.452015 
+Rapidity [50] = 6.553983 
+Rapidity [51] = 6.620751 
+Rapidity [52] = 6.638913 
+Rapidity [53] = 6.684507 
+Rapidity [54] = 6.910558 
+Rapidity [55] = 6.992499 
+Rapidity [56] = 7.042414 
+Rapidity [57] = 7.402899 
+Rapidity [58] = 7.468151 
+Rapidity [59] = 7.488665 
+Rapidity [60] = 7.725171 
+Rapidity [61] = 7.757166 
+Rapidity [62] = 7.961036 
+Rapidity [63] = 8.317318 
+
+
+
+
+
+
+
+
+
+
+Rapidity [0] = -8.745082 
+Rapidity [1] = -8.467115 
+Rapidity [2] = -8.266936 
+Rapidity [3] = -7.830622 
+Rapidity [4] = -7.675882 
+Rapidity [5] = -7.346627 
+Rapidity [6] = -6.691165 
+Rapidity [7] = -6.673518 
+Rapidity [8] = -6.490216 
+Rapidity [9] = -6.482914 
+Rapidity [10] = -6.417068 
+Rapidity [11] = -6.263547 
+Rapidity [12] = -6.209765 
+Rapidity [13] = -5.849644 
+Rapidity [14] = -5.667363 
+Rapidity [15] = -5.633781 
+Rapidity [16] = -5.465559 
+Rapidity [17] = -5.340846 
+Rapidity [18] = -5.108371 
+Rapidity [19] = -4.702793 
+Rapidity [20] = -4.584131 
+Rapidity [21] = -4.553630 
+Rapidity [22] = -4.467342 
+Rapidity [23] = -4.363418 
+Rapidity [24] = -4.326869 
+Rapidity [25] = -4.272307 
+Rapidity [26] = -4.251842 
+Rapidity [27] = -3.916360 
+Rapidity [28] = -3.487217 
+Rapidity [29] = -3.099287 
+Rapidity [30] = 2.811121 
+Rapidity [31] = 3.037076 
+Rapidity [32] = 3.286383 
+Rapidity [33] = 3.426131 
+Rapidity [34] = 3.906728 
+Rapidity [35] = 3.946612 
+Rapidity [36] = 4.276318 
+Rapidity [37] = 4.426175 
+Rapidity [38] = 4.556794 
+Rapidity [39] = 4.671212 
+Rapidity [40] = 4.854446 
+Rapidity [41] = 4.927895 
+Rapidity [42] = 5.164851 
+Rapidity [43] = 5.583977 
+Rapidity [44] = 5.612386 
+Rapidity [45] = 5.650960 
+Rapidity [46] = 5.666497 
+Rapidity [47] = 5.680036 
+Rapidity [48] = 5.690664 
+Rapidity [49] = 5.720296 
+Rapidity [50] = 5.817078 
+Rapidity [51] = 6.020222 
+Rapidity [52] = 6.041985 
+Rapidity [53] = 6.090851 
+Rapidity [54] = 6.091272 
+Rapidity [55] = 6.175626 
+Rapidity [56] = 6.197280 
+Rapidity [57] = 6.203892 
+Rapidity [58] = 6.325213 
+Rapidity [59] = 6.365367 
+Rapidity [60] = 6.384015 
+Rapidity [61] = 6.492479 
+Rapidity [62] = 6.507312 
+Rapidity [63] = 6.812095 
+Rapidity [64] = 6.819515 
+Rapidity [65] = 6.911720 
+Rapidity [66] = 7.232662 
+Rapidity [67] = 7.266981 
+Rapidity [68] = 7.356420 
+Rapidity [69] = 7.563956 
+Rapidity [70] = 7.612763 
+Rapidity [71] = 7.643570 
+Rapidity [72] = 7.767825 
+Rapidity [73] = 8.025056 
+Rapidity [74] = 8.177053 
+Rapidity [75] = 8.314740 
+Rapidity [76] = 8.809134 
+Rapidity [77] = 9.308198 
+
+
+
+
+
+Rapidity [0] = -9.385688 
+Rapidity [1] = -6.410135 
+Rapidity [2] = -5.631171 
+Rapidity [3] = -5.376774 
+Rapidity [4] = -5.370302 
+Rapidity [5] = -5.058846 
+Rapidity [6] = -5.050203 
+Rapidity [7] = -5.045379 
+Rapidity [8] = -5.030710 
+Rapidity [9] = -4.937881 
+Rapidity [10] = -4.890291 
+Rapidity [11] = -4.436805 
+Rapidity [12] = -4.350035 
+Rapidity [13] = -4.047720 
+Rapidity [14] = -3.334454 
+Rapidity [15] = -2.311835 
+Rapidity [16] = -1.533597 
+Rapidity [17] = -1.229142 
+Rapidity [18] = -0.717858 
+Rapidity [19] = -0.599420 
+Rapidity [20] = -0.552159 
+Rapidity [21] = -0.247483 
+Rapidity [22] = 0.098621 
+Rapidity [23] = 0.202137 
+Rapidity [24] = 0.636088 
+Rapidity [25] = 0.956105 
+Rapidity [26] = 2.194001 
+Rapidity [27] = 2.228550 
+Rapidity [28] = 2.554372 
+Rapidity [29] = 3.248493 
+Rapidity [30] = 3.344795 
+Rapidity [31] = 3.361810 
+Rapidity [32] = 3.415448 
+Rapidity [33] = 3.421930 
+Rapidity [34] = 3.439655 
+Rapidity [35] = 3.452733 
+Rapidity [36] = 3.581693 
+Rapidity [37] = 3.606510 
+Rapidity [38] = 3.703348 
+Rapidity [39] = 3.706813 
+Rapidity [40] = 3.731247 
+Rapidity [41] = 3.781697 
+Rapidity [42] = 3.913692 
+Rapidity [43] = 3.922627 
+Rapidity [44] = 4.051165 
+Rapidity [45] = 4.406016 
+Rapidity [46] = 4.429857 
+Rapidity [47] = 4.589176 
+Rapidity [48] = 4.716448 
+Rapidity [49] = 4.720355 
+Rapidity [50] = 4.948301 
+Rapidity [51] = 5.097496 
+Rapidity [52] = 5.097611 
+Rapidity [53] = 5.333173 
+Rapidity [54] = 5.700410 
+Rapidity [55] = 6.121982 
+Rapidity [56] = 7.389227 
+Rapidity [57] = 8.368814 
+Rapidity [58] = 8.884562 
+Rapidity [59] = 9.055479 
+Rapidity [60] = 9.173217 
+Rapidity [61] = 9.973598 
+
+
+
+Rapidity [0] = -8.895812 
+Rapidity [1] = -8.575552 
+Rapidity [2] = -8.485170 
+Rapidity [3] = -8.479858 
+Rapidity [4] = -8.014268 
+Rapidity [5] = -7.702483 
+Rapidity [6] = -7.687737 
+Rapidity [7] = -7.580835 
+Rapidity [8] = -7.477389 
+Rapidity [9] = -7.160913 
+Rapidity [10] = -7.156432 
+Rapidity [11] = -7.007998 
+Rapidity [12] = -6.969018 
+Rapidity [13] = -6.958487 
+Rapidity [14] = -6.635812 
+Rapidity [15] = -6.508643 
+Rapidity [16] = -6.470519 
+Rapidity [17] = -6.236129 
+Rapidity [18] = -6.182099 
+Rapidity [19] = -6.039958 
+Rapidity [20] = -5.651547 
+Rapidity [21] = -5.533285 
+Rapidity [22] = -5.491128 
+Rapidity [23] = -5.287878 
+Rapidity [24] = -5.286367 
+Rapidity [25] = -5.045234 
+Rapidity [26] = -4.978975 
+Rapidity [27] = -4.862520 
+Rapidity [28] = -4.775838 
+Rapidity [29] = -4.775828 
+Rapidity [30] = -4.649250 
+Rapidity [31] = -4.569892 
+Rapidity [32] = -4.557485 
+Rapidity [33] = -4.550952 
+Rapidity [34] = -4.487766 
+Rapidity [35] = -4.258553 
+Rapidity [36] = -4.109903 
+Rapidity [37] = -3.904448 
+Rapidity [38] = -3.683422 
+Rapidity [39] = -3.640317 
+Rapidity [40] = -3.634852 
+Rapidity [41] = -3.606746 
+Rapidity [42] = -3.466542 
+Rapidity [43] = -3.343786 
+Rapidity [44] = -3.230783 
+Rapidity [45] = -3.147642 
+Rapidity [46] = -2.975699 
+Rapidity [47] = -2.766697 
+Rapidity [48] = -2.742985 
+Rapidity [49] = -2.471722 
+Rapidity [50] = -2.445497 
+Rapidity [51] = -2.153058 
+Rapidity [52] = -2.129401 
+Rapidity [53] = -1.514318 
+Rapidity [54] = -0.915331 
+Rapidity [55] = -0.095250 
+Rapidity [56] = 1.088623 
+Rapidity [57] = 1.437272 
+Rapidity [58] = 6.125184 
+Rapidity [59] = 6.191746 
+Rapidity [60] = 6.609367 
+Rapidity [61] = 6.755182 
+Rapidity [62] = 6.975530 
+Rapidity [63] = 7.117523 
+Rapidity [64] = 7.809017 
+Rapidity [65] = 7.980268 
+Rapidity [66] = 8.443195 
+Rapidity [67] = 8.899642 
+Rapidity [68] = 9.022410 
+
+
+
+
+
+Rapidity [0] = -9.388677 
+Rapidity [1] = -1.819310 
+Rapidity [2] = -1.748181 
+Rapidity [3] = -1.159058 
+Rapidity [4] = -1.020295 
+Rapidity [5] = -0.969058 
+Rapidity [6] = -0.537265 
+Rapidity [7] = -0.478560 
+Rapidity [8] = -0.305809 
+Rapidity [9] = -0.230947 
+Rapidity [10] = -0.145543 
+Rapidity [11] = -0.102530 
+Rapidity [12] = -0.006750 
+Rapidity [13] = 0.040507 
+Rapidity [14] = 0.265580 
+Rapidity [15] = 0.286181 
+Rapidity [16] = 0.593359 
+Rapidity [17] = 0.870293 
+Rapidity [18] = 0.908510 
+Rapidity [19] = 0.936700 
+Rapidity [20] = 0.953825 
+Rapidity [21] = 0.962593 
+Rapidity [22] = 1.122756 
+Rapidity [23] = 1.269218 
+Rapidity [24] = 1.344512 
+Rapidity [25] = 1.626887 
+Rapidity [26] = 1.674706 
+Rapidity [27] = 1.690099 
+Rapidity [28] = 1.897557 
+Rapidity [29] = 1.913975 
+Rapidity [30] = 1.938055 
+Rapidity [31] = 1.958386 
+Rapidity [32] = 1.992964 
+Rapidity [33] = 2.085836 
+Rapidity [34] = 2.091738 
+Rapidity [35] = 2.201822 
+Rapidity [36] = 2.297362 
+Rapidity [37] = 2.389446 
+Rapidity [38] = 2.493258 
+Rapidity [39] = 2.588570 
+Rapidity [40] = 2.849131 
+Rapidity [41] = 3.004872 
+Rapidity [42] = 3.093817 
+Rapidity [43] = 3.186907 
+Rapidity [44] = 3.261331 
+Rapidity [45] = 3.267197 
+Rapidity [46] = 3.759830 
+Rapidity [47] = 3.908313 
+Rapidity [48] = 4.021925 
+Rapidity [49] = 4.365130 
+Rapidity [50] = 4.509369 
+Rapidity [51] = 4.564382 
+Rapidity [52] = 5.028519 
+Rapidity [53] = 5.174440 
+Rapidity [54] = 5.349308 
+Rapidity [55] = 5.356620 
+Rapidity [56] = 5.357687 
+Rapidity [57] = 5.624816 
+Rapidity [58] = 5.639915 
+Rapidity [59] = 5.796632 
+Rapidity [60] = 5.801196 
+Rapidity [61] = 5.953509 
+Rapidity [62] = 6.063945 
+Rapidity [63] = 6.147540 
+Rapidity [64] = 6.320248 
+Rapidity [65] = 6.381937 
+Rapidity [66] = 6.640036 
+Rapidity [67] = 7.104577 
+Rapidity [68] = 7.552211 
+Rapidity [69] = 7.601720 
+Rapidity [70] = 7.660789 
+Rapidity [71] = 7.687089 
+Rapidity [72] = 7.945465 
+Rapidity [73] = 8.175857 
+Rapidity [74] = 8.890767 
+
+
+
+
+Rapidity [0] = -9.263807 
+Rapidity [1] = -9.015873 
+Rapidity [2] = -8.119996 
+Rapidity [3] = -7.850938 
+Rapidity [4] = -7.744155 
+Rapidity [5] = -7.737819 
+Rapidity [6] = -7.684684 
+Rapidity [7] = -7.561990 
+Rapidity [8] = -7.448566 
+Rapidity [9] = -7.375732 
+Rapidity [10] = -7.078505 
+Rapidity [11] = -6.929715 
+Rapidity [12] = -6.300052 
+Rapidity [13] = -6.149703 
+Rapidity [14] = -6.125159 
+Rapidity [15] = -6.037083 
+Rapidity [16] = -5.741901 
+Rapidity [17] = -5.729898 
+Rapidity [18] = -5.725403 
+Rapidity [19] = -5.668832 
+Rapidity [20] = -5.496058 
+Rapidity [21] = -5.459832 
+Rapidity [22] = -5.237715 
+Rapidity [23] = -5.071333 
+Rapidity [24] = -5.039844 
+Rapidity [25] = -4.951458 
+Rapidity [26] = -4.930160 
+Rapidity [27] = -4.916546 
+Rapidity [28] = -4.821049 
+Rapidity [29] = -4.810062 
+Rapidity [30] = -4.708852 
+Rapidity [31] = -4.489958 
+Rapidity [32] = -4.483783 
+Rapidity [33] = -4.399029 
+Rapidity [34] = -4.395429 
+Rapidity [35] = -4.248848 
+Rapidity [36] = -4.217246 
+Rapidity [37] = -4.212242 
+Rapidity [38] = -4.164886 
+Rapidity [39] = -4.159197 
+Rapidity [40] = -4.146252 
+Rapidity [41] = -4.109149 
+Rapidity [42] = -4.048256 
+Rapidity [43] = -3.881263 
+Rapidity [44] = -3.880049 
+Rapidity [45] = -3.812026 
+Rapidity [46] = -3.758037 
+Rapidity [47] = -3.607330 
+Rapidity [48] = -3.556298 
+Rapidity [49] = -3.483646 
+Rapidity [50] = -3.306771 
+Rapidity [51] = -3.278091 
+Rapidity [52] = -3.226208 
+Rapidity [53] = -3.190736 
+Rapidity [54] = -3.017746 
+Rapidity [55] = -3.012786 
+Rapidity [56] = -2.937897 
+Rapidity [57] = -2.933266 
+Rapidity [58] = -2.874228 
+Rapidity [59] = -2.871679 
+Rapidity [60] = -2.616034 
+Rapidity [61] = -2.521976 
+Rapidity [62] = -2.423072 
+Rapidity [63] = -2.149108 
+Rapidity [64] = -1.724151 
+Rapidity [65] = -1.603660 
+Rapidity [66] = -1.553548 
+Rapidity [67] = -1.512616 
+Rapidity [68] = -1.137474 
+Rapidity [69] = -1.058041 
+Rapidity [70] = -0.992972 
+Rapidity [71] = -0.976796 
+Rapidity [72] = -0.924961 
+Rapidity [73] = -0.867307 
+Rapidity [74] = -0.805822 
+Rapidity [75] = -0.661946 
+Rapidity [76] = -0.654926 
+Rapidity [77] = -0.546764 
+Rapidity [78] = -0.521944 
+Rapidity [79] = -0.516364 
+Rapidity [80] = -0.490741 
+Rapidity [81] = -0.379829 
+Rapidity [82] = -0.282140 
+Rapidity [83] = -0.238018 
+Rapidity [84] = -0.212929 
+Rapidity [85] = -0.202354 
+Rapidity [86] = 0.392961 
+Rapidity [87] = 0.589009 
+Rapidity [88] = 0.681724 
+Rapidity [89] = 1.058998 
+Rapidity [90] = 1.488671 
+Rapidity [91] = 1.583255 
+Rapidity [92] = 1.677893 
+Rapidity [93] = 1.731427 
+Rapidity [94] = 1.751541 
+Rapidity [95] = 1.846800 
+Rapidity [96] = 1.945709 
+Rapidity [97] = 1.958942 
+Rapidity [98] = 2.014324 
+Rapidity [99] = 2.139507 
+Rapidity [100] = 2.347023 
+Rapidity [101] = 2.364316 
+Rapidity [102] = 2.374063 
+Rapidity [103] = 2.424893 
+Rapidity [104] = 2.638566 
+Rapidity [105] = 2.773587 
+Rapidity [106] = 2.808504 
+Rapidity [107] = 2.881733 
+Rapidity [108] = 2.922020 
+Rapidity [109] = 3.003080 
+Rapidity [110] = 3.021928 
+Rapidity [111] = 3.097342 
+Rapidity [112] = 3.400169 
+Rapidity [113] = 3.877073 
+Rapidity [114] = 4.053813 
+Rapidity [115] = 4.118912 
+Rapidity [116] = 4.172254 
+Rapidity [117] = 4.310513 
+Rapidity [118] = 4.320561 
+Rapidity [119] = 4.486776 
+Rapidity [120] = 4.553675 
+Rapidity [121] = 4.569230 
+Rapidity [122] = 5.063243 
+Rapidity [123] = 5.478042 
+Rapidity [124] = 9.261881 
+
+
+
+
+Rapidity [0] = -9.438788 
+Rapidity [1] = 3.369765 
+Rapidity [2] = 4.271349 
+Rapidity [3] = 5.142598 
+Rapidity [4] = 5.462876 
+Rapidity [5] = 5.698876 
+Rapidity [6] = 6.868314 
+Rapidity [7] = 7.012532 
+Rapidity [8] = 7.192088 
+Rapidity [9] = 7.560561 
+Rapidity [10] = 8.024389 
+Rapidity [11] = 8.444700 
+Rapidity [12] = 8.725110 
+
+
+
+
+Rapidity [0] = -9.582571 
+Rapidity [1] = -8.390529 
+Rapidity [2] = -7.918455 
+Rapidity [3] = -6.172808 
+Rapidity [4] = -5.611667 
+Rapidity [5] = 2.521630 
+Rapidity [6] = 2.920896 
+Rapidity [7] = 2.923386 
+Rapidity [8] = 3.334602 
+Rapidity [9] = 3.372281 
+Rapidity [10] = 3.403131 
+Rapidity [11] = 3.531052 
+Rapidity [12] = 3.592309 
+Rapidity [13] = 3.612359 
+Rapidity [14] = 3.645959 
+Rapidity [15] = 3.913004 
+Rapidity [16] = 4.098008 
+Rapidity [17] = 4.541100 
+Rapidity [18] = 4.868307 
+Rapidity [19] = 5.291525 
+Rapidity [20] = 5.421084 
+Rapidity [21] = 5.595301 
+Rapidity [22] = 5.640447 
+Rapidity [23] = 6.098738 
+Rapidity [24] = 6.348298 
+Rapidity [25] = 6.473241 
+Rapidity [26] = 6.534892 
+Rapidity [27] = 6.868213 
+Rapidity [28] = 6.917030 
+Rapidity [29] = 6.936569 
+Rapidity [30] = 7.565239 
+Rapidity [31] = 7.911806 
+Rapidity [32] = 8.139004 
+Rapidity [33] = 8.340317 
+Rapidity [34] = 8.527073 
+Rapidity [35] = 8.612449 
+Rapidity [36] = 8.646409 
+Rapidity [37] = 9.640046 
+
+
+
+
+
+Rapidity [0] = -9.480634 
+Rapidity [1] = 3.386181 
+Rapidity [2] = 4.429059 
+Rapidity [3] = 4.512948 
+Rapidity [4] = 4.596613 
+Rapidity [5] = 4.942328 
+Rapidity [6] = 5.049791 
+Rapidity [7] = 5.278107 
+Rapidity [8] = 5.306788 
+Rapidity [9] = 5.521667 
+Rapidity [10] = 5.560432 
+Rapidity [11] = 5.754457 
+Rapidity [12] = 5.777182 
+Rapidity [13] = 5.938165 
+Rapidity [14] = 6.052893 
+Rapidity [15] = 6.172946 
+Rapidity [16] = 6.226997 
+Rapidity [17] = 6.325755 
+Rapidity [18] = 6.346737 
+Rapidity [19] = 6.358591 
+Rapidity [20] = 6.459493 
+Rapidity [21] = 6.538561 
+Rapidity [22] = 6.637858 
+Rapidity [23] = 6.715017 
+Rapidity [24] = 6.828367 
+Rapidity [25] = 6.901203 
+Rapidity [26] = 6.915301 
+Rapidity [27] = 7.087872 
+Rapidity [28] = 7.284731 
+Rapidity [29] = 7.329932 
+Rapidity [30] = 7.375643 
+Rapidity [31] = 7.491352 
+Rapidity [32] = 7.540891 
+Rapidity [33] = 7.578236 
+Rapidity [34] = 8.238580 
+Rapidity [35] = 8.517554 
+Rapidity [36] = 8.991485 
+
+Rapidity [0] = -9.397237 
+Rapidity [1] = 3.518101 
+Rapidity [2] = 3.791685 
+Rapidity [3] = 4.468447 
+Rapidity [4] = 4.589491 
+Rapidity [5] = 5.627602 
+Rapidity [6] = 6.328078 
+Rapidity [7] = 6.412427 
+Rapidity [8] = 6.841767 
+Rapidity [9] = 6.966076 
+Rapidity [10] = 7.371041 
+Rapidity [11] = 7.522673 
+Rapidity [12] = 7.665681 
+Rapidity [13] = 8.288356 
+Rapidity [14] = 8.474915 
+Rapidity [15] = 8.594011 
+Rapidity [16] = 8.617323 
+
+
+
+
+
+
+
+
+
+Rapidity [0] = -9.187052 
+Rapidity [1] = -4.783686 
+Rapidity [2] = -4.263482 
+Rapidity [3] = -3.925479 
+Rapidity [4] = -3.587243 
+Rapidity [5] = -3.555718 
+Rapidity [6] = -3.521398 
+Rapidity [7] = -3.494663 
+Rapidity [8] = -3.407879 
+Rapidity [9] = -2.931692 
+Rapidity [10] = -2.888050 
+Rapidity [11] = -2.859548 
+Rapidity [12] = -2.723686 
+Rapidity [13] = -2.664217 
+Rapidity [14] = -2.547479 
+Rapidity [15] = -2.460979 
+Rapidity [16] = -2.455840 
+Rapidity [17] = -2.432339 
+Rapidity [18] = -2.364226 
+Rapidity [19] = -2.330061 
+Rapidity [20] = -2.190527 
+Rapidity [21] = -2.130269 
+Rapidity [22] = -2.081175 
+Rapidity [23] = -2.050436 
+Rapidity [24] = -2.008183 
+Rapidity [25] = -1.872085 
+Rapidity [26] = -1.675165 
+Rapidity [27] = -1.661771 
+Rapidity [28] = -1.649410 
+Rapidity [29] = -1.501732 
+Rapidity [30] = -1.460130 
+Rapidity [31] = -1.350814 
+Rapidity [32] = -1.291544 
+Rapidity [33] = -1.203410 
+Rapidity [34] = -0.995342 
+Rapidity [35] = -0.989624 
+Rapidity [36] = -0.925526 
+Rapidity [37] = -0.915479 
+Rapidity [38] = -0.686150 
+Rapidity [39] = -0.679280 
+Rapidity [40] = -0.614197 
+Rapidity [41] = -0.545268 
+Rapidity [42] = -0.519156 
+Rapidity [43] = -0.367191 
+Rapidity [44] = -0.302275 
+Rapidity [45] = -0.252657 
+Rapidity [46] = -0.027260 
+Rapidity [47] = -0.002041 
+Rapidity [48] = 0.115235 
+Rapidity [49] = 0.298046 
+Rapidity [50] = 0.369730 
+Rapidity [51] = 0.505096 
+Rapidity [52] = 0.782344 
+Rapidity [53] = 0.814694 
+Rapidity [54] = 1.058997 
+Rapidity [55] = 1.145029 
+Rapidity [56] = 1.157196 
+Rapidity [57] = 1.161548 
+Rapidity [58] = 1.212604 
+Rapidity [59] = 1.252307 
+Rapidity [60] = 1.267863 
+Rapidity [61] = 1.328727 
+Rapidity [62] = 1.442928 
+Rapidity [63] = 1.785135 
+Rapidity [64] = 1.790026 
+Rapidity [65] = 1.890046 
+Rapidity [66] = 2.348798 
+Rapidity [67] = 2.499161 
+Rapidity [68] = 2.512554 
+Rapidity [69] = 2.703512 
+Rapidity [70] = 2.792431 
+Rapidity [71] = 2.905715 
+Rapidity [72] = 3.148680 
+Rapidity [73] = 3.185052 
+Rapidity [74] = 3.229916 
+Rapidity [75] = 3.604206 
+Rapidity [76] = 3.889195 
+Rapidity [77] = 4.439217 
+Rapidity [78] = 4.655910 
+Rapidity [79] = 4.830375 
+Rapidity [80] = 4.868942 
+Rapidity [81] = 5.477447 
+Rapidity [82] = 5.738776 
+Rapidity [83] = 5.754258 
+Rapidity [84] = 5.901189 
+Rapidity [85] = 5.975590 
+Rapidity [86] = 6.151539 
+Rapidity [87] = 6.335591 
+Rapidity [88] = 6.351904 
+Rapidity [89] = 6.424236 
+Rapidity [90] = 6.607015 
+Rapidity [91] = 7.018837 
+Rapidity [92] = 7.118834 
+Rapidity [93] = 7.458576 
+Rapidity [94] = 7.526996 
+Rapidity [95] = 7.806833 
+Rapidity [96] = 7.929368 
+Rapidity [97] = 8.059963 
+Rapidity [98] = 8.685507 
+Rapidity [99] = 9.303642 
+
+
+
+Rapidity [0] = -8.656493 
+Rapidity [1] = -8.444138 
+Rapidity [2] = -8.368113 
+Rapidity [3] = -8.262962 
+Rapidity [4] = -7.953315 
+Rapidity [5] = -7.789459 
+Rapidity [6] = -7.746889 
+Rapidity [7] = -7.706032 
+Rapidity [8] = -6.813356 
+Rapidity [9] = -6.330841 
+Rapidity [10] = 1.323763 
+Rapidity [11] = 1.669451 
+Rapidity [12] = 3.270438 
+Rapidity [13] = 3.309790 
+Rapidity [14] = 4.222737 
+Rapidity [15] = 4.375328 
+Rapidity [16] = 4.976986 
+Rapidity [17] = 5.133121 
+Rapidity [18] = 5.414341 
+Rapidity [19] = 5.659807 
+Rapidity [20] = 5.834871 
+Rapidity [21] = 5.865647 
+Rapidity [22] = 6.431223 
+Rapidity [23] = 7.034666 
+Rapidity [24] = 7.336066 
+Rapidity [25] = 7.349876 
+Rapidity [26] = 8.373750 
+Rapidity [27] = 8.752673 
+Rapidity [28] = 8.925868 
+
+Rapidity [0] = -8.770711 
+Rapidity [1] = -8.737584 
+Rapidity [2] = -8.464074 
+Rapidity [3] = -8.389151 
+Rapidity [4] = -7.567472 
+Rapidity [5] = -6.922615 
+Rapidity [6] = -6.528454 
+Rapidity [7] = -6.440620 
+Rapidity [8] = -5.966671 
+Rapidity [9] = -5.959762 
+Rapidity [10] = -5.766963 
+Rapidity [11] = -5.408000 
+Rapidity [12] = -5.107955 
+Rapidity [13] = -4.790992 
+Rapidity [14] = -4.460356 
+Rapidity [15] = -3.997806 
+Rapidity [16] = -3.989760 
+Rapidity [17] = -3.276725 
+Rapidity [18] = -0.990083 
+Rapidity [19] = -0.684968 
+Rapidity [20] = -0.501194 
+Rapidity [21] = -0.457768 
+Rapidity [22] = -0.422410 
+Rapidity [23] = -0.273053 
+Rapidity [24] = -0.060952 
+Rapidity [25] = -0.026968 
+Rapidity [26] = -0.016698 
+Rapidity [27] = -0.009389 
+Rapidity [28] = 0.221256 
+Rapidity [29] = 0.660119 
+Rapidity [30] = 0.977691 
+Rapidity [31] = 1.058556 
+Rapidity [32] = 1.502931 
+Rapidity [33] = 1.566039 
+Rapidity [34] = 1.782910 
+Rapidity [35] = 1.983368 
+Rapidity [36] = 2.143567 
+Rapidity [37] = 2.318315 
+Rapidity [38] = 2.374192 
+Rapidity [39] = 2.428750 
+Rapidity [40] = 2.700308 
+Rapidity [41] = 2.871991 
+Rapidity [42] = 3.645542 
+Rapidity [43] = 3.853384 
+Rapidity [44] = 3.887277 
+Rapidity [45] = 3.956276 
+Rapidity [46] = 3.968837 
+Rapidity [47] = 4.137281 
+Rapidity [48] = 4.388371 
+Rapidity [49] = 4.551761 
+Rapidity [50] = 4.735945 
+Rapidity [51] = 4.742338 
+Rapidity [52] = 5.051622 
+Rapidity [53] = 5.278457 
+Rapidity [54] = 5.287418 
+Rapidity [55] = 5.292268 
+Rapidity [56] = 5.492060 
+Rapidity [57] = 5.499000 
+Rapidity [58] = 5.605363 
+Rapidity [59] = 5.664186 
+Rapidity [60] = 5.753827 
+Rapidity [61] = 5.923891 
+Rapidity [62] = 5.930979 
+Rapidity [63] = 6.074710 
+Rapidity [64] = 6.160594 
+Rapidity [65] = 6.342023 
+Rapidity [66] = 6.547571 
+Rapidity [67] = 6.792324 
+Rapidity [68] = 6.871143 
+Rapidity [69] = 7.021473 
+Rapidity [70] = 7.117500 
+Rapidity [71] = 7.151358 
+Rapidity [72] = 7.164845 
+Rapidity [73] = 7.228715 
+Rapidity [74] = 7.311116 
+Rapidity [75] = 7.312199 
+Rapidity [76] = 7.465699 
+Rapidity [77] = 7.556394 
+Rapidity [78] = 7.618261 
+Rapidity [79] = 8.040243 
+Rapidity [80] = 8.362353 
+Rapidity [81] = 9.674378 
+
+
+
+
+Rapidity [0] = -9.491718 
+Rapidity [1] = 4.242083 
+Rapidity [2] = 4.940646 
+Rapidity [3] = 5.353955 
+Rapidity [4] = 6.033795 
+Rapidity [5] = 6.196297 
+Rapidity [6] = 6.282359 
+Rapidity [7] = 6.518796 
+Rapidity [8] = 6.702535 
+Rapidity [9] = 7.107068 
+Rapidity [10] = 7.155808 
+Rapidity [11] = 7.293296 
+Rapidity [12] = 7.590252 
+Rapidity [13] = 8.441825 
+Rapidity [14] = 8.481123 
+
+
+Rapidity [0] = -9.495983 
+Rapidity [1] = 2.506527 
+Rapidity [2] = 2.885786 
+Rapidity [3] = 3.096810 
+Rapidity [4] = 3.565143 
+Rapidity [5] = 3.720174 
+Rapidity [6] = 3.779255 
+Rapidity [7] = 3.868148 
+Rapidity [8] = 3.958705 
+Rapidity [9] = 3.973544 
+Rapidity [10] = 4.181736 
+Rapidity [11] = 4.184680 
+Rapidity [12] = 4.385258 
+Rapidity [13] = 5.339351 
+Rapidity [14] = 5.874886 
+Rapidity [15] = 6.005611 
+Rapidity [16] = 6.130852 
+Rapidity [17] = 6.602097 
+Rapidity [18] = 6.628948 
+Rapidity [19] = 6.868609 
+Rapidity [20] = 7.029416 
+Rapidity [21] = 7.201973 
+Rapidity [22] = 7.453287 
+Rapidity [23] = 7.703260 
+Rapidity [24] = 7.886833 
+Rapidity [25] = 7.936820 
+Rapidity [26] = 8.455898 
+
+Rapidity [0] = -9.477364 
+Rapidity [1] = -2.037144 
+Rapidity [2] = -1.860911 
+Rapidity [3] = -1.121647 
+Rapidity [4] = -0.718428 
+Rapidity [5] = -0.503119 
+Rapidity [6] = -0.227152 
+Rapidity [7] = 0.084674 
+Rapidity [8] = 0.259310 
+Rapidity [9] = 1.067892 
+Rapidity [10] = 1.321230 
+Rapidity [11] = 3.528621 
+Rapidity [12] = 4.762251 
+Rapidity [13] = 5.419939 
+Rapidity [14] = 5.676725 
+Rapidity [15] = 6.189604 
+Rapidity [16] = 6.389415 
+Rapidity [17] = 6.651728 
+Rapidity [18] = 6.672168 
+Rapidity [19] = 6.710013 
+Rapidity [20] = 6.823063 
+Rapidity [21] = 6.988988 
+Rapidity [22] = 7.236569 
+Rapidity [23] = 7.527406 
+Rapidity [24] = 7.889326 
+Rapidity [25] = 7.929053 
+Rapidity [26] = 8.053901 
+Rapidity [27] = 8.081534 
+Rapidity [28] = 8.351743 
+Rapidity [29] = 8.491912 
+Rapidity [30] = 8.492768 
+Rapidity [31] = 8.508955 
+Rapidity [32] = 8.793873 
+Rapidity [33] = 9.013156 
+Rapidity [34] = 9.046738 
+
+Rapidity [0] = -10.891596 
+Rapidity [1] = -8.914624 
+Rapidity [2] = -8.894070 
+Rapidity [3] = -7.402051 
+Rapidity [4] = -5.074683 
+Rapidity [5] = -4.601350 
+Rapidity [6] = -4.568658 
+Rapidity [7] = -4.131341 
+Rapidity [8] = -4.090026 
+Rapidity [9] = -3.682092 
+Rapidity [10] = -3.484695 
+Rapidity [11] = -3.076171 
+Rapidity [12] = -3.072715 
+Rapidity [13] = -2.980961 
+Rapidity [14] = -2.926593 
+Rapidity [15] = -2.784412 
+Rapidity [16] = -2.781168 
+Rapidity [17] = -2.689157 
+Rapidity [18] = -2.550359 
+Rapidity [19] = -2.537230 
+Rapidity [20] = -2.481950 
+Rapidity [21] = -2.315654 
+Rapidity [22] = -2.269802 
+Rapidity [23] = -2.215759 
+Rapidity [24] = -2.196812 
+Rapidity [25] = -2.171820 
+Rapidity [26] = -2.110932 
+Rapidity [27] = -2.106388 
+Rapidity [28] = -2.101905 
+Rapidity [29] = -2.048823 
+Rapidity [30] = -2.031098 
+Rapidity [31] = -1.968955 
+Rapidity [32] = -1.898077 
+Rapidity [33] = -1.885067 
+Rapidity [34] = -1.824221 
+Rapidity [35] = -1.777202 
+Rapidity [36] = -1.759655 
+Rapidity [37] = -1.744311 
+Rapidity [38] = -1.717224 
+Rapidity [39] = -1.625486 
+Rapidity [40] = -1.424717 
+Rapidity [41] = -1.343718 
+Rapidity [42] = -1.328381 
+Rapidity [43] = -1.317058 
+Rapidity [44] = -1.257149 
+Rapidity [45] = -1.199560 
+Rapidity [46] = -1.185376 
+Rapidity [47] = -1.181065 
+Rapidity [48] = -1.122529 
+Rapidity [49] = -1.066263 
+Rapidity [50] = -1.013308 
+Rapidity [51] = -0.980686 
+Rapidity [52] = -0.968945 
+Rapidity [53] = -0.968900 
+Rapidity [54] = -0.942737 
+Rapidity [55] = -0.771579 
+Rapidity [56] = -0.742388 
+Rapidity [57] = -0.725308 
+Rapidity [58] = -0.724853 
+Rapidity [59] = -0.710851 
+Rapidity [60] = -0.695260 
+Rapidity [61] = -0.635722 
+Rapidity [62] = -0.608991 
+Rapidity [63] = -0.565473 
+Rapidity [64] = -0.559899 
+Rapidity [65] = -0.553418 
+Rapidity [66] = -0.510709 
+Rapidity [67] = -0.465192 
+Rapidity [68] = -0.442147 
+Rapidity [69] = -0.409659 
+Rapidity [70] = -0.360876 
+Rapidity [71] = -0.339928 
+Rapidity [72] = -0.329328 
+Rapidity [73] = -0.320066 
+Rapidity [74] = -0.280643 
+Rapidity [75] = -0.276065 
+Rapidity [76] = -0.249703 
+Rapidity [77] = -0.223408 
+Rapidity [78] = -0.181382 
+Rapidity [79] = -0.168257 
+Rapidity [80] = -0.130554 
+Rapidity [81] = -0.078390 
+Rapidity [82] = 0.000337 
+Rapidity [83] = 0.060917 
+Rapidity [84] = 0.135658 
+Rapidity [85] = 0.143725 
+Rapidity [86] = 0.242060 
+Rapidity [87] = 0.259475 
+Rapidity [88] = 0.301261 
+Rapidity [89] = 0.310061 
+Rapidity [90] = 0.311888 
+Rapidity [91] = 0.323920 
+Rapidity [92] = 0.335708 
+Rapidity [93] = 0.420046 
+Rapidity [94] = 0.444405 
+Rapidity [95] = 0.460931 
+Rapidity [96] = 0.505142 
+Rapidity [97] = 0.506760 
+Rapidity [98] = 0.518926 
+Rapidity [99] = 0.521605 
+Rapidity [100] = 0.527248 
+Rapidity [101] = 0.545187 
+Rapidity [102] = 0.560034 
+Rapidity [103] = 0.594112 
+Rapidity [104] = 0.685374 
+Rapidity [105] = 0.719432 
+Rapidity [106] = 0.746841 
+Rapidity [107] = 0.797687 
+Rapidity [108] = 0.843832 
+Rapidity [109] = 0.848713 
+Rapidity [110] = 0.870132 
+Rapidity [111] = 0.887922 
+Rapidity [112] = 0.889178 
+Rapidity [113] = 0.936951 
+Rapidity [114] = 0.969829 
+Rapidity [115] = 1.029881 
+Rapidity [116] = 1.030685 
+Rapidity [117] = 1.075396 
+Rapidity [118] = 1.215069 
+Rapidity [119] = 1.225283 
+Rapidity [120] = 1.307495 
+Rapidity [121] = 1.310798 
+Rapidity [122] = 1.453249 
+Rapidity [123] = 1.457665 
+Rapidity [124] = 1.471263 
+Rapidity [125] = 1.492203 
+Rapidity [126] = 1.516660 
+Rapidity [127] = 1.550853 
+Rapidity [128] = 1.554357 
+Rapidity [129] = 1.636335 
+Rapidity [130] = 1.721608 
+Rapidity [131] = 1.737903 
+Rapidity [132] = 1.751475 
+Rapidity [133] = 1.767265 
+Rapidity [134] = 1.813076 
+Rapidity [135] = 1.893058 
+Rapidity [136] = 2.012748 
+Rapidity [137] = 2.092256 
+Rapidity [138] = 2.228760 
+Rapidity [139] = 2.452819 
+Rapidity [140] = 2.485605 
+Rapidity [141] = 2.705157 
+Rapidity [142] = 2.996491 
+Rapidity [143] = 3.026533 
+Rapidity [144] = 3.044264 
+Rapidity [145] = 3.083110 
+Rapidity [146] = 3.161552 
+Rapidity [147] = 3.236015 
+Rapidity [148] = 3.367659 
+Rapidity [149] = 3.374639 
+Rapidity [150] = 3.651047 
+Rapidity [151] = 3.922469 
+Rapidity [152] = 4.266412 
+Rapidity [153] = 4.384681 
+Rapidity [154] = 4.446925 
+Rapidity [155] = 5.194097 
+Rapidity [156] = 5.242156 
+Rapidity [157] = 5.337335 
+Rapidity [158] = 5.517830 
+Rapidity [159] = 5.589016 
+Rapidity [160] = 5.785188 
+Rapidity [161] = 5.822219 
+Rapidity [162] = 5.840061 
+Rapidity [163] = 6.083280 
+Rapidity [164] = 6.152039 
+Rapidity [165] = 6.637208 
+Rapidity [166] = 6.992714 
+Rapidity [167] = 7.463308 
+Rapidity [168] = 8.583786 
+
+
+
+
+
+
+Rapidity [0] = -8.921876 
+Rapidity [1] = -8.490694 
+Rapidity [2] = -8.287977 
+Rapidity [3] = -6.952101 
+Rapidity [4] = -6.254258 
+Rapidity [5] = -6.093712 
+Rapidity [6] = -6.086755 
+Rapidity [7] = -5.962430 
+Rapidity [8] = -5.258333 
+Rapidity [9] = -5.202632 
+Rapidity [10] = -3.989330 
+Rapidity [11] = 9.422789 
+
+Rapidity [0] = -8.998770 
+Rapidity [1] = -7.359817 
+Rapidity [2] = -6.530642 
+Rapidity [3] = -6.233619 
+Rapidity [4] = -6.055279 
+Rapidity [5] = -5.696135 
+Rapidity [6] = -5.639747 
+Rapidity [7] = -5.560190 
+Rapidity [8] = -5.416578 
+Rapidity [9] = -5.311907 
+Rapidity [10] = -5.252021 
+Rapidity [11] = -5.246182 
+Rapidity [12] = -5.170968 
+Rapidity [13] = -5.169261 
+Rapidity [14] = -5.064143 
+Rapidity [15] = -5.011405 
+Rapidity [16] = -4.866026 
+Rapidity [17] = -4.854944 
+Rapidity [18] = -4.839840 
+Rapidity [19] = -4.801510 
+Rapidity [20] = -4.790068 
+Rapidity [21] = -4.786640 
+Rapidity [22] = -4.754140 
+Rapidity [23] = -4.700310 
+Rapidity [24] = -4.685028 
+Rapidity [25] = -4.662422 
+Rapidity [26] = -4.642572 
+Rapidity [27] = -4.631513 
+Rapidity [28] = -4.588515 
+Rapidity [29] = -4.585751 
+Rapidity [30] = -4.577611 
+Rapidity [31] = -4.540921 
+Rapidity [32] = -4.524738 
+Rapidity [33] = -4.488670 
+Rapidity [34] = -4.478702 
+Rapidity [35] = -4.465718 
+Rapidity [36] = -4.442524 
+Rapidity [37] = -4.408880 
+Rapidity [38] = -4.360442 
+Rapidity [39] = -4.301722 
+Rapidity [40] = -4.232231 
+Rapidity [41] = -4.226130 
+Rapidity [42] = -4.188422 
+Rapidity [43] = -4.144982 
+Rapidity [44] = -4.103859 
+Rapidity [45] = -4.076769 
+Rapidity [46] = -4.052612 
+Rapidity [47] = -4.030829 
+Rapidity [48] = -4.026019 
+Rapidity [49] = -4.022842 
+Rapidity [50] = -3.981908 
+Rapidity [51] = -3.964960 
+Rapidity [52] = -3.839815 
+Rapidity [53] = -3.765123 
+Rapidity [54] = -3.742947 
+Rapidity [55] = -3.742792 
+Rapidity [56] = -3.723696 
+Rapidity [57] = -3.722924 
+Rapidity [58] = -3.712573 
+Rapidity [59] = -3.702544 
+Rapidity [60] = -3.693100 
+Rapidity [61] = -3.611696 
+Rapidity [62] = -3.587986 
+Rapidity [63] = -3.583709 
+Rapidity [64] = -3.551810 
+Rapidity [65] = -3.521418 
+Rapidity [66] = -3.450753 
+Rapidity [67] = -3.437811 
+Rapidity [68] = -3.400635 
+Rapidity [69] = -3.340663 
+Rapidity [70] = -3.328272 
+Rapidity [71] = -3.309392 
+Rapidity [72] = -3.266221 
+Rapidity [73] = -3.258968 
+Rapidity [74] = -3.258641 
+Rapidity [75] = -3.251788 
+Rapidity [76] = -3.250237 
+Rapidity [77] = -3.231380 
+Rapidity [78] = -3.187261 
+Rapidity [79] = -3.183066 
+Rapidity [80] = -3.171278 
+Rapidity [81] = -3.096382 
+Rapidity [82] = -3.005097 
+Rapidity [83] = -2.988133 
+Rapidity [84] = -2.970535 
+Rapidity [85] = -2.968124 
+Rapidity [86] = -2.960883 
+Rapidity [87] = -2.944902 
+Rapidity [88] = -2.926908 
+Rapidity [89] = -2.904603 
+Rapidity [90] = -2.881139 
+Rapidity [91] = -2.877879 
+Rapidity [92] = -2.848494 
+Rapidity [93] = -2.819157 
+Rapidity [94] = -2.806343 
+Rapidity [95] = -2.803631 
+Rapidity [96] = -2.778818 
+Rapidity [97] = -2.730010 
+Rapidity [98] = -2.680300 
+Rapidity [99] = -2.660996 
+Rapidity [100] = -2.642217 
+Rapidity [101] = -2.621640 
+Rapidity [102] = -2.618945 
+Rapidity [103] = -2.591144 
+Rapidity [104] = -2.573648 
+Rapidity [105] = -2.521379 
+Rapidity [106] = -2.498060 
+Rapidity [107] = -2.489656 
+Rapidity [108] = -2.469546 
+Rapidity [109] = -2.430665 
+Rapidity [110] = -2.421249 
+Rapidity [111] = -2.379155 
+Rapidity [112] = -2.344322 
+Rapidity [113] = -2.321582 
+Rapidity [114] = -2.309881 
+Rapidity [115] = -2.300505 
+Rapidity [116] = -2.252556 
+Rapidity [117] = -2.243872 
+Rapidity [118] = -2.218571 
+Rapidity [119] = -2.187806 
+Rapidity [120] = -2.168142 
+Rapidity [121] = -2.150991 
+Rapidity [122] = -2.111706 
+Rapidity [123] = -2.100442 
+Rapidity [124] = -2.069687 
+Rapidity [125] = -2.010904 
+Rapidity [126] = -2.007531 
+Rapidity [127] = -1.998755 
+Rapidity [128] = -1.993414 
+Rapidity [129] = -1.988852 
+Rapidity [130] = -1.977365 
+Rapidity [131] = -1.930254 
+Rapidity [132] = -1.922226 
+Rapidity [133] = -1.916687 
+Rapidity [134] = -1.880089 
+Rapidity [135] = -1.873053 
+Rapidity [136] = -1.838101 
+Rapidity [137] = -1.818448 
+Rapidity [138] = -1.802628 
+Rapidity [139] = -1.785909 
+Rapidity [140] = -1.773227 
+Rapidity [141] = -1.769459 
+Rapidity [142] = -1.750083 
+Rapidity [143] = -1.723326 
+Rapidity [144] = -1.684336 
+Rapidity [145] = -1.664380 
+Rapidity [146] = -1.655731 
+Rapidity [147] = -1.654551 
+Rapidity [148] = -1.627700 
+Rapidity [149] = -1.591861 
+Rapidity [150] = -1.548014 
+Rapidity [151] = -1.538644 
+Rapidity [152] = -1.482398 
+Rapidity [153] = -1.480080 
+Rapidity [154] = -1.374617 
+Rapidity [155] = -1.370149 
+Rapidity [156] = -1.362927 
+Rapidity [157] = -1.327282 
+Rapidity [158] = -1.326608 
+Rapidity [159] = -1.303952 
+Rapidity [160] = -1.282777 
+Rapidity [161] = -1.266862 
+Rapidity [162] = -1.263247 
+Rapidity [163] = -1.261722 
+Rapidity [164] = -1.247031 
+Rapidity [165] = -1.226219 
+Rapidity [166] = -1.206442 
+Rapidity [167] = -1.179093 
+Rapidity [168] = -1.174284 
+Rapidity [169] = -1.167032 
+Rapidity [170] = -1.134678 
+Rapidity [171] = -1.131676 
+Rapidity [172] = -1.116033 
+Rapidity [173] = -1.105455 
+Rapidity [174] = -1.070967 
+Rapidity [175] = -1.052364 
+Rapidity [176] = -1.046353 
+Rapidity [177] = -1.045986 
+Rapidity [178] = -0.951098 
+Rapidity [179] = -0.938512 
+Rapidity [180] = -0.906825 
+Rapidity [181] = -0.887745 
+Rapidity [182] = -0.825795 
+Rapidity [183] = -0.825776 
+Rapidity [184] = -0.798424 
+Rapidity [185] = -0.773089 
+Rapidity [186] = -0.769027 
+Rapidity [187] = -0.765946 
+Rapidity [188] = -0.761792 
+Rapidity [189] = -0.754524 
+Rapidity [190] = -0.702204 
+Rapidity [191] = -0.679545 
+Rapidity [192] = -0.670347 
+Rapidity [193] = -0.668466 
+Rapidity [194] = -0.660076 
+Rapidity [195] = -0.632817 
+Rapidity [196] = -0.607028 
+Rapidity [197] = -0.587147 
+Rapidity [198] = -0.558156 
+Rapidity [199] = -0.502309 
+Rapidity [200] = -0.442477 
+Rapidity [201] = -0.412391 
+Rapidity [202] = -0.407743 
+Rapidity [203] = -0.381223 
+Rapidity [204] = -0.361525 
+Rapidity [205] = -0.344744 
+Rapidity [206] = -0.337354 
+Rapidity [207] = -0.284603 
+Rapidity [208] = -0.281159 
+Rapidity [209] = -0.280427 
+Rapidity [210] = -0.243180 
+Rapidity [211] = -0.233203 
+Rapidity [212] = -0.219411 
+Rapidity [213] = -0.145132 
+Rapidity [214] = -0.129766 
+Rapidity [215] = -0.124607 
+Rapidity [216] = -0.119640 
+Rapidity [217] = -0.109519 
+Rapidity [218] = -0.094529 
+Rapidity [219] = -0.085348 
+Rapidity [220] = -0.082390 
+Rapidity [221] = -0.077841 
+Rapidity [222] = -0.072835 
+Rapidity [223] = -0.069402 
+Rapidity [224] = -0.023643 
+Rapidity [225] = -0.022127 
+Rapidity [226] = 0.007030 
+Rapidity [227] = 0.015817 
+Rapidity [228] = 0.060605 
+Rapidity [229] = 0.070398 
+Rapidity [230] = 0.078707 
+Rapidity [231] = 0.101122 
+Rapidity [232] = 0.102312 
+Rapidity [233] = 0.107942 
+Rapidity [234] = 0.121653 
+Rapidity [235] = 0.127545 
+Rapidity [236] = 0.149782 
+Rapidity [237] = 0.264843 
+Rapidity [238] = 0.280635 
+Rapidity [239] = 0.284952 
+Rapidity [240] = 0.351933 
+Rapidity [241] = 0.392834 
+Rapidity [242] = 0.451208 
+Rapidity [243] = 0.490015 
+Rapidity [244] = 0.619116 
+Rapidity [245] = 0.662457 
+Rapidity [246] = 0.668685 
+Rapidity [247] = 0.697187 
+Rapidity [248] = 0.706666 
+Rapidity [249] = 0.717438 
+Rapidity [250] = 0.728467 
+Rapidity [251] = 0.794877 
+Rapidity [252] = 0.845661 
+Rapidity [253] = 0.889021 
+Rapidity [254] = 0.898435 
+Rapidity [255] = 0.898508 
+Rapidity [256] = 0.912132 
+Rapidity [257] = 0.913017 
+Rapidity [258] = 0.950467 
+Rapidity [259] = 0.956596 
+Rapidity [260] = 0.964545 
+Rapidity [261] = 1.041724 
+Rapidity [262] = 1.049419 
+Rapidity [263] = 1.083436 
+Rapidity [264] = 1.090721 
+Rapidity [265] = 1.108841 
+Rapidity [266] = 1.111457 
+Rapidity [267] = 1.217381 
+Rapidity [268] = 1.229101 
+Rapidity [269] = 1.308594 
+Rapidity [270] = 1.333717 
+Rapidity [271] = 1.347660 
+Rapidity [272] = 1.370098 
+Rapidity [273] = 1.400214 
+Rapidity [274] = 1.405654 
+Rapidity [275] = 1.482267 
+Rapidity [276] = 1.512086 
+Rapidity [277] = 1.512635 
+Rapidity [278] = 1.515149 
+Rapidity [279] = 1.551077 
+Rapidity [280] = 1.555255 
+Rapidity [281] = 1.557995 
+Rapidity [282] = 1.560938 
+Rapidity [283] = 1.585486 
+Rapidity [284] = 1.690635 
+Rapidity [285] = 1.693818 
+Rapidity [286] = 1.700838 
+Rapidity [287] = 1.720634 
+Rapidity [288] = 1.776993 
+Rapidity [289] = 1.790479 
+Rapidity [290] = 1.799364 
+Rapidity [291] = 1.803530 
+Rapidity [292] = 1.817858 
+Rapidity [293] = 1.821041 
+Rapidity [294] = 1.834354 
+Rapidity [295] = 1.862030 
+Rapidity [296] = 1.862448 
+Rapidity [297] = 1.872822 
+Rapidity [298] = 1.877010 
+Rapidity [299] = 1.882868 
+Rapidity [300] = 1.909715 
+Rapidity [301] = 1.915607 
+Rapidity [302] = 1.951550 
+Rapidity [303] = 1.980722 
+Rapidity [304] = 2.009039 
+Rapidity [305] = 2.028918 
+Rapidity [306] = 2.029859 
+Rapidity [307] = 2.037129 
+Rapidity [308] = 2.073296 
+Rapidity [309] = 2.085508 
+Rapidity [310] = 2.109982 
+Rapidity [311] = 2.118020 
+Rapidity [312] = 2.120187 
+Rapidity [313] = 2.121121 
+Rapidity [314] = 2.160157 
+Rapidity [315] = 2.217515 
+Rapidity [316] = 2.228856 
+Rapidity [317] = 2.234063 
+Rapidity [318] = 2.235514 
+Rapidity [319] = 2.241149 
+Rapidity [320] = 2.245259 
+Rapidity [321] = 2.247101 
+Rapidity [322] = 2.283419 
+Rapidity [323] = 2.287514 
+Rapidity [324] = 2.288412 
+Rapidity [325] = 2.289702 
+Rapidity [326] = 2.300640 
+Rapidity [327] = 2.301439 
+Rapidity [328] = 2.314123 
+Rapidity [329] = 2.338925 
+Rapidity [330] = 2.341909 
+Rapidity [331] = 2.406652 
+Rapidity [332] = 2.410139 
+Rapidity [333] = 2.417782 
+Rapidity [334] = 2.430108 
+Rapidity [335] = 2.469422 
+Rapidity [336] = 2.484776 
+Rapidity [337] = 2.490249 
+Rapidity [338] = 2.495797 
+Rapidity [339] = 2.511075 
+Rapidity [340] = 2.536780 
+Rapidity [341] = 2.576123 
+Rapidity [342] = 2.605332 
+Rapidity [343] = 2.650498 
+Rapidity [344] = 2.652872 
+Rapidity [345] = 2.662189 
+Rapidity [346] = 2.693223 
+Rapidity [347] = 2.821573 
+Rapidity [348] = 2.827296 
+Rapidity [349] = 2.874644 
+Rapidity [350] = 2.902680 
+Rapidity [351] = 2.922070 
+Rapidity [352] = 2.978186 
+Rapidity [353] = 2.995146 
+Rapidity [354] = 3.039164 
+Rapidity [355] = 3.157893 
+Rapidity [356] = 3.196655 
+Rapidity [357] = 3.241488 
+Rapidity [358] = 3.257085 
+Rapidity [359] = 3.363881 
+Rapidity [360] = 3.541392 
+Rapidity [361] = 3.559569 
+Rapidity [362] = 3.570894 
+Rapidity [363] = 3.669553 
+Rapidity [364] = 3.704472 
+Rapidity [365] = 3.730313 
+Rapidity [366] = 3.800331 
+Rapidity [367] = 3.800533 
+Rapidity [368] = 3.857791 
+Rapidity [369] = 3.964285 
+Rapidity [370] = 3.996537 
+Rapidity [371] = 4.006291 
+Rapidity [372] = 4.011401 
+Rapidity [373] = 4.143235 
+Rapidity [374] = 4.169411 
+Rapidity [375] = 4.233185 
+Rapidity [376] = 4.248860 
+Rapidity [377] = 4.255984 
+Rapidity [378] = 4.289655 
+Rapidity [379] = 4.307019 
+Rapidity [380] = 4.339432 
+Rapidity [381] = 4.392562 
+Rapidity [382] = 4.394526 
+Rapidity [383] = 4.426839 
+Rapidity [384] = 4.450506 
+Rapidity [385] = 4.479688 
+Rapidity [386] = 4.499879 
+Rapidity [387] = 4.507862 
+Rapidity [388] = 4.521988 
+Rapidity [389] = 4.544263 
+Rapidity [390] = 4.577684 
+Rapidity [391] = 4.582234 
+Rapidity [392] = 4.595009 
+Rapidity [393] = 4.613319 
+Rapidity [394] = 4.628148 
+Rapidity [395] = 4.648631 
+Rapidity [396] = 4.672481 
+Rapidity [397] = 4.673084 
+Rapidity [398] = 4.734459 
+Rapidity [399] = 4.751621 
+Rapidity [400] = 4.761008 
+Rapidity [401] = 4.920693 
+Rapidity [402] = 4.940847 
+Rapidity [403] = 4.944549 
+Rapidity [404] = 4.947677 
+Rapidity [405] = 4.958394 
+Rapidity [406] = 4.959628 
+Rapidity [407] = 4.989670 
+Rapidity [408] = 5.013557 
+Rapidity [409] = 5.034340 
+Rapidity [410] = 5.073941 
+Rapidity [411] = 5.125979 
+Rapidity [412] = 5.152952 
+Rapidity [413] = 5.265689 
+Rapidity [414] = 5.296060 
+Rapidity [415] = 5.380852 
+Rapidity [416] = 5.433625 
+Rapidity [417] = 5.663503 
+Rapidity [418] = 5.799243 
+Rapidity [419] = 5.819355 
+Rapidity [420] = 5.848208 
+Rapidity [421] = 5.978949 
+Rapidity [422] = 6.283108 
+Rapidity [423] = 6.668181 
+Rapidity [424] = 6.689192 
+Rapidity [425] = 6.792666 
+Rapidity [426] = 7.452524 
+Rapidity [427] = 7.548127 
+Rapidity [428] = 7.763996 
+Rapidity [429] = 7.857261 
+Rapidity [430] = 8.656139 
+Rapidity [431] = 8.827315 
+
+
+Rapidity [0] = -8.329758 
+Rapidity [1] = -7.735771 
+Rapidity [2] = -7.320750 
+Rapidity [3] = -6.801724 
+Rapidity [4] = -6.626061 
+Rapidity [5] = -6.233455 
+Rapidity [6] = -5.856350 
+Rapidity [7] = -5.739410 
+Rapidity [8] = -5.694290 
+Rapidity [9] = -5.605905 
+Rapidity [10] = -5.493690 
+Rapidity [11] = -5.374052 
+Rapidity [12] = -5.275491 
+Rapidity [13] = -4.969741 
+Rapidity [14] = -4.761378 
+Rapidity [15] = -4.528082 
+Rapidity [16] = -4.155968 
+Rapidity [17] = -3.508863 
+Rapidity [18] = -2.859087 
+Rapidity [19] = -2.810228 
+Rapidity [20] = -2.794144 
+Rapidity [21] = -2.532545 
+Rapidity [22] = -1.870147 
+Rapidity [23] = -1.515630 
+Rapidity [24] = -1.358009 
+Rapidity [25] = -1.290132 
+Rapidity [26] = -0.997857 
+Rapidity [27] = -0.895426 
+Rapidity [28] = -0.536588 
+Rapidity [29] = -0.412601 
+Rapidity [30] = -0.093044 
+Rapidity [31] = -0.078100 
+Rapidity [32] = 0.136203 
+Rapidity [33] = 0.357479 
+Rapidity [34] = 0.523176 
+Rapidity [35] = 0.619239 
+Rapidity [36] = 0.889161 
+Rapidity [37] = 0.904864 
+Rapidity [38] = 9.504636 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rapidity [0] = -10.025823 
+Rapidity [1] = -7.923160 
+Rapidity [2] = -7.727063 
+Rapidity [3] = 9.387855 
+
+Rapidity [0] = -8.341404 
+Rapidity [1] = -8.265672 
+Rapidity [2] = -8.182380 
+Rapidity [3] = -8.120010 
+Rapidity [4] = -8.051039 
+Rapidity [5] = -7.852693 
+Rapidity [6] = -7.611070 
+Rapidity [7] = -7.147688 
+Rapidity [8] = -6.797698 
+Rapidity [9] = -6.443693 
+Rapidity [10] = -6.143618 
+Rapidity [11] = -5.949631 
+Rapidity [12] = -5.868129 
+Rapidity [13] = -5.515875 
+Rapidity [14] = -5.298808 
+Rapidity [15] = -4.430073 
+Rapidity [16] = -4.243577 
+Rapidity [17] = -1.271950 
+Rapidity [18] = -0.943017 
+Rapidity [19] = -0.455607 
+Rapidity [20] = -0.446009 
+Rapidity [21] = 0.348688 
+Rapidity [22] = 0.767085 
+Rapidity [23] = 0.801418 
+Rapidity [24] = 1.607879 
+Rapidity [25] = 1.807210 
+Rapidity [26] = 2.502362 
+Rapidity [27] = 2.959706 
+Rapidity [28] = 3.033787 
+Rapidity [29] = 3.126094 
+Rapidity [30] = 3.156789 
+Rapidity [31] = 3.165658 
+Rapidity [32] = 3.640416 
+Rapidity [33] = 4.208140 
+Rapidity [34] = 4.541991 
+Rapidity [35] = 4.615381 
+Rapidity [36] = 4.701775 
+Rapidity [37] = 5.080836 
+Rapidity [38] = 6.199114 
+Rapidity [39] = 6.467394 
+Rapidity [40] = 6.496172 
+Rapidity [41] = 7.918125 
+Rapidity [42] = 8.182645 
+Rapidity [43] = 8.458389 
+Rapidity [44] = 8.509849 
+
+Rapidity [0] = -9.500744 
+Rapidity [1] = 5.975272 
+Rapidity [2] = 6.557005 
+Rapidity [3] = 6.593027 
+Rapidity [4] = 6.918955 
+Rapidity [5] = 7.990922 
+Rapidity [6] = 9.108925 
+Rapidity [7] = 9.326720 
+
+
+Rapidity [0] = -9.490442 
+Rapidity [1] = 4.648460 
+Rapidity [2] = 4.704040 
+Rapidity [3] = 5.396006 
+Rapidity [4] = 6.288532 
+Rapidity [5] = 6.307822 
+Rapidity [6] = 6.412080 
+Rapidity [7] = 6.640105 
+Rapidity [8] = 6.695572 
+Rapidity [9] = 6.703657 
+Rapidity [10] = 6.806856 
+Rapidity [11] = 7.508262 
+Rapidity [12] = 7.605888 
+Rapidity [13] = 7.833241 
+Rapidity [14] = 8.159817 
+Rapidity [15] = 8.307342 
+Rapidity [16] = 8.760083 
+Rapidity [17] = 8.894932 
+Rapidity [18] = 9.078113 
+
+Rapidity [0] = -8.608493 
+Rapidity [1] = -7.219532 
+Rapidity [2] = -6.489299 
+Rapidity [3] = -6.172194 
+Rapidity [4] = -6.014269 
+Rapidity [5] = -5.919837 
+Rapidity [6] = -5.658577 
+Rapidity [7] = -5.574159 
+Rapidity [8] = -5.569770 
+Rapidity [9] = -5.505359 
+Rapidity [10] = -5.442793 
+Rapidity [11] = -5.346558 
+Rapidity [12] = -5.207683 
+Rapidity [13] = -4.821955 
+Rapidity [14] = -4.818969 
+Rapidity [15] = -4.576287 
+Rapidity [16] = -3.918087 
+Rapidity [17] = -3.879413 
+Rapidity [18] = -3.765918 
+Rapidity [19] = -3.661938 
+Rapidity [20] = -3.629074 
+Rapidity [21] = -3.176212 
+Rapidity [22] = -3.073967 
+Rapidity [23] = -2.928244 
+Rapidity [24] = -2.770518 
+Rapidity [25] = -2.712906 
+Rapidity [26] = -2.711527 
+Rapidity [27] = -2.350966 
+Rapidity [28] = -2.340424 
+Rapidity [29] = -2.171307 
+Rapidity [30] = -2.133868 
+Rapidity [31] = -2.083353 
+Rapidity [32] = -1.827119 
+Rapidity [33] = -1.725330 
+Rapidity [34] = -1.697161 
+Rapidity [35] = -1.456445 
+Rapidity [36] = -1.401000 
+Rapidity [37] = -0.749666 
+Rapidity [38] = -0.459409 
+Rapidity [39] = -0.110036 
+Rapidity [40] = -0.008958 
+Rapidity [41] = 0.324989 
+Rapidity [42] = 0.680367 
+Rapidity [43] = 0.697125 
+Rapidity [44] = 0.852423 
+Rapidity [45] = 1.099563 
+Rapidity [46] = 1.304816 
+Rapidity [47] = 9.366602 
+
+
+
+
+
+Rapidity [0] = -8.638032 
+Rapidity [1] = -8.588733 
+Rapidity [2] = -8.261274 
+Rapidity [3] = -8.129744 
+Rapidity [4] = -7.053433 
+Rapidity [5] = -7.014176 
+Rapidity [6] = -6.916670 
+Rapidity [7] = -6.887588 
+Rapidity [8] = -6.865647 
+Rapidity [9] = -6.764531 
+Rapidity [10] = -6.700850 
+Rapidity [11] = -6.545003 
+Rapidity [12] = -6.288922 
+Rapidity [13] = -5.721604 
+Rapidity [14] = -5.702154 
+Rapidity [15] = -5.614348 
+Rapidity [16] = -5.597807 
+Rapidity [17] = -5.408679 
+Rapidity [18] = -5.380083 
+Rapidity [19] = -5.334848 
+Rapidity [20] = -5.230121 
+Rapidity [21] = -4.969585 
+Rapidity [22] = -4.901606 
+Rapidity [23] = -4.861916 
+Rapidity [24] = -4.845913 
+Rapidity [25] = -4.837876 
+Rapidity [26] = -4.632344 
+Rapidity [27] = -4.566655 
+Rapidity [28] = -4.543649 
+Rapidity [29] = -4.386613 
+Rapidity [30] = -4.375105 
+Rapidity [31] = -4.296601 
+Rapidity [32] = -4.267244 
+Rapidity [33] = -4.248062 
+Rapidity [34] = -4.186505 
+Rapidity [35] = -4.168922 
+Rapidity [36] = -4.166615 
+Rapidity [37] = -4.161925 
+Rapidity [38] = -4.157808 
+Rapidity [39] = -4.088694 
+Rapidity [40] = -4.085421 
+Rapidity [41] = -4.064870 
+Rapidity [42] = -3.974715 
+Rapidity [43] = -3.854307 
+Rapidity [44] = -3.845428 
+Rapidity [45] = -3.756827 
+Rapidity [46] = -3.733959 
+Rapidity [47] = -3.707017 
+Rapidity [48] = -3.643703 
+Rapidity [49] = -3.532083 
+Rapidity [50] = -3.483784 
+Rapidity [51] = -3.420601 
+Rapidity [52] = -3.418865 
+Rapidity [53] = -3.410170 
+Rapidity [54] = -2.954284 
+Rapidity [55] = -2.937625 
+Rapidity [56] = -2.934471 
+Rapidity [57] = -2.846442 
+Rapidity [58] = -2.775697 
+Rapidity [59] = -2.642466 
+Rapidity [60] = -2.607715 
+Rapidity [61] = -2.532894 
+Rapidity [62] = -2.342427 
+Rapidity [63] = -2.306170 
+Rapidity [64] = -2.201348 
+Rapidity [65] = -2.196203 
+Rapidity [66] = -2.134207 
+Rapidity [67] = -1.965964 
+Rapidity [68] = -1.902707 
+Rapidity [69] = -1.715647 
+Rapidity [70] = -1.686620 
+Rapidity [71] = -1.649107 
+Rapidity [72] = -1.610516 
+Rapidity [73] = -1.595282 
+Rapidity [74] = -1.201725 
+Rapidity [75] = -1.133863 
+Rapidity [76] = -0.975042 
+Rapidity [77] = -0.655599 
+Rapidity [78] = -0.501997 
+Rapidity [79] = -0.249101 
+Rapidity [80] = -0.136096 
+Rapidity [81] = 0.506521 
+Rapidity [82] = 0.668561 
+Rapidity [83] = 0.717333 
+Rapidity [84] = 1.073776 
+Rapidity [85] = 1.423007 
+Rapidity [86] = 2.754314 
+Rapidity [87] = 2.957328 
+Rapidity [88] = 3.084236 
+Rapidity [89] = 3.269760 
+Rapidity [90] = 9.455073 
+
+
+
+
+
+
+
+
+Rapidity [0] = -9.343170 
+Rapidity [1] = -9.119978 
+Rapidity [2] = -8.516189 
+Rapidity [3] = -8.451997 
+Rapidity [4] = -8.278768 
+Rapidity [5] = -7.412970 
+Rapidity [6] = -7.380698 
+Rapidity [7] = -6.442716 
+Rapidity [8] = -5.721224 
+Rapidity [9] = -5.178932 
+Rapidity [10] = -5.141445 
+Rapidity [11] = -4.730767 
+Rapidity [12] = -4.267633 
+Rapidity [13] = -4.239483 
+Rapidity [14] = -3.994916 
+Rapidity [15] = -3.942436 
+Rapidity [16] = -3.400749 
+Rapidity [17] = -3.305226 
+Rapidity [18] = -3.289506 
+Rapidity [19] = -2.894831 
+Rapidity [20] = -2.670198 
+Rapidity [21] = -2.661087 
+Rapidity [22] = -2.591449 
+Rapidity [23] = -2.575529 
+Rapidity [24] = -2.557302 
+Rapidity [25] = -2.366713 
+Rapidity [26] = -2.249596 
+Rapidity [27] = -2.216027 
+Rapidity [28] = -2.112470 
+Rapidity [29] = -1.880655 
+Rapidity [30] = -1.587093 
+Rapidity [31] = -0.851792 
+Rapidity [32] = -0.263705 
+Rapidity [33] = 0.011952 
+Rapidity [34] = 0.135643 
+Rapidity [35] = 0.188210 
+Rapidity [36] = 0.349994 
+Rapidity [37] = 0.651813 
+Rapidity [38] = 0.853922 
+Rapidity [39] = 0.932645 
+Rapidity [40] = 1.065873 
+Rapidity [41] = 1.677305 
+Rapidity [42] = 1.924571 
+Rapidity [43] = 1.925739 
+Rapidity [44] = 1.953224 
+Rapidity [45] = 2.133922 
+Rapidity [46] = 2.159554 
+Rapidity [47] = 2.180074 
+Rapidity [48] = 2.715019 
+Rapidity [49] = 2.837418 
+Rapidity [50] = 3.367897 
+Rapidity [51] = 4.845078 
+Rapidity [52] = 9.498737 
+
+
+
+
+
+Rapidity [0] = -8.630131 
+Rapidity [1] = -8.114656 
+Rapidity [2] = -7.884503 
+Rapidity [3] = -7.736765 
+Rapidity [4] = -7.601084 
+Rapidity [5] = -7.361449 
+Rapidity [6] = -7.307594 
+Rapidity [7] = -7.281128 
+Rapidity [8] = -7.266966 
+Rapidity [9] = -7.244513 
+Rapidity [10] = -7.147582 
+Rapidity [11] = -6.975269 
+Rapidity [12] = -6.461343 
+Rapidity [13] = -6.446460 
+Rapidity [14] = -6.337282 
+Rapidity [15] = -6.302003 
+Rapidity [16] = -6.220895 
+Rapidity [17] = -6.127313 
+Rapidity [18] = -6.074520 
+Rapidity [19] = -5.879962 
+Rapidity [20] = -5.841817 
+Rapidity [21] = -5.827967 
+Rapidity [22] = -5.800645 
+Rapidity [23] = -5.727629 
+Rapidity [24] = -5.722766 
+Rapidity [25] = -5.712326 
+Rapidity [26] = -5.667925 
+Rapidity [27] = -5.647518 
+Rapidity [28] = -5.642767 
+Rapidity [29] = -5.581378 
+Rapidity [30] = -5.562236 
+Rapidity [31] = -5.505316 
+Rapidity [32] = -5.502748 
+Rapidity [33] = -5.481283 
+Rapidity [34] = -5.481003 
+Rapidity [35] = -5.458799 
+Rapidity [36] = -5.434577 
+Rapidity [37] = -5.304310 
+Rapidity [38] = -5.300383 
+Rapidity [39] = -5.271178 
+Rapidity [40] = -5.246189 
+Rapidity [41] = -5.234181 
+Rapidity [42] = -5.171763 
+Rapidity [43] = -5.147480 
+Rapidity [44] = -5.142864 
+Rapidity [45] = -5.113634 
+Rapidity [46] = -5.113175 
+Rapidity [47] = -5.082391 
+Rapidity [48] = -5.050095 
+Rapidity [49] = -5.046033 
+Rapidity [50] = -4.993944 
+Rapidity [51] = -4.960609 
+Rapidity [52] = -4.950556 
+Rapidity [53] = -4.944101 
+Rapidity [54] = -4.934248 
+Rapidity [55] = -4.899464 
+Rapidity [56] = -4.781734 
+Rapidity [57] = -4.776678 
+Rapidity [58] = -4.726962 
+Rapidity [59] = -4.715848 
+Rapidity [60] = -4.712862 
+Rapidity [61] = -4.709167 
+Rapidity [62] = -4.689711 
+Rapidity [63] = -4.675179 
+Rapidity [64] = -4.607101 
+Rapidity [65] = -4.605931 
+Rapidity [66] = -4.573018 
+Rapidity [67] = -4.548343 
+Rapidity [68] = -4.465327 
+Rapidity [69] = -4.442633 
+Rapidity [70] = -4.408486 
+Rapidity [71] = -4.405948 
+Rapidity [72] = -4.347626 
+Rapidity [73] = -4.323178 
+Rapidity [74] = -4.313388 
+Rapidity [75] = -4.302338 
+Rapidity [76] = -4.284509 
+Rapidity [77] = -4.273288 
+Rapidity [78] = -4.226935 
+Rapidity [79] = -4.224233 
+Rapidity [80] = -4.216375 
+Rapidity [81] = -4.188256 
+Rapidity [82] = -4.166461 
+Rapidity [83] = -4.164899 
+Rapidity [84] = -4.147520 
+Rapidity [85] = -4.143812 
+Rapidity [86] = -4.105736 
+Rapidity [87] = -4.085385 
+Rapidity [88] = -4.019336 
+Rapidity [89] = -4.014241 
+Rapidity [90] = -3.990764 
+Rapidity [91] = -3.920196 
+Rapidity [92] = -3.918587 
+Rapidity [93] = -3.848972 
+Rapidity [94] = -3.759579 
+Rapidity [95] = -3.750013 
+Rapidity [96] = -3.746285 
+Rapidity [97] = -3.723789 
+Rapidity [98] = -3.688843 
+Rapidity [99] = -3.671728 
+Rapidity [100] = -3.548085 
+Rapidity [101] = -3.513093 
+Rapidity [102] = -3.474422 
+Rapidity [103] = -3.465598 
+Rapidity [104] = -3.445369 
+Rapidity [105] = -3.439454 
+Rapidity [106] = -3.404405 
+Rapidity [107] = -3.388771 
+Rapidity [108] = -3.351836 
+Rapidity [109] = -3.314455 
+Rapidity [110] = -3.309729 
+Rapidity [111] = -3.298330 
+Rapidity [112] = -3.261241 
+Rapidity [113] = -3.197474 
+Rapidity [114] = -3.083542 
+Rapidity [115] = -3.056081 
+Rapidity [116] = -3.050670 
+Rapidity [117] = -3.016055 
+Rapidity [118] = -2.960080 
+Rapidity [119] = -2.940056 
+Rapidity [120] = -2.839461 
+Rapidity [121] = -2.794773 
+Rapidity [122] = -2.781868 
+Rapidity [123] = -2.713064 
+Rapidity [124] = -2.231213 
+Rapidity [125] = -2.204591 
+Rapidity [126] = -2.153146 
+Rapidity [127] = -2.122108 
+Rapidity [128] = -2.012028 
+Rapidity [129] = -2.006381 
+Rapidity [130] = -1.801063 
+Rapidity [131] = -1.500486 
+Rapidity [132] = -1.132708 
+Rapidity [133] = -0.950177 
+Rapidity [134] = -0.861763 
+Rapidity [135] = -0.695577 
+Rapidity [136] = -0.692513 
+Rapidity [137] = -0.682970 
+Rapidity [138] = -0.460371 
+Rapidity [139] = -0.302586 
+Rapidity [140] = -0.151272 
+Rapidity [141] = -0.053196 
+Rapidity [142] = -0.042332 
+Rapidity [143] = 0.283821 
+Rapidity [144] = 0.427925 
+Rapidity [145] = 0.508921 
+Rapidity [146] = 0.511804 
+Rapidity [147] = 0.778779 
+Rapidity [148] = 0.970669 
+Rapidity [149] = 1.226599 
+Rapidity [150] = 1.295444 
+Rapidity [151] = 1.365019 
+Rapidity [152] = 1.415228 
+Rapidity [153] = 1.546690 
+Rapidity [154] = 1.576001 
+Rapidity [155] = 1.577609 
+Rapidity [156] = 1.716248 
+Rapidity [157] = 1.929432 
+Rapidity [158] = 2.194390 
+Rapidity [159] = 2.260274 
+Rapidity [160] = 2.460052 
+Rapidity [161] = 9.491994 
+
+
+
+
+
+
+
+
+Rapidity [0] = -9.254298 
+Rapidity [1] = -5.244746 
+Rapidity [2] = -3.922055 
+Rapidity [3] = -3.648367 
+Rapidity [4] = -3.569768 
+Rapidity [5] = -3.503223 
+Rapidity [6] = -3.408410 
+Rapidity [7] = -3.365227 
+Rapidity [8] = -3.293844 
+Rapidity [9] = -3.248795 
+Rapidity [10] = -3.185754 
+Rapidity [11] = -3.020503 
+Rapidity [12] = -2.941483 
+Rapidity [13] = -2.732682 
+Rapidity [14] = -2.590414 
+Rapidity [15] = -2.520719 
+Rapidity [16] = -2.520317 
+Rapidity [17] = -2.473192 
+Rapidity [18] = -2.402738 
+Rapidity [19] = -2.314456 
+Rapidity [20] = -2.106095 
+Rapidity [21] = -2.060870 
+Rapidity [22] = -1.914182 
+Rapidity [23] = -1.896417 
+Rapidity [24] = -1.779055 
+Rapidity [25] = -1.699604 
+Rapidity [26] = -1.539492 
+Rapidity [27] = -1.475104 
+Rapidity [28] = -1.447672 
+Rapidity [29] = -1.037332 
+Rapidity [30] = -1.020311 
+Rapidity [31] = -0.968959 
+Rapidity [32] = -0.933679 
+Rapidity [33] = -0.660622 
+Rapidity [34] = -0.645364 
+Rapidity [35] = -0.526355 
+Rapidity [36] = -0.186061 
+Rapidity [37] = -0.080681 
+Rapidity [38] = -0.003037 
+Rapidity [39] = 0.182284 
+Rapidity [40] = 0.247601 
+Rapidity [41] = 0.358250 
+Rapidity [42] = 0.386523 
+Rapidity [43] = 0.786318 
+Rapidity [44] = 1.107904 
+Rapidity [45] = 1.137073 
+Rapidity [46] = 1.390280 
+Rapidity [47] = 1.560329 
+Rapidity [48] = 1.796792 
+Rapidity [49] = 1.950187 
+Rapidity [50] = 2.047346 
+Rapidity [51] = 2.368259 
+Rapidity [52] = 2.841431 
+Rapidity [53] = 2.871673 
+Rapidity [54] = 2.956241 
+Rapidity [55] = 3.202122 
+Rapidity [56] = 3.244270 
+Rapidity [57] = 3.269285 
+Rapidity [58] = 4.019092 
+Rapidity [59] = 4.059028 
+Rapidity [60] = 4.091898 
+Rapidity [61] = 4.118613 
+Rapidity [62] = 4.385145 
+Rapidity [63] = 4.582845 
+Rapidity [64] = 4.583515 
+Rapidity [65] = 5.722104 
+Rapidity [66] = 6.087545 
+Rapidity [67] = 6.774427 
+Rapidity [68] = 6.782804 
+Rapidity [69] = 6.948266 
+Rapidity [70] = 6.993943 
+Rapidity [71] = 7.131728 
+Rapidity [72] = 7.355143 
+Rapidity [73] = 7.563804 
+Rapidity [74] = 7.716910 
+Rapidity [75] = 8.877976 
+
+Rapidity [0] = -9.442680 
+Rapidity [1] = 6.533196 
+Rapidity [2] = 7.246450 
+Rapidity [3] = 7.604553 
+Rapidity [4] = 7.852200 
+Rapidity [5] = 7.980526 
+Rapidity [6] = 8.491094 
+Rapidity [7] = 8.842405 
+
+
+
+Rapidity [0] = -8.705574 
+Rapidity [1] = -8.384644 
+Rapidity [2] = -8.082499 
+Rapidity [3] = -7.818871 
+Rapidity [4] = -7.754799 
+Rapidity [5] = -7.505415 
+Rapidity [6] = -7.494956 
+Rapidity [7] = -7.330334 
+Rapidity [8] = -7.236529 
+Rapidity [9] = -7.190927 
+Rapidity [10] = -7.163726 
+Rapidity [11] = -7.079040 
+Rapidity [12] = -6.991603 
+Rapidity [13] = -6.923511 
+Rapidity [14] = -6.902634 
+Rapidity [15] = -6.871943 
+Rapidity [16] = -6.773918 
+Rapidity [17] = -6.637732 
+Rapidity [18] = -6.576491 
+Rapidity [19] = -6.472093 
+Rapidity [20] = -6.434061 
+Rapidity [21] = -6.300427 
+Rapidity [22] = -6.285862 
+Rapidity [23] = -6.192862 
+Rapidity [24] = -6.167943 
+Rapidity [25] = -6.162783 
+Rapidity [26] = -6.020453 
+Rapidity [27] = -5.851118 
+Rapidity [28] = -5.583076 
+Rapidity [29] = -5.469099 
+Rapidity [30] = -5.451296 
+Rapidity [31] = -5.397731 
+Rapidity [32] = -5.320380 
+Rapidity [33] = -5.313057 
+Rapidity [34] = -5.223267 
+Rapidity [35] = -5.048998 
+Rapidity [36] = -4.627544 
+Rapidity [37] = -4.588850 
+Rapidity [38] = -4.582881 
+Rapidity [39] = -4.570368 
+Rapidity [40] = -4.474411 
+Rapidity [41] = -4.201768 
+Rapidity [42] = -4.115005 
+Rapidity [43] = -4.049564 
+Rapidity [44] = -3.976234 
+Rapidity [45] = -3.788485 
+Rapidity [46] = -3.545633 
+Rapidity [47] = -3.319448 
+Rapidity [48] = -3.260762 
+Rapidity [49] = -3.028267 
+Rapidity [50] = -2.953364 
+Rapidity [51] = -2.922174 
+Rapidity [52] = -2.834016 
+Rapidity [53] = -2.647781 
+Rapidity [54] = -2.609321 
+Rapidity [55] = -2.527664 
+Rapidity [56] = -2.346483 
+Rapidity [57] = -2.126665 
+Rapidity [58] = -2.106703 
+Rapidity [59] = -1.916140 
+Rapidity [60] = -1.871052 
+Rapidity [61] = -1.862543 
+Rapidity [62] = -1.787967 
+Rapidity [63] = -1.264750 
+Rapidity [64] = -1.264581 
+Rapidity [65] = -1.243356 
+Rapidity [66] = -1.190938 
+Rapidity [67] = -1.187528 
+Rapidity [68] = -0.975519 
+Rapidity [69] = -0.793565 
+Rapidity [70] = -0.764852 
+Rapidity [71] = -0.737846 
+Rapidity [72] = -0.724915 
+Rapidity [73] = -0.570431 
+Rapidity [74] = -0.544674 
+Rapidity [75] = -0.474939 
+Rapidity [76] = -0.171434 
+Rapidity [77] = 0.025117 
+Rapidity [78] = 0.209230 
+Rapidity [79] = 0.615245 
+Rapidity [80] = 0.711926 
+Rapidity [81] = 0.725191 
+Rapidity [82] = 0.799121 
+Rapidity [83] = 0.876687 
+Rapidity [84] = 0.918155 
+Rapidity [85] = 1.025452 
+Rapidity [86] = 1.578381 
+Rapidity [87] = 1.697119 
+Rapidity [88] = 1.894535 
+Rapidity [89] = 2.199274 
+Rapidity [90] = 2.390440 
+Rapidity [91] = 2.495696 
+Rapidity [92] = 2.589052 
+Rapidity [93] = 9.458280 
+
+
+
+
+
+
+
+
+
+Configuration initialized for run 226062 (MC: 1):
+Collision trigger classes:
+&1 *0
+&1 *1
+&2 *2
+&8 *20
+&8 *21
+&8 *22
+&32 *3
+&64 *5
+&128 *6
+&256 *8
+&512 *9
+&1024 *14
+&1024 *15
+&2048 *7
+&8192 *16
+&8192 *17
+&16384 *23
+&16384 *25
+&32768 *24
+&32768 *26
+&65536 *19
+&524288 *18
+&1048576 *27
+&1048576 *28
+&2097152 *4
+&4194304 *11
+&8388608 *10
+&16777216 *12
+&33554432 *13
+&67108864 *29
+&268435456 *30
+&268435456 *31
+&268435456 *32
+&268435456 *33
+&268435456 *34
+&268435456 *35
+&268435456 *36
+Background trigger classes:
+
+Total available events:
+Trigger Classes:
+Event count for trigger combinations:
+  MB1  MBBG1  V0L : 13 triggers
+ : 8 triggers
+  MB1  MBBG1  V0R : 7 triggers
+  MB1  MBBG1  V0L  V0R : 171 triggers
+  MB1  MBBG1  MULow  V0L  V0R : 1 triggers
+Event count for single trigger:
+  MB1: 192 triggers
+  MBBG1: 192 triggers
+  V0L: 185 triggers
+  MULow: 1 triggers
+  V0R: 179 triggers
+Writing result to event_stat.root
+Real time 0:00:33, CP time 11.900
+======== AnalysisMM.C finished with exit code: 0 ========
+############## memory after: ##############
+             total       used       free     shared    buffers     cached
+Mem:          7882       6962        919       1208         22       1740
+-/+ buffers/cache:       5199       2682
+Swap:         8087       3133       4954
+*******************************************************
+* Automatically generated validation script           *
+* Time:    Son Okt  2 23:46:55 CEST 2016 
+* Dir:     .
+* Workdir: /home/user/Desktop/mikael_work/gridclass
+* ----------------------------------------------------*
+total 3872
+drwxrwxr-x  2 user user    4096 Okt  2 23:46 .
+drwxrwxr-x 12 user user    4096 Okt  1 19:01 ..
+-rw-rw-r--  1 user user    1547 Aug  3 19:33 AddAnalysisTaskDiffCrossSectionsMM.cxx
+-rw-rw-r--  1 user user     307 Aug  3 19:28 AddAnalysisTaskDiffCrossSectionsMM_cxx.d
+-rw-rw-r--  1 user user   38009 Okt  2 23:42 AliAnalysisTaskDiffCrossSectionsMM.cxx
+-rw-rw-r--  1 user user   12525 Sep 18 15:44 AliAnalysisTaskDiffCrossSectionsMM.cxx~
+-rw-rw-r--  1 user user   21814 Okt  2 23:42 AliAnalysisTaskDiffCrossSectionsMM_cxx.d
+-rwxrwxr-x  1 user user  944266 Okt  2 23:42 AliAnalysisTaskDiffCrossSectionsMM_cxx.so
+-rw-rw-r--  1 user user   10571 Okt  2 18:23 AliAnalysisTaskDiffCrossSectionsMM.h
+-rw-rw-r--  1 user user    6113 Sep 18 15:38 AliAnalysisTaskDiffCrossSectionsMM.h~
+-rw-rw-r--  1 user user    3641 Okt  2 23:46 AnalysisMM.C
+-rw-rw-r--  1 user user    3391 Okt  2 23:46 AnalysisMM_merge.C
+-rw-rw-r--  1 user user    1367 Okt  2 23:46 AnalysisMM_merge.sh
+-rw-r--r--  1 user user   14882 Okt  2 23:46 AnalysisMM.root
+-rw-rw-r--  1 user user    1408 Okt  2 23:46 AnalysisMM.sh
+-rw-rw-r--  1 user user    2058 Okt  2 23:46 AnalysisMM_validation_merge.sh
+-rw-rw-r--  1 user user    2451 Okt  2 23:46 AnalysisMM_validation.sh
+-rw-r--r--  1 user user   90182 Okt  2 23:46 AnalysisResults.root
+-rw-r--r--  1 user user 1203465 Okt  2 23:46 event_stat.root
+-rw-r--r--  1 user user 1194046 Okt  2 23:46 EventStat_temp.root
+-rw-r--r--  1 user user       7 Jun 27 08:51 LHC15f.txt
+-rw-r--r--  1 user user       7 Jun 27 08:55 LHC15g3a2.txt
+-rw-r--r--  1 user user     447 Jun 27 08:56 LHC15g3a3.txt
+-rw-r--r--  1 user user       7 Jun 27 08:55 LHC15g3c2.txt
+-rw-r--r--  1 user user       7 Jun 27 08:52 LHC15h.txt
+-rw-r--r--  1 user user      22 Jun 27 09:03 LHC16a2a2.txt
+-rw-r--r--  1 user user      22 Jun 27 09:03 LHC16a2b2.txt
+-rw-r--r--  1 user user      22 Jun 27 09:03 LHC16a2c2.txt
+-rw-r--r--  1 user user      23 Jul 26 17:03 LHC16a2d2_plus.txt
+-rw-r--r--  1 user user      23 Jul 26 17:02 LHC16a2d2.txt
+-rw-rw-r--  1 user user       0 Okt  2 23:46 outputs_valid
+-rw-rw-r--  1 user user   85865 Okt  2 23:46 Phojet_LHC16a2c2.txt
+-rw-rw-r--  1 user user   86853 Okt  2 23:45 Pythia6_LHC16a2a2.txt
+-rw-rw-r--  1 user user  107504 Okt  2 23:45 Pythia8MBR_LHC16a2b2.txt
+-rw-rw-r--  1 user user    1698 Sep 30 14:35 README
+-rw-r--r--  1 user user    7768 Okt  2 18:54 runGridMM.C
+-rw-rw-r--  1 user user       0 Okt  2 23:46 stderr
+-rw-rw-r--  1 user user    2408 Okt  2 21:54 stdout
+-rwxrwxr-x  1 user user     653 Okt  2 23:46 submit_all_MM.sh
+-rwxrwxr-x  1 user user     656 Sep 30 14:10 submit_all_MM.sh~
+-rwxrwxr-x  1 user user     702 Okt  2 21:30 terminate_all_MM.sh
+-rwxrwxr-x  1 user user     678 Sep 18 15:53 terminate_all_MM.sh~
+-rw-r--r--  1 user user     792 Okt  2 23:46 wn.xml
+* ----------------------------------------------------*
+* ----------------   Job Validated  ------------------*
+* ----------------------------------------------------*
+*******************************************************
+/home/user/Desktop/mikael_work/gridclass
+I-AliAnalysisAlien::StartAnalysis: 
+##### LOCAL MODE #####   Your analysis will be run locally on a subset of the requested       
+                         dataset.
+### AliEn analysis plugin current settings ###
+=   OverwriteMode:________________________________ 1
+***** NOTE: Overwrite mode will overwrite the input generated datasets and partial results from previous analysis.             
+*****       To disable, use: plugin->SetOverwriteMode(kFALSE);
+=   Copy files to grid: __________________________ YES
+=   Check if files can be copied to grid: ________ NO:Print
+=   Production mode:______________________________ 0
+=   Version of API requested: ____________________ V1.1x
+=   Version of ROOT requested: ___________________ 
+=   Version of AliRoot requested: ________________ 
+=   Version of AliPhysics requested: _____________ vAN-20160720-1
+=   Grid workdir relative to user $HOME: _________ LHC16a2c2_DiffCS
+=   Grid output directory relative to workdir: ___ output
+=   Data base directory path requested: __________ /alice/sim/2016/LHC16a2c2
+=   Data search pattern: _________________________ /*/AliESDs.root
+=   Input data format: ___________________________ xml-single
+=   Run numbers to be processed: _________________ 226062 234039
+=   Number of input files used in test mode: _____ 1
+=   List of output files to be registered: _______ EventStat_temp.root,AnalysisResults.root
+=   List of outputs going to be archived: ________ log_archive.zip:std*@disk=1 root_archive.zip:EventStat_temp.root,AnalysisResults.root,*.stat@disk=2
+=   List of outputs that should not be merged: ___ 
+=   List of outputs that should not be registered: 
+=   List of outputs produced during Terminate: ___ 
+=====================================================================
+=   Job price: ___________________________________ 1
+=   Time to live (TTL): __________________________ 21600
+=   Max files per subjob: ________________________ 75
+=   Number of replicas for the output files_______ 2
+=   Number of runs per master job: _______________ 1
+=   Number of files in one chunk to be merged: ___ 100
+=   Name of the generated execution script: ______ AnalysisMM.sh
+=   Executable command: __________________________ root -b -q -x
+=   Name of the generated analysis macro: ________ AnalysisMM.C
+=   User analysis files to be deployed: __________ AliAnalysisTaskDiffCrossSectionsMM.cxx
+=   Additional libs to be loaded or souces to be compiled runtime: <AliAnalysisTaskDiffCrossSectionsMM.h AliAnalysisTaskDiffCrossSectionsMM.cxx>
+=   Master jobs split mode: ______________________ se
+=   Custom name for the dataset to be created: ___ 
+=   Name of the generated JDL: ___________________ AnalysisMM.jdl
+=   Include path for runtime task compilation: ___ -I$ALICE_ROOT/include -I$ALICE_ROOT/lib -I$ALICE_PHYSICS/include -I$ALICE_PHYSICS/lib -I$ALICE_PHYSICS/OADB 
+I-AliAnalysisAlien::Connect: Trying to connect to AliEn ...
+=> Trying to connect to Server [0] root://pcapiserv03.cern.ch:10000 as User mmieskol 
+I-AliAnalysisAlien::Connect: 
+#####   Connected to AliEn as user mmieskol. Setting analysis user to <mmieskol>
+I-AliAnalysisAlien::CheckDataType: Using supplied run numbers (run ranges are ignored)
+I-AliAnalysisAlien::CheckDataType: 
+#####   file: /alice/cern.ch/user/m/mmieskol/LHC16a2c2_DiffCS/226062.xml type: xml_collection; using_tags: No
+I-AliAnalysisAlien::CheckDataType: 
+#####   file: /alice/cern.ch/user/m/mmieskol/LHC16a2c2_DiffCS/234039.xml type: xml_collection; using_tags: No
+I-AliAnalysisAlien::CreateDataset: Created dataset wn.xml with 1 files
+I-AliAnalysisAlien::WriteAnalysisFile: 
+#####   Analysis manager: TestManager wrote to file <AnalysisMM.root>
+
+I-AliAnalysisAlien::WriteAnalysisMacro: 
+#####   Analysis macro to run on worker nodes <AnalysisMM.C> written
+I-AliAnalysisAlien::StartAnalysis: 
+_______________________________________________________________________       
+   Running analysis script in a daughter shell as on a worker node       
+_______________________________________________________________________
+I-AliAnalysisManager::StartAnalysis: Grid analysis was stopped and cannot be terminated

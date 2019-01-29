@@ -1,0 +1,2914 @@
+Process type = 1 
+PDG:: Mass[0] = 0.938, Mass[1] = 29.8220
+Rapidity [0] = -9.498896 
+Rapidity [1] = 2.498600 
+Rapidity [2] = 2.746474 
+Rapidity [3] = 3.415313 
+Rapidity [4] = 3.801656 
+Rapidity [5] = 4.096481 
+Rapidity [6] = 4.154309 
+Rapidity [7] = 4.251325 
+Rapidity [8] = 4.257839 
+Rapidity [9] = 4.367118 
+Rapidity [10] = 4.368742 
+Rapidity [11] = 4.518931 
+Rapidity [12] = 4.603784 
+Rapidity [13] = 4.890298 
+Rapidity [14] = 5.344277 
+Rapidity [15] = 5.520821 
+Rapidity [16] = 5.631185 
+Rapidity [17] = 6.065836 
+Rapidity [18] = 6.076593 
+Rapidity [19] = 6.115730 
+Rapidity [20] = 6.180492 
+Rapidity [21] = 6.365792 
+Rapidity [22] = 7.999522 
+Rapidity [23] = 8.853150 
+Rapidity [24] = 9.086257 
+Rapidity [25] = 9.237460 
+
+
+Process type = 1 
+PDG:: Mass[0] = 0.938, Mass[1] = 8.1416
+Rapidity [0] = -9.404418 
+Rapidity [1] = 3.697829 
+Rapidity [2] = 4.707322 
+Rapidity [3] = 7.360088 
+Rapidity [4] = 9.115866 
+Rapidity [5] = 9.779040 
+
+Process type = 0 
+PDG:: Mass[0] = 62.258, Mass[1] = 0.9380
+Rapidity [0] = -9.028725 
+Rapidity [1] = -8.238022 
+Rapidity [2] = -8.032030 
+Rapidity [3] = -7.751834 
+Rapidity [4] = -7.270206 
+Rapidity [5] = -6.630350 
+Rapidity [6] = -6.574415 
+Rapidity [7] = -6.526136 
+Rapidity [8] = -6.488799 
+Rapidity [9] = -5.718549 
+Rapidity [10] = -5.550421 
+Rapidity [11] = -5.411884 
+Rapidity [12] = -5.322713 
+Rapidity [13] = -5.088844 
+Rapidity [14] = -5.037918 
+Rapidity [15] = -4.120986 
+Rapidity [16] = -4.082254 
+Rapidity [17] = -4.004663 
+Rapidity [18] = -3.978474 
+Rapidity [19] = -3.705542 
+Rapidity [20] = -3.462271 
+Rapidity [21] = -3.423085 
+Rapidity [22] = -3.370949 
+Rapidity [23] = -3.348058 
+Rapidity [24] = -3.321025 
+Rapidity [25] = -3.242680 
+Rapidity [26] = -3.221414 
+Rapidity [27] = -3.002120 
+Rapidity [28] = -2.982148 
+Rapidity [29] = -2.920354 
+Rapidity [30] = -2.883662 
+Rapidity [31] = -2.797492 
+Rapidity [32] = -2.628987 
+Rapidity [33] = 9.393621 
+
+Process type = 2 
+PDG:: Mass[0] = 52.407, Mass[1] = 115.7895
+Rapidity [0] = -9.464642 
+Rapidity [1] = -9.149138 
+Rapidity [2] = -8.921311 
+Rapidity [3] = -8.602690 
+Rapidity [4] = -8.208454 
+Rapidity [5] = -8.130537 
+Rapidity [6] = -8.034406 
+Rapidity [7] = -6.967806 
+Rapidity [8] = -6.698183 
+Rapidity [9] = -6.027628 
+Rapidity [10] = -5.803408 
+Rapidity [11] = -4.961679 
+Rapidity [12] = -2.740271 
+Rapidity [13] = -2.489644 
+Rapidity [14] = -2.142805 
+Rapidity [15] = -2.096801 
+Rapidity [16] = -1.949132 
+Rapidity [17] = -1.790729 
+Rapidity [18] = -0.544662 
+Rapidity [19] = -0.406806 
+Rapidity [20] = 0.216799 
+Rapidity [21] = 0.352429 
+Rapidity [22] = 0.537573 
+Rapidity [23] = 0.595727 
+Rapidity [24] = 0.782905 
+Rapidity [25] = 0.995795 
+Rapidity [26] = 1.054810 
+Rapidity [27] = 1.620012 
+Rapidity [28] = 3.044556 
+Rapidity [29] = 4.021479 
+Rapidity [30] = 4.033711 
+Rapidity [31] = 4.134780 
+Rapidity [32] = 4.590022 
+Rapidity [33] = 6.933101 
+Rapidity [34] = 7.190782 
+Rapidity [35] = 8.036759 
+Rapidity [36] = 8.484097 
+Rapidity [37] = 9.125311 
+
+
+Process type = 2 
+PDG:: Mass[0] = 32.485, Mass[1] = 120.0411
+Rapidity [0] = -9.727295 
+Rapidity [1] = -8.578897 
+Rapidity [2] = -7.877179 
+Rapidity [3] = -7.460964 
+Rapidity [4] = -7.429591 
+Rapidity [5] = -6.165038 
+Rapidity [6] = -5.288682 
+Rapidity [7] = -5.213739 
+Rapidity [8] = -5.155523 
+Rapidity [9] = -4.791569 
+Rapidity [10] = -1.438998 
+Rapidity [11] = -1.231778 
+Rapidity [12] = -0.758233 
+Rapidity [13] = 0.732556 
+Rapidity [14] = 3.085383 
+Rapidity [15] = 3.538693 
+Rapidity [16] = 3.773323 
+Rapidity [17] = 4.221581 
+Rapidity [18] = 4.633980 
+Rapidity [19] = 5.490419 
+Rapidity [20] = 5.504980 
+Rapidity [21] = 5.758295 
+Rapidity [22] = 6.206231 
+Rapidity [23] = 6.217362 
+Rapidity [24] = 6.903878 
+Rapidity [25] = 6.912311 
+Rapidity [26] = 7.053377 
+Rapidity [27] = 7.695148 
+Rapidity [28] = 7.867477 
+Rapidity [29] = 8.047331 
+Rapidity [30] = 8.831831 
+
+
+Process type = 2 
+PDG:: Mass[0] = 499.202, Mass[1] = 2.2050
+Rapidity [0] = -9.302111 
+Rapidity [1] = -8.931914 
+Rapidity [2] = -7.539356 
+Rapidity [3] = -6.370722 
+Rapidity [4] = -5.568988 
+Rapidity [5] = -4.947895 
+Rapidity [6] = -4.788043 
+Rapidity [7] = -4.252543 
+Rapidity [8] = -3.951924 
+Rapidity [9] = -3.086354 
+Rapidity [10] = -2.999088 
+Rapidity [11] = -2.909768 
+Rapidity [12] = -1.288257 
+Rapidity [13] = -1.226719 
+Rapidity [14] = -1.079248 
+Rapidity [15] = -0.365855 
+Rapidity [16] = -0.268188 
+Rapidity [17] = -0.168965 
+Rapidity [18] = 0.165422 
+Rapidity [19] = 0.433250 
+Rapidity [20] = 1.709296 
+Rapidity [21] = 2.693370 
+Rapidity [22] = 2.910380 
+Rapidity [23] = 7.261374 
+Rapidity [24] = 7.483388 
+Rapidity [25] = 8.527822 
+Rapidity [26] = 9.078166 
+Rapidity [27] = 9.353862 
+
+
+
+
+Process type = 2 
+PDG:: Mass[0] = 385.554, Mass[1] = 2.4032
+Rapidity [0] = -9.672117 
+Rapidity [1] = -9.232625 
+Rapidity [2] = -8.702803 
+Rapidity [3] = -8.302202 
+Rapidity [4] = -6.799091 
+Rapidity [5] = -6.706351 
+Rapidity [6] = -6.519184 
+Rapidity [7] = -6.289572 
+Rapidity [8] = -6.154335 
+Rapidity [9] = -5.987500 
+Rapidity [10] = -5.845455 
+Rapidity [11] = -5.512351 
+Rapidity [12] = -5.288221 
+Rapidity [13] = -5.285931 
+Rapidity [14] = -4.900710 
+Rapidity [15] = -4.769386 
+Rapidity [16] = -4.575765 
+Rapidity [17] = -4.200581 
+Rapidity [18] = -4.170090 
+Rapidity [19] = -3.895470 
+Rapidity [20] = -3.515560 
+Rapidity [21] = -3.475593 
+Rapidity [22] = -3.435257 
+Rapidity [23] = -3.079400 
+Rapidity [24] = -3.053076 
+Rapidity [25] = -2.298959 
+Rapidity [26] = -2.086423 
+Rapidity [27] = -2.079279 
+Rapidity [28] = -2.045627 
+Rapidity [29] = -1.878943 
+Rapidity [30] = -1.623228 
+Rapidity [31] = -1.548845 
+Rapidity [32] = -1.337546 
+Rapidity [33] = -1.309909 
+Rapidity [34] = -1.277647 
+Rapidity [35] = -1.248406 
+Rapidity [36] = -1.104923 
+Rapidity [37] = -0.897869 
+Rapidity [38] = -0.766775 
+Rapidity [39] = -0.753027 
+Rapidity [40] = -0.678865 
+Rapidity [41] = -0.633823 
+Rapidity [42] = -0.607841 
+Rapidity [43] = -0.247948 
+Rapidity [44] = -0.214100 
+Rapidity [45] = 0.196281 
+Rapidity [46] = 0.210905 
+Rapidity [47] = 0.243097 
+Rapidity [48] = 0.537844 
+Rapidity [49] = 0.696561 
+Rapidity [50] = 0.772170 
+Rapidity [51] = 0.880026 
+Rapidity [52] = 0.988388 
+Rapidity [53] = 1.020284 
+Rapidity [54] = 1.357815 
+Rapidity [55] = 1.366296 
+Rapidity [56] = 1.922678 
+Rapidity [57] = 6.804447 
+Rapidity [58] = 7.601929 
+Rapidity [59] = 9.060222 
+Rapidity [60] = 9.111648 
+
+
+Process type = 0 
+PDG:: Mass[0] = 182.097, Mass[1] = 0.9380
+Rapidity [0] = -9.143015 
+Rapidity [1] = -8.548653 
+Rapidity [2] = -8.075416 
+Rapidity [3] = -6.558254 
+Rapidity [4] = -5.922814 
+Rapidity [5] = -5.765416 
+Rapidity [6] = -5.644523 
+Rapidity [7] = -5.409108 
+Rapidity [8] = -5.316635 
+Rapidity [9] = -5.241031 
+Rapidity [10] = -4.266589 
+Rapidity [11] = -2.658989 
+Rapidity [12] = -2.538617 
+Rapidity [13] = -2.426324 
+Rapidity [14] = -2.228723 
+Rapidity [15] = -1.840740 
+Rapidity [16] = -1.691439 
+Rapidity [17] = -1.690362 
+Rapidity [18] = -1.222589 
+Rapidity [19] = 0.932098 
+Rapidity [20] = 9.420753 
+
+Process type = 0 
+PDG:: Mass[0] = 1373.645, Mass[1] = 0.9380
+Rapidity [0] = -9.681164 
+Rapidity [1] = -8.015033 
+Rapidity [2] = -7.706526 
+Rapidity [3] = -7.652133 
+Rapidity [4] = -6.515736 
+Rapidity [5] = -6.355384 
+Rapidity [6] = -6.335714 
+Rapidity [7] = -6.164412 
+Rapidity [8] = -6.074046 
+Rapidity [9] = -5.875179 
+Rapidity [10] = -5.259670 
+Rapidity [11] = -5.185896 
+Rapidity [12] = -5.184323 
+Rapidity [13] = -4.836199 
+Rapidity [14] = -4.801938 
+Rapidity [15] = -4.447993 
+Rapidity [16] = -4.199324 
+Rapidity [17] = -4.140873 
+Rapidity [18] = -4.078724 
+Rapidity [19] = -3.564895 
+Rapidity [20] = -3.537624 
+Rapidity [21] = -3.324889 
+Rapidity [22] = -3.177873 
+Rapidity [23] = -2.674663 
+Rapidity [24] = -1.869768 
+Rapidity [25] = -1.503264 
+Rapidity [26] = -1.112535 
+Rapidity [27] = -1.064884 
+Rapidity [28] = -0.965302 
+Rapidity [29] = -0.588942 
+Rapidity [30] = 1.377664 
+Rapidity [31] = 1.903320 
+Rapidity [32] = 2.015663 
+Rapidity [33] = 2.079696 
+Rapidity [34] = 2.090880 
+Rapidity [35] = 3.149471 
+Rapidity [36] = 3.187230 
+Rapidity [37] = 3.396844 
+Rapidity [38] = 3.623243 
+Rapidity [39] = 3.845211 
+Rapidity [40] = 3.976265 
+Rapidity [41] = 4.186354 
+Rapidity [42] = 4.191852 
+Rapidity [43] = 9.449674 
+
+
+
+
+
+
+Process type = 0 
+PDG:: Mass[0] = 525.109, Mass[1] = 0.9380
+Rapidity [0] = -9.013866 
+Rapidity [1] = -7.847761 
+Rapidity [2] = -7.372075 
+Rapidity [3] = -6.091442 
+Rapidity [4] = -5.661228 
+Rapidity [5] = -5.582930 
+Rapidity [6] = -5.552728 
+Rapidity [7] = -5.515384 
+Rapidity [8] = -5.230385 
+Rapidity [9] = -5.028654 
+Rapidity [10] = -4.901958 
+Rapidity [11] = -4.863552 
+Rapidity [12] = -4.840338 
+Rapidity [13] = -4.600636 
+Rapidity [14] = -4.184213 
+Rapidity [15] = -1.539402 
+Rapidity [16] = -1.208577 
+Rapidity [17] = -0.931683 
+Rapidity [18] = -0.827321 
+Rapidity [19] = 0.310274 
+Rapidity [20] = 0.937310 
+Rapidity [21] = 1.187077 
+Rapidity [22] = 1.260299 
+Rapidity [23] = 1.631576 
+Rapidity [24] = 1.874369 
+Rapidity [25] = 1.901761 
+Rapidity [26] = 1.906206 
+Rapidity [27] = 2.403956 
+Rapidity [28] = 2.635370 
+Rapidity [29] = 3.160149 
+Rapidity [30] = 3.213771 
+Rapidity [31] = 9.510857 
+
+
+
+
+
+Process type = 0 
+PDG:: Mass[0] = 19.169, Mass[1] = 0.9380
+Rapidity [0] = -9.297794 
+Rapidity [1] = -8.961375 
+Rapidity [2] = -8.730170 
+Rapidity [3] = -8.207054 
+Rapidity [4] = -7.681222 
+Rapidity [5] = -7.668303 
+Rapidity [6] = -7.581942 
+Rapidity [7] = -7.206916 
+Rapidity [8] = -7.118077 
+Rapidity [9] = -7.064652 
+Rapidity [10] = -6.478824 
+Rapidity [11] = -6.424765 
+Rapidity [12] = -6.186075 
+Rapidity [13] = -6.022792 
+Rapidity [14] = -5.881511 
+Rapidity [15] = -5.680242 
+Rapidity [16] = -5.610311 
+Rapidity [17] = -5.451252 
+Rapidity [18] = -5.384908 
+Rapidity [19] = -4.986472 
+Rapidity [20] = -4.958602 
+Rapidity [21] = -4.881997 
+Rapidity [22] = -4.750855 
+Rapidity [23] = -4.437333 
+Rapidity [24] = -4.198980 
+Rapidity [25] = -3.420402 
+Rapidity [26] = 9.505429 
+
+
+
+
+
+Process type = 0 
+PDG:: Mass[0] = 24.440, Mass[1] = 0.9380
+Rapidity [0] = -9.454341 
+Rapidity [1] = -8.516479 
+Rapidity [2] = -8.450697 
+Rapidity [3] = -7.949256 
+Rapidity [4] = -7.687542 
+Rapidity [5] = -7.213821 
+Rapidity [6] = -7.049037 
+Rapidity [7] = -6.733961 
+Rapidity [8] = -6.701137 
+Rapidity [9] = -6.679415 
+Rapidity [10] = -6.513119 
+Rapidity [11] = -6.235291 
+Rapidity [12] = -5.812579 
+Rapidity [13] = -5.138327 
+Rapidity [14] = -5.109477 
+Rapidity [15] = -4.368647 
+Rapidity [16] = -4.054050 
+Rapidity [17] = -4.038577 
+Rapidity [18] = -3.675944 
+Rapidity [19] = -2.676898 
+Rapidity [20] = -1.795747 
+Rapidity [21] = 9.477979 
+
+Process type = 0 
+PDG:: Mass[0] = 4.269, Mass[1] = 0.9380
+Rapidity [0] = -8.878085 
+Rapidity [1] = -8.816990 
+Rapidity [2] = -8.763275 
+Rapidity [3] = -8.474632 
+Rapidity [4] = -8.190293 
+Rapidity [5] = -7.206434 
+Rapidity [6] = -6.905017 
+Rapidity [7] = -6.132184 
+Rapidity [8] = -6.092447 
+Rapidity [9] = 9.432049 
+
+Process type = 0 
+PDG:: Mass[0] = 4166.183, Mass[1] = 0.9380
+Rapidity [0] = -10.939163 
+Rapidity [1] = -9.321751 
+Rapidity [2] = -8.693691 
+Rapidity [3] = -8.622404 
+Rapidity [4] = -8.315901 
+Rapidity [5] = -7.492676 
+Rapidity [6] = -7.482874 
+Rapidity [7] = -6.940080 
+Rapidity [8] = -5.523113 
+Rapidity [9] = -5.293804 
+Rapidity [10] = -5.074422 
+Rapidity [11] = -4.967025 
+Rapidity [12] = -4.764154 
+Rapidity [13] = -4.462881 
+Rapidity [14] = -4.452726 
+Rapidity [15] = -4.320507 
+Rapidity [16] = -3.977495 
+Rapidity [17] = -3.927570 
+Rapidity [18] = -3.873605 
+Rapidity [19] = -3.770425 
+Rapidity [20] = -3.650956 
+Rapidity [21] = -3.561358 
+Rapidity [22] = -3.429162 
+Rapidity [23] = -3.363011 
+Rapidity [24] = -3.272565 
+Rapidity [25] = -3.066237 
+Rapidity [26] = -3.006924 
+Rapidity [27] = -2.530764 
+Rapidity [28] = -2.460671 
+Rapidity [29] = -2.442826 
+Rapidity [30] = -2.436242 
+Rapidity [31] = -1.042534 
+Rapidity [32] = -0.872998 
+Rapidity [33] = -0.870586 
+Rapidity [34] = -0.823699 
+Rapidity [35] = -0.739187 
+Rapidity [36] = -0.341050 
+Rapidity [37] = -0.150726 
+Rapidity [38] = 0.940218 
+Rapidity [39] = 1.532748 
+Rapidity [40] = 1.617343 
+Rapidity [41] = 1.654275 
+Rapidity [42] = 1.846594 
+Rapidity [43] = 1.923948 
+Rapidity [44] = 2.170215 
+Rapidity [45] = 2.199656 
+Rapidity [46] = 2.232300 
+Rapidity [47] = 2.320264 
+Rapidity [48] = 2.701400 
+Rapidity [49] = 2.725601 
+Rapidity [50] = 2.974992 
+Rapidity [51] = 3.012368 
+Rapidity [52] = 3.060244 
+Rapidity [53] = 3.161016 
+Rapidity [54] = 3.288699 
+Rapidity [55] = 3.534270 
+Rapidity [56] = 3.685509 
+Rapidity [57] = 3.786689 
+Rapidity [58] = 3.986749 
+Rapidity [59] = 4.093692 
+Rapidity [60] = 4.356712 
+Rapidity [61] = 4.376829 
+Rapidity [62] = 5.107609 
+Rapidity [63] = 5.171010 
+Rapidity [64] = 5.237310 
+Rapidity [65] = 5.548580 
+Rapidity [66] = 5.581132 
+Rapidity [67] = 5.651134 
+Rapidity [68] = 5.732368 
+Rapidity [69] = 5.895923 
+Rapidity [70] = 5.964120 
+Rapidity [71] = 5.977443 
+Rapidity [72] = 6.110266 
+Rapidity [73] = 6.154288 
+Rapidity [74] = 9.031809 
+Rapidity [75] = 9.370155 
+
+Process type = 2 
+PDG:: Mass[0] = 120.254, Mass[1] = 2.8463
+Rapidity [0] = -10.178031 
+Rapidity [1] = -8.879864 
+Rapidity [2] = -8.637671 
+Rapidity [3] = -8.530530 
+Rapidity [4] = -8.399111 
+Rapidity [5] = -8.237014 
+Rapidity [6] = -8.192987 
+Rapidity [7] = -7.991803 
+Rapidity [8] = -7.525226 
+Rapidity [9] = -7.331631 
+Rapidity [10] = -7.313378 
+Rapidity [11] = -5.518532 
+Rapidity [12] = -4.166122 
+Rapidity [13] = -2.968788 
+Rapidity [14] = -2.150073 
+Rapidity [15] = -1.219064 
+Rapidity [16] = 0.031967 
+Rapidity [17] = 0.967081 
+Rapidity [18] = 1.182349 
+Rapidity [19] = 7.580265 
+Rapidity [20] = 8.188703 
+Rapidity [21] = 8.919342 
+Rapidity [22] = 9.057062 
+
+Process type = 2 
+PDG:: Mass[0] = 696.008, Mass[1] = 7.2369
+Rapidity [0] = -9.238766 
+Rapidity [1] = -8.901698 
+Rapidity [2] = -8.740696 
+Rapidity [3] = -8.516684 
+Rapidity [4] = -8.220644 
+Rapidity [5] = -4.764267 
+Rapidity [6] = -4.653007 
+Rapidity [7] = -4.541514 
+Rapidity [8] = -3.422501 
+Rapidity [9] = -3.361640 
+Rapidity [10] = -3.078013 
+Rapidity [11] = -2.863428 
+Rapidity [12] = -2.800602 
+Rapidity [13] = -2.666413 
+Rapidity [14] = -1.894839 
+Rapidity [15] = -0.772843 
+Rapidity [16] = -0.347831 
+Rapidity [17] = 0.211090 
+Rapidity [18] = 0.384915 
+Rapidity [19] = 0.725029 
+Rapidity [20] = 1.514967 
+Rapidity [21] = 1.952991 
+Rapidity [22] = 2.299230 
+Rapidity [23] = 2.845378 
+Rapidity [24] = 2.911977 
+Rapidity [25] = 4.046232 
+Rapidity [26] = 6.371931 
+Rapidity [27] = 6.771932 
+Rapidity [28] = 6.865217 
+Rapidity [29] = 7.136989 
+Rapidity [30] = 7.273508 
+Rapidity [31] = 8.240737 
+Rapidity [32] = 8.349309 
+Rapidity [33] = 8.428773 
+Rapidity [34] = 9.729474 
+
+
+
+
+
+
+
+
+Process type = 1 
+PDG:: Mass[0] = 0.938, Mass[1] = 5315.9741
+Rapidity [0] = -9.013291 
+Rapidity [1] = -8.688117 
+Rapidity [2] = -7.784596 
+Rapidity [3] = -7.162471 
+Rapidity [4] = -6.994305 
+Rapidity [5] = -5.725327 
+Rapidity [6] = -5.654128 
+Rapidity [7] = -5.588322 
+Rapidity [8] = -5.269577 
+Rapidity [9] = -5.259330 
+Rapidity [10] = -5.002556 
+Rapidity [11] = -4.865687 
+Rapidity [12] = -4.271205 
+Rapidity [13] = -4.115495 
+Rapidity [14] = -4.070708 
+Rapidity [15] = -3.734097 
+Rapidity [16] = -2.965536 
+Rapidity [17] = -2.705578 
+Rapidity [18] = -2.644624 
+Rapidity [19] = -1.994952 
+Rapidity [20] = 0.865050 
+Rapidity [21] = 1.044260 
+Rapidity [22] = 1.534611 
+Rapidity [23] = 1.912309 
+Rapidity [24] = 2.368805 
+Rapidity [25] = 2.790305 
+Rapidity [26] = 3.178199 
+Rapidity [27] = 3.398899 
+Rapidity [28] = 3.815479 
+Rapidity [29] = 3.975841 
+Rapidity [30] = 5.153933 
+Rapidity [31] = 5.182370 
+Rapidity [32] = 5.561305 
+Rapidity [33] = 5.596605 
+Rapidity [34] = 6.031056 
+Rapidity [35] = 7.932341 
+Rapidity [36] = 8.354801 
+Rapidity [37] = 8.354959 
+Rapidity [38] = 8.396575 
+Rapidity [39] = 8.497148 
+Rapidity [40] = 8.526707 
+
+
+
+
+
+
+
+
+Process type = 2 
+PDG:: Mass[0] = 302.604, Mass[1] = 7.4299
+Rapidity [0] = -11.240984 
+Rapidity [1] = -9.242490 
+Rapidity [2] = -9.152476 
+Rapidity [3] = -8.540738 
+Rapidity [4] = -8.360526 
+Rapidity [5] = -7.821998 
+Rapidity [6] = -7.815730 
+Rapidity [7] = -7.641862 
+Rapidity [8] = -7.352526 
+Rapidity [9] = -7.131496 
+Rapidity [10] = -7.049518 
+Rapidity [11] = -6.606782 
+Rapidity [12] = -6.125914 
+Rapidity [13] = -6.095698 
+Rapidity [14] = -6.092070 
+Rapidity [15] = -6.040956 
+Rapidity [16] = -5.954234 
+Rapidity [17] = -5.680915 
+Rapidity [18] = -5.652992 
+Rapidity [19] = -5.516415 
+Rapidity [20] = -5.379420 
+Rapidity [21] = -4.564539 
+Rapidity [22] = -4.477897 
+Rapidity [23] = -4.412763 
+Rapidity [24] = -4.300750 
+Rapidity [25] = -4.220466 
+Rapidity [26] = -4.077165 
+Rapidity [27] = -3.706132 
+Rapidity [28] = -3.439571 
+Rapidity [29] = -3.413986 
+Rapidity [30] = -3.325348 
+Rapidity [31] = -3.279104 
+Rapidity [32] = -3.001746 
+Rapidity [33] = -2.764278 
+Rapidity [34] = -2.585661 
+Rapidity [35] = -2.556249 
+Rapidity [36] = -2.476267 
+Rapidity [37] = -2.358690 
+Rapidity [38] = -2.282785 
+Rapidity [39] = -2.282288 
+Rapidity [40] = -2.279831 
+Rapidity [41] = -2.234229 
+Rapidity [42] = -2.081294 
+Rapidity [43] = -2.031421 
+Rapidity [44] = -1.713735 
+Rapidity [45] = -1.687748 
+Rapidity [46] = -1.620434 
+Rapidity [47] = -1.618115 
+Rapidity [48] = -1.568018 
+Rapidity [49] = -1.535044 
+Rapidity [50] = -1.364919 
+Rapidity [51] = -1.358739 
+Rapidity [52] = -1.225945 
+Rapidity [53] = -1.185684 
+Rapidity [54] = -1.127993 
+Rapidity [55] = -0.778487 
+Rapidity [56] = -0.582147 
+Rapidity [57] = 0.153530 
+Rapidity [58] = 0.189639 
+Rapidity [59] = 0.612537 
+Rapidity [60] = 0.840827 
+Rapidity [61] = 1.251797 
+Rapidity [62] = 1.262334 
+Rapidity [63] = 3.177545 
+Rapidity [64] = 5.640804 
+Rapidity [65] = 5.842842 
+Rapidity [66] = 5.984922 
+Rapidity [67] = 6.233955 
+Rapidity [68] = 6.372523 
+Rapidity [69] = 6.422151 
+Rapidity [70] = 6.464140 
+Rapidity [71] = 6.552049 
+Rapidity [72] = 6.554980 
+Rapidity [73] = 6.876500 
+Rapidity [74] = 7.172807 
+Rapidity [75] = 7.841177 
+Rapidity [76] = 8.163137 
+Rapidity [77] = 8.400060 
+Rapidity [78] = 8.655500 
+Rapidity [79] = 9.104272 
+Rapidity [80] = 9.274989 
+Rapidity [81] = 9.645671 
+Rapidity [82] = 9.984620 
+Rapidity [83] = 10.088796 
+
+
+
+Process type = 0 
+PDG:: Mass[0] = 66.578, Mass[1] = 0.9380
+Rapidity [0] = -9.430513 
+Rapidity [1] = -8.731915 
+Rapidity [2] = -8.529198 
+Rapidity [3] = -8.009022 
+Rapidity [4] = -7.635658 
+Rapidity [5] = -7.128734 
+Rapidity [6] = -6.263200 
+Rapidity [7] = -5.906614 
+Rapidity [8] = -4.798917 
+Rapidity [9] = -4.778332 
+Rapidity [10] = -4.508734 
+Rapidity [11] = -4.162681 
+Rapidity [12] = -3.035466 
+Rapidity [13] = -3.006483 
+Rapidity [14] = -2.537926 
+Rapidity [15] = -0.397148 
+Rapidity [16] = -0.369703 
+Rapidity [17] = 9.522827 
+
+
+Process type = 0 
+PDG:: Mass[0] = 394.379, Mass[1] = 0.9380
+Rapidity [0] = -8.889427 
+Rapidity [1] = -8.642868 
+Rapidity [2] = -8.273341 
+Rapidity [3] = -8.105701 
+Rapidity [4] = -7.796430 
+Rapidity [5] = -7.751263 
+Rapidity [6] = -7.613019 
+Rapidity [7] = -7.570503 
+Rapidity [8] = -7.116052 
+Rapidity [9] = -6.812651 
+Rapidity [10] = -6.581243 
+Rapidity [11] = -5.645867 
+Rapidity [12] = -5.607529 
+Rapidity [13] = -5.114281 
+Rapidity [14] = -5.072676 
+Rapidity [15] = -4.882044 
+Rapidity [16] = -4.781888 
+Rapidity [17] = -4.714924 
+Rapidity [18] = -4.308067 
+Rapidity [19] = -4.291746 
+Rapidity [20] = -3.959827 
+Rapidity [21] = -3.924730 
+Rapidity [22] = -3.796066 
+Rapidity [23] = -3.595669 
+Rapidity [24] = -3.277474 
+Rapidity [25] = -1.985749 
+Rapidity [26] = -1.885743 
+Rapidity [27] = -1.412606 
+Rapidity [28] = -0.758562 
+Rapidity [29] = -0.359703 
+Rapidity [30] = -0.349807 
+Rapidity [31] = -0.262270 
+Rapidity [32] = -0.011638 
+Rapidity [33] = 0.280754 
+Rapidity [34] = 0.544314 
+Rapidity [35] = 0.815171 
+Rapidity [36] = 1.568263 
+Rapidity [37] = 1.750064 
+Rapidity [38] = 2.680636 
+Rapidity [39] = 2.748106 
+Rapidity [40] = 9.354593 
+
+
+Process type = 2 
+PDG:: Mass[0] = 3.631, Mass[1] = 1331.9290
+Rapidity [0] = -10.285310 
+Rapidity [1] = -9.788522 
+Rapidity [2] = -8.391993 
+Rapidity [3] = -6.286027 
+Rapidity [4] = -5.463799 
+Rapidity [5] = -4.979091 
+Rapidity [6] = -3.619654 
+Rapidity [7] = -3.330433 
+Rapidity [8] = -3.228448 
+Rapidity [9] = -3.122190 
+Rapidity [10] = -2.883795 
+Rapidity [11] = -2.772141 
+Rapidity [12] = -2.643575 
+Rapidity [13] = -2.516130 
+Rapidity [14] = -2.378337 
+Rapidity [15] = -2.340424 
+Rapidity [16] = -2.249698 
+Rapidity [17] = -2.205850 
+Rapidity [18] = -1.539555 
+Rapidity [19] = -1.533918 
+Rapidity [20] = -1.492259 
+Rapidity [21] = -1.241849 
+Rapidity [22] = -1.237732 
+Rapidity [23] = -0.984715 
+Rapidity [24] = -0.886068 
+Rapidity [25] = -0.847546 
+Rapidity [26] = -0.798786 
+Rapidity [27] = -0.737894 
+Rapidity [28] = -0.644039 
+Rapidity [29] = -0.429274 
+Rapidity [30] = -0.314355 
+Rapidity [31] = -0.298908 
+Rapidity [32] = -0.283027 
+Rapidity [33] = -0.186380 
+Rapidity [34] = 0.122608 
+Rapidity [35] = 0.252857 
+Rapidity [36] = 0.321550 
+Rapidity [37] = 0.334360 
+Rapidity [38] = 0.339260 
+Rapidity [39] = 0.352889 
+Rapidity [40] = 0.463738 
+Rapidity [41] = 0.566021 
+Rapidity [42] = 0.645938 
+Rapidity [43] = 0.663338 
+Rapidity [44] = 0.895297 
+Rapidity [45] = 1.138244 
+Rapidity [46] = 1.140782 
+Rapidity [47] = 1.185662 
+Rapidity [48] = 1.275768 
+Rapidity [49] = 1.479347 
+Rapidity [50] = 1.495709 
+Rapidity [51] = 1.626594 
+Rapidity [52] = 1.631376 
+Rapidity [53] = 1.680392 
+Rapidity [54] = 1.956093 
+Rapidity [55] = 2.018737 
+Rapidity [56] = 2.177543 
+Rapidity [57] = 2.518074 
+Rapidity [58] = 2.555170 
+Rapidity [59] = 2.848724 
+Rapidity [60] = 2.965855 
+Rapidity [61] = 3.182623 
+Rapidity [62] = 3.670937 
+Rapidity [63] = 4.509239 
+Rapidity [64] = 4.513235 
+Rapidity [65] = 5.223874 
+Rapidity [66] = 5.281031 
+Rapidity [67] = 6.341427 
+Rapidity [68] = 6.937061 
+Rapidity [69] = 7.076589 
+Rapidity [70] = 7.233658 
+Rapidity [71] = 7.876732 
+Rapidity [72] = 8.097452 
+Rapidity [73] = 8.699673 
+Rapidity [74] = 9.356121 
+
+Process type = 1 
+PDG:: Mass[0] = 0.938, Mass[1] = 2828.6831
+Rapidity [0] = -9.447794 
+Rapidity [1] = -7.748003 
+Rapidity [2] = -6.018300 
+Rapidity [3] = -5.872122 
+Rapidity [4] = -4.827581 
+Rapidity [5] = -2.268761 
+Rapidity [6] = -1.640366 
+Rapidity [7] = -1.456502 
+Rapidity [8] = -1.336891 
+Rapidity [9] = -1.284716 
+Rapidity [10] = -1.041492 
+Rapidity [11] = -1.020925 
+Rapidity [12] = -1.015011 
+Rapidity [13] = -0.873913 
+Rapidity [14] = -0.713335 
+Rapidity [15] = -0.558427 
+Rapidity [16] = -0.184379 
+Rapidity [17] = -0.096416 
+Rapidity [18] = 0.347093 
+Rapidity [19] = 0.448088 
+Rapidity [20] = 0.460426 
+Rapidity [21] = 0.498203 
+Rapidity [22] = 0.673726 
+Rapidity [23] = 0.725707 
+Rapidity [24] = 1.013751 
+Rapidity [25] = 2.094135 
+Rapidity [26] = 2.854675 
+Rapidity [27] = 4.024228 
+Rapidity [28] = 4.040624 
+Rapidity [29] = 5.766751 
+Rapidity [30] = 6.226529 
+Rapidity [31] = 6.236933 
+Rapidity [32] = 8.105797 
+Rapidity [33] = 8.596609 
+Rapidity [34] = 8.708032 
+Rapidity [35] = 8.904303 
+Rapidity [36] = 9.429873 
+Rapidity [37] = 10.736539 
+
+Process type = 0 
+PDG:: Mass[0] = 253.037, Mass[1] = 0.9380
+Rapidity [0] = -10.635804 
+Rapidity [1] = -8.876522 
+Rapidity [2] = -8.686952 
+Rapidity [3] = -8.209458 
+Rapidity [4] = -7.208757 
+Rapidity [5] = -6.811252 
+Rapidity [6] = -6.615381 
+Rapidity [7] = -5.651613 
+Rapidity [8] = -5.425446 
+Rapidity [9] = -5.350211 
+Rapidity [10] = -5.131373 
+Rapidity [11] = -4.434652 
+Rapidity [12] = -4.413311 
+Rapidity [13] = -4.290179 
+Rapidity [14] = -4.288737 
+Rapidity [15] = -4.169580 
+Rapidity [16] = -4.014201 
+Rapidity [17] = -3.743355 
+Rapidity [18] = -3.603983 
+Rapidity [19] = -3.184953 
+Rapidity [20] = -3.109608 
+Rapidity [21] = -2.972980 
+Rapidity [22] = -2.729140 
+Rapidity [23] = -2.701113 
+Rapidity [24] = -2.679220 
+Rapidity [25] = -2.043846 
+Rapidity [26] = -1.547551 
+Rapidity [27] = -1.418233 
+Rapidity [28] = -1.236656 
+Rapidity [29] = -0.963902 
+Rapidity [30] = -0.754774 
+Rapidity [31] = -0.653996 
+Rapidity [32] = -0.483294 
+Rapidity [33] = -0.284583 
+Rapidity [34] = -0.040607 
+Rapidity [35] = 0.010654 
+Rapidity [36] = 0.057719 
+Rapidity [37] = 0.279385 
+Rapidity [38] = 0.374259 
+Rapidity [39] = 0.386513 
+Rapidity [40] = 0.825369 
+Rapidity [41] = 0.931069 
+Rapidity [42] = 0.988291 
+Rapidity [43] = 1.003322 
+Rapidity [44] = 9.502505 
+
+Process type = 2 
+PDG:: Mass[0] = 3.466, Mass[1] = 637.4811
+Rapidity [0] = -8.884365 
+Rapidity [1] = -8.344264 
+Rapidity [2] = -6.716580 
+Rapidity [3] = -3.834744 
+Rapidity [4] = -1.445413 
+Rapidity [5] = -1.118995 
+Rapidity [6] = -1.016743 
+Rapidity [7] = -0.059587 
+Rapidity [8] = 0.355226 
+Rapidity [9] = 1.492125 
+Rapidity [10] = 1.685556 
+Rapidity [11] = 2.150160 
+Rapidity [12] = 2.362718 
+Rapidity [13] = 2.605027 
+Rapidity [14] = 2.724534 
+Rapidity [15] = 2.937762 
+Rapidity [16] = 3.298104 
+Rapidity [17] = 3.984163 
+Rapidity [18] = 4.995985 
+Rapidity [19] = 5.356320 
+Rapidity [20] = 5.925363 
+Rapidity [21] = 6.631016 
+Rapidity [22] = 7.344625 
+Rapidity [23] = 7.388241 
+Rapidity [24] = 7.907092 
+Rapidity [25] = 7.923454 
+Rapidity [26] = 8.218448 
+Rapidity [27] = 8.325271 
+Rapidity [28] = 8.672955 
+Rapidity [29] = 8.807949 
+Rapidity [30] = 9.007452 
+Rapidity [31] = 9.567160 
+
+
+Process type = 0 
+PDG:: Mass[0] = 17.925, Mass[1] = 0.9380
+Rapidity [0] = -9.737141 
+Rapidity [1] = -8.878918 
+Rapidity [2] = -8.129070 
+Rapidity [3] = -7.874209 
+Rapidity [4] = -7.170605 
+Rapidity [5] = -7.092655 
+Rapidity [6] = -6.684228 
+Rapidity [7] = -6.552579 
+Rapidity [8] = -6.255061 
+Rapidity [9] = -6.208350 
+Rapidity [10] = -6.059950 
+Rapidity [11] = -5.953242 
+Rapidity [12] = -5.736066 
+Rapidity [13] = -5.608180 
+Rapidity [14] = -5.111150 
+Rapidity [15] = -4.443859 
+Rapidity [16] = -4.440896 
+Rapidity [17] = -4.307153 
+Rapidity [18] = -3.921477 
+Rapidity [19] = -3.557808 
+Rapidity [20] = 9.530195 
+
+
+Process type = 2 
+PDG:: Mass[0] = 11.280, Mass[1] = 1.9272
+Rapidity [0] = -9.012849 
+Rapidity [1] = -8.837045 
+Rapidity [2] = -8.432421 
+Rapidity [3] = -8.371301 
+Rapidity [4] = -8.351325 
+Rapidity [5] = -8.283286 
+Rapidity [6] = -8.185838 
+Rapidity [7] = -8.121885 
+Rapidity [8] = -7.756629 
+Rapidity [9] = -7.166560 
+Rapidity [10] = -6.310623 
+Rapidity [11] = -5.671498 
+Rapidity [12] = -4.770462 
+Rapidity [13] = -4.626972 
+Rapidity [14] = 8.591666 
+Rapidity [15] = 8.699379 
+Rapidity [16] = 8.936952 
+Rapidity [17] = 8.960405 
+Rapidity [18] = 8.966939 
+
+
+
+
+
+Process type = 1 
+PDG:: Mass[0] = 0.938, Mass[1] = 3123.3274
+Rapidity [0] = -9.361316 
+Rapidity [1] = -6.626677 
+Rapidity [2] = -6.268085 
+Rapidity [3] = -6.001870 
+Rapidity [4] = -5.712458 
+Rapidity [5] = -5.636222 
+Rapidity [6] = -4.548437 
+Rapidity [7] = -4.536023 
+Rapidity [8] = -4.391243 
+Rapidity [9] = -4.318180 
+Rapidity [10] = -4.127344 
+Rapidity [11] = -4.038410 
+Rapidity [12] = -3.977275 
+Rapidity [13] = -3.942418 
+Rapidity [14] = -3.880125 
+Rapidity [15] = -3.861485 
+Rapidity [16] = -3.820343 
+Rapidity [17] = -3.775936 
+Rapidity [18] = -3.634236 
+Rapidity [19] = -3.520978 
+Rapidity [20] = -3.327389 
+Rapidity [21] = -3.239980 
+Rapidity [22] = -3.204573 
+Rapidity [23] = -3.157947 
+Rapidity [24] = -2.624423 
+Rapidity [25] = -2.371491 
+Rapidity [26] = -2.295929 
+Rapidity [27] = -2.137236 
+Rapidity [28] = -2.012327 
+Rapidity [29] = -1.866870 
+Rapidity [30] = -1.789570 
+Rapidity [31] = -1.785460 
+Rapidity [32] = -1.637244 
+Rapidity [33] = -1.596197 
+Rapidity [34] = -1.265066 
+Rapidity [35] = -0.984396 
+Rapidity [36] = -0.854439 
+Rapidity [37] = 0.155556 
+Rapidity [38] = 0.395419 
+Rapidity [39] = 1.517864 
+Rapidity [40] = 2.347416 
+Rapidity [41] = 2.361906 
+Rapidity [42] = 2.407973 
+Rapidity [43] = 2.442960 
+Rapidity [44] = 2.800854 
+Rapidity [45] = 2.807674 
+Rapidity [46] = 2.817863 
+Rapidity [47] = 2.980813 
+Rapidity [48] = 3.079461 
+Rapidity [49] = 3.468309 
+Rapidity [50] = 3.484080 
+Rapidity [51] = 3.510852 
+Rapidity [52] = 3.511279 
+Rapidity [53] = 3.596493 
+Rapidity [54] = 3.725689 
+Rapidity [55] = 4.449772 
+Rapidity [56] = 4.553619 
+Rapidity [57] = 4.727044 
+Rapidity [58] = 4.746344 
+Rapidity [59] = 4.904056 
+Rapidity [60] = 4.986878 
+Rapidity [61] = 5.017377 
+Rapidity [62] = 5.322831 
+Rapidity [63] = 5.366305 
+Rapidity [64] = 5.758333 
+Rapidity [65] = 6.072063 
+Rapidity [66] = 6.232387 
+Rapidity [67] = 7.571994 
+Rapidity [68] = 8.797220 
+Rapidity [69] = 8.891310 
+Rapidity [70] = 9.328222 
+
+
+
+
+
+
+Process type = 1 
+PDG:: Mass[0] = 0.938, Mass[1] = 11.6842
+Rapidity [0] = -9.466497 
+Rapidity [1] = 4.205793 
+Rapidity [2] = 4.364552 
+Rapidity [3] = 4.675967 
+Rapidity [4] = 5.108344 
+Rapidity [5] = 5.200208 
+Rapidity [6] = 5.709679 
+Rapidity [7] = 6.196880 
+Rapidity [8] = 6.228941 
+Rapidity [9] = 6.434063 
+Rapidity [10] = 6.636244 
+Rapidity [11] = 6.652993 
+Rapidity [12] = 6.677516 
+Rapidity [13] = 6.855898 
+Rapidity [14] = 7.438941 
+Rapidity [15] = 7.462231 
+Rapidity [16] = 7.889744 
+Rapidity [17] = 8.037433 
+Rapidity [18] = 8.836329 
+Rapidity [19] = 9.219388 
+
+Process type = 0 
+PDG:: Mass[0] = 4246.042, Mass[1] = 0.9380
+Rapidity [0] = -8.749090 
+Rapidity [1] = -8.514909 
+Rapidity [2] = -7.281446 
+Rapidity [3] = -6.993367 
+Rapidity [4] = -6.634226 
+Rapidity [5] = -6.575310 
+Rapidity [6] = -6.188102 
+Rapidity [7] = -5.776800 
+Rapidity [8] = -5.755490 
+Rapidity [9] = -5.425273 
+Rapidity [10] = -5.409798 
+Rapidity [11] = -5.294684 
+Rapidity [12] = -5.235079 
+Rapidity [13] = -5.137366 
+Rapidity [14] = -4.678853 
+Rapidity [15] = -4.574739 
+Rapidity [16] = -4.288259 
+Rapidity [17] = -3.658348 
+Rapidity [18] = -3.331150 
+Rapidity [19] = -2.456710 
+Rapidity [20] = -1.531498 
+Rapidity [21] = 1.301296 
+Rapidity [22] = 1.500603 
+Rapidity [23] = 2.281070 
+Rapidity [24] = 2.482141 
+Rapidity [25] = 2.890635 
+Rapidity [26] = 3.051796 
+Rapidity [27] = 3.144411 
+Rapidity [28] = 3.641144 
+Rapidity [29] = 3.873722 
+Rapidity [30] = 4.521237 
+Rapidity [31] = 4.532790 
+Rapidity [32] = 4.612734 
+Rapidity [33] = 4.862517 
+Rapidity [34] = 4.867268 
+Rapidity [35] = 5.231928 
+Rapidity [36] = 5.544938 
+Rapidity [37] = 6.002529 
+Rapidity [38] = 6.302646 
+Rapidity [39] = 6.951524 
+Rapidity [40] = 7.477677 
+Rapidity [41] = 8.634807 
+Rapidity [42] = 9.396482 
+
+
+
+
+
+
+
+
+
+Process type = 2 
+PDG:: Mass[0] = 4.049, Mass[1] = 1.8980
+Rapidity [0] = -9.266163 
+Rapidity [1] = -8.090086 
+Rapidity [2] = -7.710373 
+Rapidity [3] = -7.061345 
+Rapidity [4] = -6.957632 
+Rapidity [5] = -6.077116 
+Rapidity [6] = 8.551909 
+Rapidity [7] = 8.769630 
+Rapidity [8] = 9.187210 
+Rapidity [9] = 9.468729 
+
+
+
+
+
+Process type = 0 
+PDG:: Mass[0] = 3801.010, Mass[1] = 0.9380
+Rapidity [0] = -9.127333 
+Rapidity [1] = -8.789971 
+Rapidity [2] = -7.990025 
+Rapidity [3] = -7.898448 
+Rapidity [4] = -7.761788 
+Rapidity [5] = -7.314143 
+Rapidity [6] = -7.226146 
+Rapidity [7] = -6.692410 
+Rapidity [8] = -6.303850 
+Rapidity [9] = -6.198012 
+Rapidity [10] = -5.795353 
+Rapidity [11] = -5.618635 
+Rapidity [12] = -5.539666 
+Rapidity [13] = -5.252316 
+Rapidity [14] = -4.863461 
+Rapidity [15] = -4.280827 
+Rapidity [16] = -4.245751 
+Rapidity [17] = -4.197516 
+Rapidity [18] = -4.141928 
+Rapidity [19] = -3.820340 
+Rapidity [20] = -3.672100 
+Rapidity [21] = -3.504985 
+Rapidity [22] = -3.457964 
+Rapidity [23] = -3.171161 
+Rapidity [24] = -2.782592 
+Rapidity [25] = -2.376701 
+Rapidity [26] = -2.095313 
+Rapidity [27] = -2.036344 
+Rapidity [28] = -2.022379 
+Rapidity [29] = -1.904540 
+Rapidity [30] = -1.737983 
+Rapidity [31] = -0.899614 
+Rapidity [32] = -0.662055 
+Rapidity [33] = -0.566033 
+Rapidity [34] = -0.564865 
+Rapidity [35] = -0.400728 
+Rapidity [36] = -0.295579 
+Rapidity [37] = -0.167164 
+Rapidity [38] = 0.009236 
+Rapidity [39] = 0.421934 
+Rapidity [40] = 1.066980 
+Rapidity [41] = 1.291078 
+Rapidity [42] = 1.366272 
+Rapidity [43] = 1.392608 
+Rapidity [44] = 1.696941 
+Rapidity [45] = 2.715460 
+Rapidity [46] = 2.979324 
+Rapidity [47] = 3.145376 
+Rapidity [48] = 3.164168 
+Rapidity [49] = 3.186592 
+Rapidity [50] = 3.315081 
+Rapidity [51] = 3.511983 
+Rapidity [52] = 3.689658 
+Rapidity [53] = 3.869939 
+Rapidity [54] = 3.928722 
+Rapidity [55] = 4.024538 
+Rapidity [56] = 4.207737 
+Rapidity [57] = 4.389280 
+Rapidity [58] = 4.475395 
+Rapidity [59] = 4.480707 
+Rapidity [60] = 4.569264 
+Rapidity [61] = 4.984036 
+Rapidity [62] = 5.035870 
+Rapidity [63] = 5.217976 
+Rapidity [64] = 5.516706 
+Rapidity [65] = 5.949993 
+Rapidity [66] = 6.071339 
+Rapidity [67] = 7.530734 
+Rapidity [68] = 9.237335 
+
+
+
+
+Process type = 2 
+PDG:: Mass[0] = 309.156, Mass[1] = 1.3687
+Rapidity [0] = -8.843242 
+Rapidity [1] = -8.776754 
+Rapidity [2] = -8.567114 
+Rapidity [3] = -8.551881 
+Rapidity [4] = -8.123598 
+Rapidity [5] = -7.943399 
+Rapidity [6] = -7.851214 
+Rapidity [7] = -7.731785 
+Rapidity [8] = -7.472769 
+Rapidity [9] = -6.044989 
+Rapidity [10] = -5.678293 
+Rapidity [11] = -5.528658 
+Rapidity [12] = -5.267275 
+Rapidity [13] = -4.990421 
+Rapidity [14] = -4.202491 
+Rapidity [15] = -3.876168 
+Rapidity [16] = -3.851670 
+Rapidity [17] = -3.591984 
+Rapidity [18] = -3.583842 
+Rapidity [19] = -2.491240 
+Rapidity [20] = -2.252320 
+Rapidity [21] = -1.430851 
+Rapidity [22] = -1.306411 
+Rapidity [23] = -1.234277 
+Rapidity [24] = -1.190599 
+Rapidity [25] = -1.135044 
+Rapidity [26] = -0.965453 
+Rapidity [27] = -0.841700 
+Rapidity [28] = -0.328323 
+Rapidity [29] = -0.202532 
+Rapidity [30] = -0.160505 
+Rapidity [31] = 0.081933 
+Rapidity [32] = 2.665668 
+Rapidity [33] = 8.737766 
+Rapidity [34] = 10.020821 
+Rapidity [35] = 10.517524 
+
+
+Process type = 0 
+PDG:: Mass[0] = 261.634, Mass[1] = 0.9380
+Rapidity [0] = -9.018923 
+Rapidity [1] = -8.119781 
+Rapidity [2] = -7.440665 
+Rapidity [3] = -7.038658 
+Rapidity [4] = -6.630871 
+Rapidity [5] = -6.628321 
+Rapidity [6] = -6.546838 
+Rapidity [7] = -6.529580 
+Rapidity [8] = -6.053417 
+Rapidity [9] = -5.917408 
+Rapidity [10] = -5.093623 
+Rapidity [11] = -5.031024 
+Rapidity [12] = -4.745217 
+Rapidity [13] = -4.400107 
+Rapidity [14] = -4.094032 
+Rapidity [15] = -4.087486 
+Rapidity [16] = -3.921168 
+Rapidity [17] = -3.577153 
+Rapidity [18] = -3.525922 
+Rapidity [19] = -3.425980 
+Rapidity [20] = -3.093081 
+Rapidity [21] = -0.516183 
+Rapidity [22] = -0.054319 
+Rapidity [23] = 0.220277 
+Rapidity [24] = 0.974467 
+Rapidity [25] = 1.211798 
+Rapidity [26] = 1.275341 
+Rapidity [27] = 9.433084 
+
+
+Process type = 1 
+PDG:: Mass[0] = 0.938, Mass[1] = 11.0288
+Rapidity [0] = -9.387251 
+Rapidity [1] = 3.810072 
+Rapidity [2] = 5.316406 
+Rapidity [3] = 5.466466 
+Rapidity [4] = 5.952145 
+Rapidity [5] = 6.970151 
+Rapidity [6] = 7.209308 
+Rapidity [7] = 7.347953 
+Rapidity [8] = 7.450252 
+Rapidity [9] = 7.525814 
+Rapidity [10] = 7.788857 
+Rapidity [11] = 7.852458 
+Rapidity [12] = 8.181640 
+Rapidity [13] = 8.310316 
+Rapidity [14] = 8.446690 
+Rapidity [15] = 8.631897 
+Rapidity [16] = 8.667279 
+Rapidity [17] = 8.895347 
+
+
+
+
+
+
+
+Process type = 0 
+PDG:: Mass[0] = 354.844, Mass[1] = 0.9380
+Rapidity [0] = -9.250340 
+Rapidity [1] = -8.993754 
+Rapidity [2] = -8.370812 
+Rapidity [3] = -7.057280 
+Rapidity [4] = -6.682002 
+Rapidity [5] = -6.590020 
+Rapidity [6] = -6.516188 
+Rapidity [7] = -6.434601 
+Rapidity [8] = -6.234761 
+Rapidity [9] = -6.172829 
+Rapidity [10] = -5.248142 
+Rapidity [11] = -5.145098 
+Rapidity [12] = -4.284812 
+Rapidity [13] = -3.213411 
+Rapidity [14] = -3.166919 
+Rapidity [15] = -2.894470 
+Rapidity [16] = -2.141306 
+Rapidity [17] = -2.123379 
+Rapidity [18] = -1.603465 
+Rapidity [19] = -1.310835 
+Rapidity [20] = -1.036338 
+Rapidity [21] = -0.746004 
+Rapidity [22] = -0.576245 
+Rapidity [23] = -0.519507 
+Rapidity [24] = 0.125900 
+Rapidity [25] = 1.277357 
+Rapidity [26] = 1.441942 
+Rapidity [27] = 1.693837 
+Rapidity [28] = 2.910528 
+Rapidity [29] = 3.132250 
+Rapidity [30] = 3.210093 
+Rapidity [31] = 9.516148 
+
+
+
+
+Process type = 2 
+PDG:: Mass[0] = 109.631, Mass[1] = 12.5679
+Rapidity [0] = -9.015548 
+Rapidity [1] = -7.819452 
+Rapidity [2] = -7.775091 
+Rapidity [3] = -7.711660 
+Rapidity [4] = -7.223668 
+Rapidity [5] = -6.769529 
+Rapidity [6] = -6.665589 
+Rapidity [7] = -6.165206 
+Rapidity [8] = -5.700634 
+Rapidity [9] = -5.638345 
+Rapidity [10] = -5.360381 
+Rapidity [11] = -5.282982 
+Rapidity [12] = -4.799382 
+Rapidity [13] = -4.513667 
+Rapidity [14] = -3.777769 
+Rapidity [15] = -3.758242 
+Rapidity [16] = -3.278583 
+Rapidity [17] = -3.239316 
+Rapidity [18] = -3.172660 
+Rapidity [19] = -2.885380 
+Rapidity [20] = -2.713814 
+Rapidity [21] = -2.611224 
+Rapidity [22] = -2.249793 
+Rapidity [23] = -1.920449 
+Rapidity [24] = -1.862200 
+Rapidity [25] = -1.584399 
+Rapidity [26] = -1.349480 
+Rapidity [27] = -0.869124 
+Rapidity [28] = 1.686392 
+Rapidity [29] = 4.085032 
+Rapidity [30] = 4.801581 
+Rapidity [31] = 5.293273 
+Rapidity [32] = 5.626366 
+Rapidity [33] = 5.913331 
+Rapidity [34] = 8.097774 
+Rapidity [35] = 8.218208 
+Rapidity [36] = 8.551127 
+Rapidity [37] = 8.904480 
+Rapidity [38] = 9.134432 
+Rapidity [39] = 9.287689 
+
+
+Process type = 0 
+PDG:: Mass[0] = 3157.292, Mass[1] = 0.9380
+Rapidity [0] = -9.791321 
+Rapidity [1] = -8.709238 
+Rapidity [2] = -8.351169 
+Rapidity [3] = -8.099302 
+Rapidity [4] = -7.883966 
+Rapidity [5] = -7.700549 
+Rapidity [6] = -7.225786 
+Rapidity [7] = -7.202309 
+Rapidity [8] = -7.201152 
+Rapidity [9] = -7.045022 
+Rapidity [10] = -6.974904 
+Rapidity [11] = -6.955166 
+Rapidity [12] = -6.888193 
+Rapidity [13] = -6.824855 
+Rapidity [14] = -6.744564 
+Rapidity [15] = -6.726195 
+Rapidity [16] = -6.527853 
+Rapidity [17] = -6.429162 
+Rapidity [18] = -6.426871 
+Rapidity [19] = -6.186195 
+Rapidity [20] = -6.085619 
+Rapidity [21] = -6.062143 
+Rapidity [22] = -5.938179 
+Rapidity [23] = -5.696067 
+Rapidity [24] = -5.326837 
+Rapidity [25] = -5.090868 
+Rapidity [26] = -4.967709 
+Rapidity [27] = -4.934880 
+Rapidity [28] = -4.625732 
+Rapidity [29] = -4.442135 
+Rapidity [30] = -4.437654 
+Rapidity [31] = -4.391010 
+Rapidity [32] = -4.299049 
+Rapidity [33] = -3.964951 
+Rapidity [34] = -3.773557 
+Rapidity [35] = -3.513702 
+Rapidity [36] = -3.381741 
+Rapidity [37] = -3.275692 
+Rapidity [38] = -3.269996 
+Rapidity [39] = -3.141960 
+Rapidity [40] = -3.059505 
+Rapidity [41] = -2.883273 
+Rapidity [42] = -2.798620 
+Rapidity [43] = -2.779565 
+Rapidity [44] = -2.761660 
+Rapidity [45] = -2.628307 
+Rapidity [46] = -2.616154 
+Rapidity [47] = -2.418098 
+Rapidity [48] = -2.321692 
+Rapidity [49] = -2.043863 
+Rapidity [50] = -1.777883 
+Rapidity [51] = -1.526967 
+Rapidity [52] = -1.489607 
+Rapidity [53] = -1.480815 
+Rapidity [54] = -1.323252 
+Rapidity [55] = -1.150505 
+Rapidity [56] = -1.089400 
+Rapidity [57] = -0.698248 
+Rapidity [58] = -0.302207 
+Rapidity [59] = -0.233901 
+Rapidity [60] = -0.074820 
+Rapidity [61] = 1.143210 
+Rapidity [62] = 1.398503 
+Rapidity [63] = 1.569892 
+Rapidity [64] = 1.779973 
+Rapidity [65] = 1.791147 
+Rapidity [66] = 2.200807 
+Rapidity [67] = 2.507804 
+Rapidity [68] = 2.601594 
+Rapidity [69] = 2.691720 
+Rapidity [70] = 2.815524 
+Rapidity [71] = 2.988489 
+Rapidity [72] = 3.016009 
+Rapidity [73] = 3.262397 
+Rapidity [74] = 3.324855 
+Rapidity [75] = 3.329519 
+Rapidity [76] = 3.366014 
+Rapidity [77] = 3.527276 
+Rapidity [78] = 3.928945 
+Rapidity [79] = 3.984840 
+Rapidity [80] = 4.091957 
+Rapidity [81] = 4.236065 
+Rapidity [82] = 4.614545 
+Rapidity [83] = 4.974345 
+Rapidity [84] = 5.017983 
+Rapidity [85] = 5.235303 
+Rapidity [86] = 9.310058 
+
+Process type = 2 
+PDG:: Mass[0] = 355.471, Mass[1] = 10.1838
+Rapidity [0] = -9.324887 
+Rapidity [1] = -8.706984 
+Rapidity [2] = -8.584350 
+Rapidity [3] = -8.134300 
+Rapidity [4] = -7.725690 
+Rapidity [5] = -7.093248 
+Rapidity [6] = -6.537043 
+Rapidity [7] = -6.429906 
+Rapidity [8] = -6.357498 
+Rapidity [9] = -6.306042 
+Rapidity [10] = -6.164440 
+Rapidity [11] = -6.009729 
+Rapidity [12] = -5.457476 
+Rapidity [13] = -5.243503 
+Rapidity [14] = -5.188908 
+Rapidity [15] = -5.159175 
+Rapidity [16] = -5.008434 
+Rapidity [17] = -4.974019 
+Rapidity [18] = -4.722594 
+Rapidity [19] = -4.371572 
+Rapidity [20] = -4.194931 
+Rapidity [21] = -4.174074 
+Rapidity [22] = -4.106924 
+Rapidity [23] = -3.454298 
+Rapidity [24] = -3.218931 
+Rapidity [25] = -3.144743 
+Rapidity [26] = -3.083606 
+Rapidity [27] = -2.966187 
+Rapidity [28] = -2.776782 
+Rapidity [29] = -2.729011 
+Rapidity [30] = -2.705591 
+Rapidity [31] = -2.613427 
+Rapidity [32] = -2.521401 
+Rapidity [33] = -2.473741 
+Rapidity [34] = -2.389116 
+Rapidity [35] = -2.237409 
+Rapidity [36] = -2.234604 
+Rapidity [37] = -2.125296 
+Rapidity [38] = -1.700641 
+Rapidity [39] = -1.073273 
+Rapidity [40] = -0.842797 
+Rapidity [41] = -0.622775 
+Rapidity [42] = -0.499801 
+Rapidity [43] = -0.454160 
+Rapidity [44] = -0.410558 
+Rapidity [45] = -0.310553 
+Rapidity [46] = -0.100044 
+Rapidity [47] = 0.257802 
+Rapidity [48] = 0.259895 
+Rapidity [49] = 0.476027 
+Rapidity [50] = 0.485356 
+Rapidity [51] = 0.510350 
+Rapidity [52] = 0.968116 
+Rapidity [53] = 1.149519 
+Rapidity [54] = 1.526613 
+Rapidity [55] = 4.548949 
+Rapidity [56] = 4.941156 
+Rapidity [57] = 5.184487 
+Rapidity [58] = 6.268696 
+Rapidity [59] = 7.096655 
+Rapidity [60] = 7.557586 
+Rapidity [61] = 7.611941 
+Rapidity [62] = 8.710715 
+Rapidity [63] = 9.248104 
+
+Process type = 2 
+PDG:: Mass[0] = 11.343, Mass[1] = 9.1012
+Rapidity [0] = -8.672024 
+Rapidity [1] = -8.154066 
+Rapidity [2] = -7.455979 
+Rapidity [3] = -7.221607 
+Rapidity [4] = -6.740621 
+Rapidity [5] = -5.763769 
+Rapidity [6] = -5.502210 
+Rapidity [7] = -5.392562 
+Rapidity [8] = -4.847936 
+Rapidity [9] = -4.546498 
+Rapidity [10] = 3.007410 
+Rapidity [11] = 5.380912 
+Rapidity [12] = 5.576170 
+Rapidity [13] = 5.810117 
+Rapidity [14] = 5.952631 
+Rapidity [15] = 6.391922 
+Rapidity [16] = 6.512213 
+Rapidity [17] = 6.771772 
+Rapidity [18] = 7.120365 
+Rapidity [19] = 7.691955 
+Rapidity [20] = 7.805157 
+Rapidity [21] = 8.063266 
+Rapidity [22] = 8.063644 
+Rapidity [23] = 8.241047 
+Rapidity [24] = 8.429257 
+Rapidity [25] = 8.668846 
+Rapidity [26] = 9.951655 
+
+
+Process type = 2 
+PDG:: Mass[0] = 4.738, Mass[1] = 181.6700
+Rapidity [0] = -9.042838 
+Rapidity [1] = -8.778621 
+Rapidity [2] = -8.695434 
+Rapidity [3] = -8.482664 
+Rapidity [4] = -6.307702 
+Rapidity [5] = -6.113380 
+Rapidity [6] = -5.772865 
+Rapidity [7] = -0.253981 
+Rapidity [8] = -0.094493 
+Rapidity [9] = -0.024193 
+Rapidity [10] = 0.050204 
+Rapidity [11] = 0.185130 
+Rapidity [12] = 1.059318 
+Rapidity [13] = 1.208280 
+Rapidity [14] = 1.470423 
+Rapidity [15] = 1.593397 
+Rapidity [16] = 2.200858 
+Rapidity [17] = 3.379231 
+Rapidity [18] = 3.434531 
+Rapidity [19] = 4.011077 
+Rapidity [20] = 4.207365 
+Rapidity [21] = 4.260153 
+Rapidity [22] = 4.632024 
+Rapidity [23] = 4.633661 
+Rapidity [24] = 4.640072 
+Rapidity [25] = 6.240131 
+Rapidity [26] = 6.952437 
+Rapidity [27] = 7.222291 
+Rapidity [28] = 7.450963 
+Rapidity [29] = 7.754466 
+Rapidity [30] = 7.856171 
+Rapidity [31] = 8.040471 
+Rapidity [32] = 8.091848 
+Rapidity [33] = 8.189768 
+Rapidity [34] = 8.344719 
+Rapidity [35] = 8.891033 
+Rapidity [36] = 8.912134 
+
+
+Process type = 0 
+PDG:: Mass[0] = 38.537, Mass[1] = 0.9380
+Rapidity [0] = -9.185983 
+Rapidity [1] = -9.137858 
+Rapidity [2] = -8.964688 
+Rapidity [3] = -8.799543 
+Rapidity [4] = -7.958493 
+Rapidity [5] = -7.687648 
+Rapidity [6] = -7.279270 
+Rapidity [7] = -6.962508 
+Rapidity [8] = -6.663540 
+Rapidity [9] = -6.026176 
+Rapidity [10] = -5.891083 
+Rapidity [11] = -5.427668 
+Rapidity [12] = -5.071199 
+Rapidity [13] = -4.911103 
+Rapidity [14] = -4.674395 
+Rapidity [15] = -4.613632 
+Rapidity [16] = -4.547624 
+Rapidity [17] = -4.463581 
+Rapidity [18] = -4.235809 
+Rapidity [19] = -4.082322 
+Rapidity [20] = -3.424876 
+Rapidity [21] = -2.994582 
+Rapidity [22] = -2.981273 
+Rapidity [23] = -2.698867 
+Rapidity [24] = 9.415375 
+
+
+
+
+
+
+
+Process type = 2 
+PDG:: Mass[0] = 4.438, Mass[1] = 765.7841
+Rapidity [0] = -8.966736 
+Rapidity [1] = -8.666205 
+Rapidity [2] = -8.003800 
+Rapidity [3] = -7.593139 
+Rapidity [4] = -6.875194 
+Rapidity [5] = -6.463757 
+Rapidity [6] = -3.555774 
+Rapidity [7] = -2.643207 
+Rapidity [8] = -2.414718 
+Rapidity [9] = -1.996370 
+Rapidity [10] = -1.901766 
+Rapidity [11] = -1.618096 
+Rapidity [12] = -1.449778 
+Rapidity [13] = 0.590919 
+Rapidity [14] = 0.658537 
+Rapidity [15] = 0.687993 
+Rapidity [16] = 0.914917 
+Rapidity [17] = 1.215525 
+Rapidity [18] = 1.361825 
+Rapidity [19] = 1.405468 
+Rapidity [20] = 1.697454 
+Rapidity [21] = 1.817603 
+Rapidity [22] = 1.978650 
+Rapidity [23] = 2.042967 
+Rapidity [24] = 2.340681 
+Rapidity [25] = 2.498698 
+Rapidity [26] = 3.343249 
+Rapidity [27] = 3.406368 
+Rapidity [28] = 4.197337 
+Rapidity [29] = 4.447221 
+Rapidity [30] = 4.472170 
+Rapidity [31] = 4.507707 
+Rapidity [32] = 5.090726 
+Rapidity [33] = 5.814938 
+Rapidity [34] = 6.411702 
+Rapidity [35] = 6.470020 
+Rapidity [36] = 7.409034 
+Rapidity [37] = 8.512993 
+Rapidity [38] = 8.822371 
+Rapidity [39] = 9.190471 
+Rapidity [40] = 10.848631 
+
+
+Process type = 0 
+PDG:: Mass[0] = 803.178, Mass[1] = 0.9380
+Rapidity [0] = -8.455270 
+Rapidity [1] = -8.451503 
+Rapidity [2] = -8.389558 
+Rapidity [3] = -8.225230 
+Rapidity [4] = -7.088597 
+Rapidity [5] = -6.263246 
+Rapidity [6] = -5.904626 
+Rapidity [7] = -5.665175 
+Rapidity [8] = -5.652066 
+Rapidity [9] = -5.349200 
+Rapidity [10] = -5.304512 
+Rapidity [11] = -4.720676 
+Rapidity [12] = -3.598139 
+Rapidity [13] = -3.420249 
+Rapidity [14] = -3.225683 
+Rapidity [15] = -2.584030 
+Rapidity [16] = -2.499744 
+Rapidity [17] = -2.296445 
+Rapidity [18] = -2.237952 
+Rapidity [19] = -1.817487 
+Rapidity [20] = -1.672697 
+Rapidity [21] = -1.634663 
+Rapidity [22] = -1.347126 
+Rapidity [23] = -1.161040 
+Rapidity [24] = -0.967000 
+Rapidity [25] = -0.934019 
+Rapidity [26] = -0.932889 
+Rapidity [27] = -0.913881 
+Rapidity [28] = -0.681992 
+Rapidity [29] = -0.661373 
+Rapidity [30] = -0.477050 
+Rapidity [31] = -0.476380 
+Rapidity [32] = -0.376840 
+Rapidity [33] = -0.263519 
+Rapidity [34] = -0.190347 
+Rapidity [35] = -0.087227 
+Rapidity [36] = 0.322372 
+Rapidity [37] = 1.022619 
+Rapidity [38] = 1.048741 
+Rapidity [39] = 1.612538 
+Rapidity [40] = 1.973960 
+Rapidity [41] = 1.990136 
+Rapidity [42] = 2.527764 
+Rapidity [43] = 3.019820 
+Rapidity [44] = 4.815137 
+Rapidity [45] = 9.401122 
+
+Process type = 2 
+PDG:: Mass[0] = 1.802, Mass[1] = 34.8444
+Rapidity [0] = -9.203038 
+Rapidity [1] = -8.970174 
+Rapidity [2] = -8.632959 
+Rapidity [3] = 2.589560 
+Rapidity [4] = 2.602464 
+Rapidity [5] = 3.081259 
+Rapidity [6] = 3.515569 
+Rapidity [7] = 3.728668 
+Rapidity [8] = 3.896225 
+Rapidity [9] = 4.197467 
+Rapidity [10] = 4.509418 
+Rapidity [11] = 4.807497 
+Rapidity [12] = 4.906806 
+Rapidity [13] = 5.588340 
+Rapidity [14] = 5.876169 
+Rapidity [15] = 5.997391 
+Rapidity [16] = 6.171567 
+Rapidity [17] = 6.376725 
+Rapidity [18] = 6.820683 
+Rapidity [19] = 7.528040 
+Rapidity [20] = 7.577353 
+Rapidity [21] = 7.664993 
+Rapidity [22] = 7.692611 
+Rapidity [23] = 9.131709 
+
+
+Process type = 1 
+PDG:: Mass[0] = 0.938, Mass[1] = 409.8960
+Rapidity [0] = -9.434621 
+Rapidity [1] = -1.465447 
+Rapidity [2] = -1.434305 
+Rapidity [3] = -0.699737 
+Rapidity [4] = -0.263724 
+Rapidity [5] = -0.045675 
+Rapidity [6] = 0.204379 
+Rapidity [7] = 0.906806 
+Rapidity [8] = 1.303602 
+Rapidity [9] = 1.315985 
+Rapidity [10] = 1.840047 
+Rapidity [11] = 2.070926 
+Rapidity [12] = 2.114254 
+Rapidity [13] = 2.133570 
+Rapidity [14] = 2.444785 
+Rapidity [15] = 2.449021 
+Rapidity [16] = 2.547625 
+Rapidity [17] = 2.600678 
+Rapidity [18] = 2.752693 
+Rapidity [19] = 2.950438 
+Rapidity [20] = 3.036030 
+Rapidity [21] = 3.117134 
+Rapidity [22] = 3.180447 
+Rapidity [23] = 3.277354 
+Rapidity [24] = 3.598699 
+Rapidity [25] = 3.727158 
+Rapidity [26] = 3.882577 
+Rapidity [27] = 3.911539 
+Rapidity [28] = 3.935742 
+Rapidity [29] = 4.085257 
+Rapidity [30] = 4.107587 
+Rapidity [31] = 4.391599 
+Rapidity [32] = 4.473340 
+Rapidity [33] = 4.519237 
+Rapidity [34] = 4.634079 
+Rapidity [35] = 4.741886 
+Rapidity [36] = 4.909467 
+Rapidity [37] = 5.304352 
+Rapidity [38] = 5.491915 
+Rapidity [39] = 5.522699 
+Rapidity [40] = 5.998293 
+Rapidity [41] = 6.101453 
+Rapidity [42] = 6.188966 
+Rapidity [43] = 6.578231 
+Rapidity [44] = 6.623166 
+Rapidity [45] = 6.980647 
+Rapidity [46] = 7.068563 
+Rapidity [47] = 7.140347 
+Rapidity [48] = 7.230700 
+Rapidity [49] = 7.243685 
+Rapidity [50] = 7.282961 
+Rapidity [51] = 7.542368 
+Rapidity [52] = 7.681121 
+Rapidity [53] = 7.810153 
+Rapidity [54] = 8.140403 
+Rapidity [55] = 8.617937 
+Rapidity [56] = 8.844371 
+
+
+Process type = 0 
+PDG:: Mass[0] = 4799.818, Mass[1] = 0.9380
+Rapidity [0] = -9.088089 
+Rapidity [1] = -8.434408 
+Rapidity [2] = -8.185632 
+Rapidity [3] = -6.863462 
+Rapidity [4] = -6.257475 
+Rapidity [5] = -3.976786 
+Rapidity [6] = -3.808734 
+Rapidity [7] = -3.669315 
+Rapidity [8] = -3.522750 
+Rapidity [9] = -3.431020 
+Rapidity [10] = -3.379414 
+Rapidity [11] = -3.365229 
+Rapidity [12] = -3.262692 
+Rapidity [13] = -2.999280 
+Rapidity [14] = -2.616247 
+Rapidity [15] = -2.584821 
+Rapidity [16] = -2.351749 
+Rapidity [17] = -0.907650 
+Rapidity [18] = -0.561072 
+Rapidity [19] = -0.005158 
+Rapidity [20] = 0.619012 
+Rapidity [21] = 0.690433 
+Rapidity [22] = 0.986873 
+Rapidity [23] = 0.992902 
+Rapidity [24] = 1.010387 
+Rapidity [25] = 1.260156 
+Rapidity [26] = 1.883389 
+Rapidity [27] = 2.485850 
+Rapidity [28] = 2.932045 
+Rapidity [29] = 3.111128 
+Rapidity [30] = 3.219526 
+Rapidity [31] = 3.266262 
+Rapidity [32] = 3.756003 
+Rapidity [33] = 4.414216 
+Rapidity [34] = 4.787956 
+Rapidity [35] = 4.793976 
+Rapidity [36] = 4.820200 
+Rapidity [37] = 5.267466 
+Rapidity [38] = 5.435254 
+Rapidity [39] = 5.471028 
+Rapidity [40] = 5.565286 
+Rapidity [41] = 5.588893 
+Rapidity [42] = 5.755739 
+Rapidity [43] = 5.772044 
+Rapidity [44] = 6.178454 
+Rapidity [45] = 6.432303 
+Rapidity [46] = 6.659319 
+Rapidity [47] = 7.118123 
+Rapidity [48] = 7.246941 
+Rapidity [49] = 7.615591 
+Rapidity [50] = 9.296778 
+
+Process type = 2 
+PDG:: Mass[0] = 545.028, Mass[1] = 3.8045
+Rapidity [0] = -9.074984 
+Rapidity [1] = -8.775028 
+Rapidity [2] = -7.954959 
+Rapidity [3] = -6.931382 
+Rapidity [4] = -6.847948 
+Rapidity [5] = -5.946622 
+Rapidity [6] = -5.686323 
+Rapidity [7] = -5.335084 
+Rapidity [8] = -5.307099 
+Rapidity [9] = -5.011954 
+Rapidity [10] = -4.909340 
+Rapidity [11] = -4.782782 
+Rapidity [12] = -4.693057 
+Rapidity [13] = -4.283702 
+Rapidity [14] = -4.224788 
+Rapidity [15] = -4.015807 
+Rapidity [16] = -3.880298 
+Rapidity [17] = -3.505470 
+Rapidity [18] = -3.284487 
+Rapidity [19] = -3.107410 
+Rapidity [20] = -2.915753 
+Rapidity [21] = -2.912527 
+Rapidity [22] = -2.343610 
+Rapidity [23] = -2.161761 
+Rapidity [24] = -1.736576 
+Rapidity [25] = -1.572500 
+Rapidity [26] = -1.126596 
+Rapidity [27] = -0.974168 
+Rapidity [28] = -0.970276 
+Rapidity [29] = -0.085090 
+Rapidity [30] = 0.304058 
+Rapidity [31] = 0.406766 
+Rapidity [32] = 0.434934 
+Rapidity [33] = 0.678118 
+Rapidity [34] = 0.956875 
+Rapidity [35] = 1.022514 
+Rapidity [36] = 1.038389 
+Rapidity [37] = 1.510887 
+Rapidity [38] = 1.553699 
+Rapidity [39] = 1.779605 
+Rapidity [40] = 2.236704 
+Rapidity [41] = 3.174252 
+Rapidity [42] = 7.441389 
+Rapidity [43] = 8.060047 
+Rapidity [44] = 8.160831 
+Rapidity [45] = 8.379602 
+Rapidity [46] = 8.670560 
+
+Process type = 2 
+PDG:: Mass[0] = 7.752, Mass[1] = 73.8660
+Rapidity [0] = -8.866992 
+Rapidity [1] = -8.773880 
+Rapidity [2] = -8.184780 
+Rapidity [3] = -7.899625 
+Rapidity [4] = -7.802495 
+Rapidity [5] = -7.746222 
+Rapidity [6] = -6.919541 
+Rapidity [7] = -6.801785 
+Rapidity [8] = -6.778176 
+Rapidity [9] = -6.754714 
+Rapidity [10] = -6.463541 
+Rapidity [11] = -6.053176 
+Rapidity [12] = -5.797745 
+Rapidity [13] = -5.487301 
+Rapidity [14] = -5.203410 
+Rapidity [15] = 0.353221 
+Rapidity [16] = 1.248086 
+Rapidity [17] = 2.383156 
+Rapidity [18] = 5.472141 
+Rapidity [19] = 5.971453 
+Rapidity [20] = 6.185313 
+Rapidity [21] = 7.210343 
+Rapidity [22] = 7.230667 
+Rapidity [23] = 7.640338 
+Rapidity [24] = 9.924145 
+Rapidity [25] = 10.187266 
+
+
+Process type = 0 
+PDG:: Mass[0] = 1.789, Mass[1] = 0.9380
+Rapidity [0] = -9.048816 
+Rapidity [1] = -8.581585 
+Rapidity [2] = 9.474985 
+
+Process type = 0 
+PDG:: Mass[0] = 154.230, Mass[1] = 0.9380
+Rapidity [0] = -9.507117 
+Rapidity [1] = -8.106123 
+Rapidity [2] = -8.074390 
+Rapidity [3] = -7.877307 
+Rapidity [4] = -7.672488 
+Rapidity [5] = -7.275701 
+Rapidity [6] = -6.460218 
+Rapidity [7] = -6.365939 
+Rapidity [8] = -6.323984 
+Rapidity [9] = -5.858385 
+Rapidity [10] = -5.717167 
+Rapidity [11] = -5.679118 
+Rapidity [12] = -5.415357 
+Rapidity [13] = -5.299847 
+Rapidity [14] = -5.130124 
+Rapidity [15] = -4.998382 
+Rapidity [16] = -4.944938 
+Rapidity [17] = -4.890538 
+Rapidity [18] = -4.797165 
+Rapidity [19] = -4.723274 
+Rapidity [20] = -4.339287 
+Rapidity [21] = -4.327120 
+Rapidity [22] = -4.314928 
+Rapidity [23] = -4.270619 
+Rapidity [24] = -4.222702 
+Rapidity [25] = -4.167165 
+Rapidity [26] = -4.149188 
+Rapidity [27] = -3.997691 
+Rapidity [28] = -3.885394 
+Rapidity [29] = -3.755336 
+Rapidity [30] = -2.697919 
+Rapidity [31] = -2.127021 
+Rapidity [32] = -1.982246 
+Rapidity [33] = -1.820729 
+Rapidity [34] = -1.765306 
+Rapidity [35] = -1.656915 
+Rapidity [36] = -1.642247 
+Rapidity [37] = -1.464673 
+Rapidity [38] = -1.119980 
+Rapidity [39] = -0.915115 
+Rapidity [40] = -0.902554 
+Rapidity [41] = -0.765295 
+Rapidity [42] = -0.533877 
+Rapidity [43] = 9.372289 
+
+
+
+
+
+
+
+Process type = 2 
+PDG:: Mass[0] = 4.975, Mass[1] = 8.5193
+Rapidity [0] = -10.993953 
+Rapidity [1] = -8.231334 
+Rapidity [2] = -7.740496 
+Rapidity [3] = -6.894441 
+Rapidity [4] = -6.376504 
+Rapidity [5] = -6.009634 
+Rapidity [6] = 4.683978 
+Rapidity [7] = 6.604387 
+Rapidity [8] = 6.695136 
+Rapidity [9] = 8.912955 
+Rapidity [10] = 10.018063 
+
+
+
+
+
+
+
+Process type = 0 
+PDG:: Mass[0] = 68.885, Mass[1] = 0.9380
+Rapidity [0] = -9.008085 
+Rapidity [1] = -8.974783 
+Rapidity [2] = -8.011478 
+Rapidity [3] = -7.302453 
+Rapidity [4] = -7.023820 
+Rapidity [5] = -6.984915 
+Rapidity [6] = -6.826985 
+Rapidity [7] = -6.499340 
+Rapidity [8] = -6.257936 
+Rapidity [9] = -6.224746 
+Rapidity [10] = -6.200781 
+Rapidity [11] = -6.030071 
+Rapidity [12] = -5.816863 
+Rapidity [13] = -5.098260 
+Rapidity [14] = -4.856369 
+Rapidity [15] = -4.133167 
+Rapidity [16] = -3.698747 
+Rapidity [17] = -3.415221 
+Rapidity [18] = -3.400031 
+Rapidity [19] = -3.260055 
+Rapidity [20] = -3.101893 
+Rapidity [21] = -3.085099 
+Rapidity [22] = -3.063197 
+Rapidity [23] = -2.044864 
+Rapidity [24] = -1.489083 
+Rapidity [25] = -1.457755 
+Rapidity [26] = -1.238370 
+Rapidity [27] = 9.437684 
+
+
+
+
+Process type = 2 
+PDG:: Mass[0] = 1110.437, Mass[1] = 3.1562
+Rapidity [0] = -9.819179 
+Rapidity [1] = -9.155583 
+Rapidity [2] = -9.072810 
+Rapidity [3] = -8.830892 
+Rapidity [4] = -8.764685 
+Rapidity [5] = -8.627099 
+Rapidity [6] = -8.389040 
+Rapidity [7] = -8.384359 
+Rapidity [8] = -8.351424 
+Rapidity [9] = -8.169534 
+Rapidity [10] = -8.100720 
+Rapidity [11] = -7.969012 
+Rapidity [12] = -6.221324 
+Rapidity [13] = -6.024311 
+Rapidity [14] = -5.880894 
+Rapidity [15] = -5.837024 
+Rapidity [16] = -5.158825 
+Rapidity [17] = -4.762256 
+Rapidity [18] = -2.644065 
+Rapidity [19] = -2.487133 
+Rapidity [20] = -2.283086 
+Rapidity [21] = -1.953006 
+Rapidity [22] = -1.629454 
+Rapidity [23] = -0.923139 
+Rapidity [24] = -0.776633 
+Rapidity [25] = -0.666927 
+Rapidity [26] = -0.400814 
+Rapidity [27] = -0.263201 
+Rapidity [28] = -0.233705 
+Rapidity [29] = -0.124398 
+Rapidity [30] = 0.443614 
+Rapidity [31] = 0.727511 
+Rapidity [32] = 0.917709 
+Rapidity [33] = 1.606059 
+Rapidity [34] = 2.434538 
+Rapidity [35] = 3.339759 
+Rapidity [36] = 3.366186 
+Rapidity [37] = 3.718848 
+Rapidity [38] = 3.938655 
+Rapidity [39] = 4.528121 
+Rapidity [40] = 5.182138 
+Rapidity [41] = 7.231061 
+Rapidity [42] = 7.851064 
+Rapidity [43] = 8.223920 
+Rapidity [44] = 8.384016 
+Rapidity [45] = 8.412353 
+Rapidity [46] = 9.201067 
+Rapidity [47] = 9.222693 
+
+Process type = 2 
+PDG:: Mass[0] = 281.678, Mass[1] = 4.4595
+Rapidity [0] = -8.680266 
+Rapidity [1] = -8.382875 
+Rapidity [2] = -8.255222 
+Rapidity [3] = -8.208070 
+Rapidity [4] = -7.983623 
+Rapidity [5] = -7.809463 
+Rapidity [6] = -6.521774 
+Rapidity [7] = -6.281816 
+Rapidity [8] = -5.987281 
+Rapidity [9] = -5.645660 
+Rapidity [10] = -5.629563 
+Rapidity [11] = -5.351140 
+Rapidity [12] = -5.339161 
+Rapidity [13] = -5.310240 
+Rapidity [14] = -5.278392 
+Rapidity [15] = -5.072370 
+Rapidity [16] = -4.863730 
+Rapidity [17] = -4.859061 
+Rapidity [18] = -4.699930 
+Rapidity [19] = -4.637534 
+Rapidity [20] = -4.338174 
+Rapidity [21] = -4.327837 
+Rapidity [22] = -4.154137 
+Rapidity [23] = -4.082905 
+Rapidity [24] = -3.817527 
+Rapidity [25] = -3.797980 
+Rapidity [26] = -3.773680 
+Rapidity [27] = -3.737176 
+Rapidity [28] = -3.647196 
+Rapidity [29] = -3.531606 
+Rapidity [30] = -3.315850 
+Rapidity [31] = -3.258787 
+Rapidity [32] = -3.042462 
+Rapidity [33] = -2.484588 
+Rapidity [34] = -2.296566 
+Rapidity [35] = -2.292189 
+Rapidity [36] = -2.281936 
+Rapidity [37] = -2.153974 
+Rapidity [38] = -2.074751 
+Rapidity [39] = -1.969526 
+Rapidity [40] = -1.820639 
+Rapidity [41] = -1.676894 
+Rapidity [42] = -1.542967 
+Rapidity [43] = -1.079880 
+Rapidity [44] = -0.448524 
+Rapidity [45] = -0.419328 
+Rapidity [46] = -0.217873 
+Rapidity [47] = -0.115735 
+Rapidity [48] = -0.087535 
+Rapidity [49] = -0.023853 
+Rapidity [50] = 0.125466 
+Rapidity [51] = 0.358703 
+Rapidity [52] = 0.412728 
+Rapidity [53] = 0.420185 
+Rapidity [54] = 6.358512 
+Rapidity [55] = 6.454112 
+Rapidity [56] = 6.786127 
+Rapidity [57] = 7.021335 
+Rapidity [58] = 7.493409 
+Rapidity [59] = 8.824887 
+
+
+
+Process type = 2 
+PDG:: Mass[0] = 369.713, Mass[1] = 1.4285
+Rapidity [0] = -9.313072 
+Rapidity [1] = -8.734602 
+Rapidity [2] = -8.211113 
+Rapidity [3] = -7.807712 
+Rapidity [4] = -7.721035 
+Rapidity [5] = -7.265149 
+Rapidity [6] = -7.117927 
+Rapidity [7] = -6.855400 
+Rapidity [8] = -5.470904 
+Rapidity [9] = -5.053667 
+Rapidity [10] = -4.795955 
+Rapidity [11] = -4.401156 
+Rapidity [12] = -4.187386 
+Rapidity [13] = -4.105005 
+Rapidity [14] = -3.973761 
+Rapidity [15] = -3.376939 
+Rapidity [16] = -3.229291 
+Rapidity [17] = -2.611241 
+Rapidity [18] = -2.013850 
+Rapidity [19] = -0.717494 
+Rapidity [20] = -0.456104 
+Rapidity [21] = 0.450980 
+Rapidity [22] = 0.579706 
+Rapidity [23] = 0.594498 
+Rapidity [24] = 1.468423 
+Rapidity [25] = 1.507485 
+Rapidity [26] = 1.812839 
+Rapidity [27] = 2.002923 
+Rapidity [28] = 8.476866 
+Rapidity [29] = 8.607419 
+Rapidity [30] = 9.305835 
+
+
+
+Process type = 2 
+PDG:: Mass[0] = 3.327, Mass[1] = 157.5826
+Rapidity [0] = -10.071921 
+Rapidity [1] = -9.713406 
+Rapidity [2] = -8.573061 
+Rapidity [3] = -8.474650 
+Rapidity [4] = -8.443839 
+Rapidity [5] = -8.316236 
+Rapidity [6] = -8.285946 
+Rapidity [7] = -8.026739 
+Rapidity [8] = -7.915875 
+Rapidity [9] = -7.406088 
+Rapidity [10] = 0.227215 
+Rapidity [11] = 0.471416 
+Rapidity [12] = 0.605988 
+Rapidity [13] = 0.880255 
+Rapidity [14] = 0.986101 
+Rapidity [15] = 1.133877 
+Rapidity [16] = 1.188532 
+Rapidity [17] = 1.226124 
+Rapidity [18] = 1.641499 
+Rapidity [19] = 1.731573 
+Rapidity [20] = 2.291003 
+Rapidity [21] = 2.442193 
+Rapidity [22] = 2.689175 
+Rapidity [23] = 2.781714 
+Rapidity [24] = 3.135273 
+Rapidity [25] = 3.358935 
+Rapidity [26] = 3.398731 
+Rapidity [27] = 3.490155 
+Rapidity [28] = 3.611652 
+Rapidity [29] = 4.305564 
+Rapidity [30] = 5.405104 
+Rapidity [31] = 5.482541 
+Rapidity [32] = 5.511580 
+Rapidity [33] = 5.761855 
+Rapidity [34] = 5.829863 
+Rapidity [35] = 5.921004 
+Rapidity [36] = 6.137097 
+Rapidity [37] = 6.801726 
+Rapidity [38] = 7.425174 
+Rapidity [39] = 7.791636 
+Rapidity [40] = 7.955834 
+Rapidity [41] = 8.212734 
+Rapidity [42] = 8.488720 
+Rapidity [43] = 9.038203 
+Rapidity [44] = 9.629562 
+
+
+Process type = 0 
+PDG:: Mass[0] = 173.408, Mass[1] = 0.9380
+Rapidity [0] = -9.257151 
+Rapidity [1] = -9.011454 
+Rapidity [2] = -9.007913 
+Rapidity [3] = -8.994971 
+Rapidity [4] = -8.659282 
+Rapidity [5] = -8.639385 
+Rapidity [6] = -8.283381 
+Rapidity [7] = -8.214956 
+Rapidity [8] = -7.949013 
+Rapidity [9] = -7.624748 
+Rapidity [10] = -4.826980 
+Rapidity [11] = -4.726535 
+Rapidity [12] = -2.670454 
+Rapidity [13] = -2.478790 
+Rapidity [14] = -1.247982 
+Rapidity [15] = -0.945309 
+Rapidity [16] = -0.664767 
+Rapidity [17] = -0.193635 
+Rapidity [18] = 0.407274 
+Rapidity [19] = 2.334991 
+Rapidity [20] = 9.305645 
+
+
+
+
+Process type = 1 
+PDG:: Mass[0] = 0.938, Mass[1] = 4.1766
+Rapidity [0] = -9.525826 
+Rapidity [1] = 6.562350 
+Rapidity [2] = 6.696440 
+Rapidity [3] = 6.793944 
+Rapidity [4] = 8.706900 
+Rapidity [5] = 8.858652 
+Rapidity [6] = 9.143334 
+
+Process type = 2 
+PDG:: Mass[0] = 106.280, Mass[1] = 61.6960
+Rapidity [0] = -10.054526 
+Rapidity [1] = -8.408980 
+Rapidity [2] = -6.752522 
+Rapidity [3] = -6.178711 
+Rapidity [4] = -6.143522 
+Rapidity [5] = -4.877173 
+Rapidity [6] = -4.685364 
+Rapidity [7] = -4.052370 
+Rapidity [8] = -4.030426 
+Rapidity [9] = -3.926408 
+Rapidity [10] = -3.079156 
+Rapidity [11] = -2.895435 
+Rapidity [12] = -2.733883 
+Rapidity [13] = -2.362463 
+Rapidity [14] = -2.194015 
+Rapidity [15] = -2.185285 
+Rapidity [16] = -1.710335 
+Rapidity [17] = -1.684420 
+Rapidity [18] = -1.674486 
+Rapidity [19] = -1.575313 
+Rapidity [20] = -1.457479 
+Rapidity [21] = -1.381446 
+Rapidity [22] = -1.381019 
+Rapidity [23] = 2.196070 
+Rapidity [24] = 2.378366 
+Rapidity [25] = 2.875438 
+Rapidity [26] = 3.007307 
+Rapidity [27] = 3.750257 
+Rapidity [28] = 3.954058 
+Rapidity [29] = 4.040408 
+Rapidity [30] = 4.105078 
+Rapidity [31] = 4.304946 
+Rapidity [32] = 4.491426 
+Rapidity [33] = 5.253588 
+Rapidity [34] = 5.360132 
+Rapidity [35] = 5.478341 
+Rapidity [36] = 5.496259 
+Rapidity [37] = 5.589746 
+Rapidity [38] = 5.606883 
+Rapidity [39] = 6.159325 
+Rapidity [40] = 6.404823 
+Rapidity [41] = 6.525451 
+Rapidity [42] = 6.683486 
+Rapidity [43] = 7.029588 
+Rapidity [44] = 7.180501 
+Rapidity [45] = 7.444550 
+Rapidity [46] = 7.748487 
+Rapidity [47] = 8.517530 
+Rapidity [48] = 8.703179 
+Rapidity [49] = 9.017351 
+
+
+
+
+Process type = 2 
+PDG:: Mass[0] = 178.231, Mass[1] = 5.1888
+Rapidity [0] = -9.742283 
+Rapidity [1] = -8.309659 
+Rapidity [2] = -8.004359 
+Rapidity [3] = -7.515236 
+Rapidity [4] = -7.408567 
+Rapidity [5] = -7.339348 
+Rapidity [6] = -7.264084 
+Rapidity [7] = -6.752004 
+Rapidity [8] = -6.741301 
+Rapidity [9] = -5.771734 
+Rapidity [10] = -5.689616 
+Rapidity [11] = -5.352352 
+Rapidity [12] = -5.255332 
+Rapidity [13] = -4.981408 
+Rapidity [14] = -4.976836 
+Rapidity [15] = -4.817168 
+Rapidity [16] = -4.652257 
+Rapidity [17] = -4.175707 
+Rapidity [18] = -3.594195 
+Rapidity [19] = -3.499262 
+Rapidity [20] = -3.449974 
+Rapidity [21] = -3.274275 
+Rapidity [22] = -3.205730 
+Rapidity [23] = -3.019026 
+Rapidity [24] = -2.693261 
+Rapidity [25] = -2.586840 
+Rapidity [26] = -2.572997 
+Rapidity [27] = -2.324529 
+Rapidity [28] = -2.210019 
+Rapidity [29] = -2.159746 
+Rapidity [30] = -2.139481 
+Rapidity [31] = -1.987854 
+Rapidity [32] = -1.402165 
+Rapidity [33] = -0.994066 
+Rapidity [34] = -0.974802 
+Rapidity [35] = -0.931539 
+Rapidity [36] = -0.830222 
+Rapidity [37] = -0.499779 
+Rapidity [38] = 0.143412 
+Rapidity [39] = 5.989238 
+Rapidity [40] = 6.552245 
+Rapidity [41] = 6.925371 
+Rapidity [42] = 7.599482 
+Rapidity [43] = 7.640288 
+Rapidity [44] = 7.767940 
+Rapidity [45] = 8.014765 
+Rapidity [46] = 8.051382 
+Rapidity [47] = 8.496696 
+Rapidity [48] = 8.805215 
+Rapidity [49] = 9.215336 
+
+Process type = 2 
+PDG:: Mass[0] = 21.747, Mass[1] = 17.3977
+Rapidity [0] = -10.086137 
+Rapidity [1] = -9.237878 
+Rapidity [2] = -8.890844 
+Rapidity [3] = -8.234746 
+Rapidity [4] = -8.135171 
+Rapidity [5] = -8.132887 
+Rapidity [6] = -8.094303 
+Rapidity [7] = -8.084629 
+Rapidity [8] = -7.721619 
+Rapidity [9] = -7.608779 
+Rapidity [10] = -7.321777 
+Rapidity [11] = -7.224625 
+Rapidity [12] = -7.214455 
+Rapidity [13] = -7.121548 
+Rapidity [14] = -6.903700 
+Rapidity [15] = -6.672245 
+Rapidity [16] = -6.348652 
+Rapidity [17] = -6.267695 
+Rapidity [18] = -6.135755 
+Rapidity [19] = -6.102338 
+Rapidity [20] = -5.660271 
+Rapidity [21] = -5.644860 
+Rapidity [22] = -5.448047 
+Rapidity [23] = -4.892385 
+Rapidity [24] = -4.101844 
+Rapidity [25] = -4.068878 
+Rapidity [26] = -3.940101 
+Rapidity [27] = -3.937550 
+Rapidity [28] = -3.635420 
+Rapidity [29] = 4.642812 
+Rapidity [30] = 4.988643 
+Rapidity [31] = 5.105000 
+Rapidity [32] = 5.265982 
+Rapidity [33] = 5.405581 
+Rapidity [34] = 5.576551 
+Rapidity [35] = 5.762432 
+Rapidity [36] = 5.813644 
+Rapidity [37] = 5.897393 
+Rapidity [38] = 5.926520 
+Rapidity [39] = 6.077686 
+Rapidity [40] = 6.731615 
+Rapidity [41] = 7.109135 
+Rapidity [42] = 7.174061 
+Rapidity [43] = 7.635351 
+Rapidity [44] = 7.638943 
+Rapidity [45] = 8.003426 
+Rapidity [46] = 8.067571 
+Rapidity [47] = 8.157651 
+Rapidity [48] = 8.556916 
+Rapidity [49] = 8.696019 
+
+
+
+
+Process type = 2 
+PDG:: Mass[0] = 3.816, Mass[1] = 642.8217
+Rapidity [0] = -9.498923 
+Rapidity [1] = -8.585359 
+Rapidity [2] = -6.632359 
+Rapidity [3] = -6.439167 
+Rapidity [4] = -4.756268 
+Rapidity [5] = -3.300232 
+Rapidity [6] = -3.105548 
+Rapidity [7] = -2.847071 
+Rapidity [8] = -2.080865 
+Rapidity [9] = -1.877985 
+Rapidity [10] = -1.768006 
+Rapidity [11] = -1.228512 
+Rapidity [12] = -1.015325 
+Rapidity [13] = -0.997673 
+Rapidity [14] = -0.899722 
+Rapidity [15] = -0.713564 
+Rapidity [16] = -0.657320 
+Rapidity [17] = -0.572726 
+Rapidity [18] = -0.453548 
+Rapidity [19] = 0.093866 
+Rapidity [20] = 0.612216 
+Rapidity [21] = 1.010188 
+Rapidity [22] = 1.385619 
+Rapidity [23] = 1.424271 
+Rapidity [24] = 1.893662 
+Rapidity [25] = 2.152525 
+Rapidity [26] = 2.300113 
+Rapidity [27] = 2.833291 
+Rapidity [28] = 3.494199 
+Rapidity [29] = 3.496094 
+Rapidity [30] = 4.287706 
+Rapidity [31] = 4.290248 
+Rapidity [32] = 4.647366 
+Rapidity [33] = 4.877540 
+Rapidity [34] = 4.937571 
+Rapidity [35] = 5.056899 
+Rapidity [36] = 5.259392 
+Rapidity [37] = 5.345368 
+Rapidity [38] = 5.443242 
+Rapidity [39] = 5.935793 
+Rapidity [40] = 6.202920 
+Rapidity [41] = 6.240585 
+Rapidity [42] = 6.290185 
+Rapidity [43] = 6.523880 
+Rapidity [44] = 6.864970 
+Rapidity [45] = 7.040278 
+Rapidity [46] = 7.260411 
+Rapidity [47] = 7.367961 
+Rapidity [48] = 7.413249 
+Rapidity [49] = 9.002763 
+
+
+
+
+
+
+Process type = 1 
+PDG:: Mass[0] = 0.938, Mass[1] = 106.0738
+Rapidity [0] = -9.463596 
+Rapidity [1] = 0.857507 
+Rapidity [2] = 0.948476 
+Rapidity [3] = 1.781787 
+Rapidity [4] = 1.786034 
+Rapidity [5] = 1.884289 
+Rapidity [6] = 2.181129 
+Rapidity [7] = 2.397207 
+Rapidity [8] = 2.483179 
+Rapidity [9] = 2.770496 
+Rapidity [10] = 3.155099 
+Rapidity [11] = 3.179918 
+Rapidity [12] = 3.691666 
+Rapidity [13] = 3.701004 
+Rapidity [14] = 3.950769 
+Rapidity [15] = 4.391107 
+Rapidity [16] = 4.538747 
+Rapidity [17] = 4.922082 
+Rapidity [18] = 6.076885 
+Rapidity [19] = 6.197427 
+Rapidity [20] = 6.579465 
+Rapidity [21] = 6.608302 
+Rapidity [22] = 6.992450 
+Rapidity [23] = 7.653242 
+Rapidity [24] = 7.972020 
+Rapidity [25] = 8.110742 
+Rapidity [26] = 8.193039 
+Rapidity [27] = 8.197406 
+Rapidity [28] = 9.112259 
+
+
+
+
+
+
+
+
+Process type = 1 
+PDG:: Mass[0] = 0.938, Mass[1] = 3.2436
+Rapidity [0] = -9.340095 
+Rapidity [1] = 6.709077 
+Rapidity [2] = 8.166757 
+Rapidity [3] = 8.704806 
+Rapidity [4] = 9.809521 
+Rapidity [5] = 10.443372 
+
+
+
+Process type = 0 
+PDG:: Mass[0] = 722.119, Mass[1] = 0.9380
+Rapidity [0] = -9.594630 
+Rapidity [1] = -8.952655 
+Rapidity [2] = -8.529135 
+Rapidity [3] = -8.319953 
+Rapidity [4] = -7.887971 
+Rapidity [5] = -6.727445 
+Rapidity [6] = -6.412577 
+Rapidity [7] = -6.332032 
+Rapidity [8] = -5.971217 
+Rapidity [9] = -5.825280 
+Rapidity [10] = -5.799337 
+Rapidity [11] = -5.442582 
+Rapidity [12] = -5.392435 
+Rapidity [13] = -4.843604 
+Rapidity [14] = -4.742494 
+Rapidity [15] = -4.732565 
+Rapidity [16] = -4.558238 
+Rapidity [17] = -4.438811 
+Rapidity [18] = -3.699360 
+Rapidity [19] = -2.984583 
+Rapidity [20] = -2.951682 
+Rapidity [21] = -2.620497 
+Rapidity [22] = -2.618735 
+Rapidity [23] = -2.294333 
+Rapidity [24] = -1.974189 
+Rapidity [25] = -1.755702 
+Rapidity [26] = -1.002088 
+Rapidity [27] = -0.894735 
+Rapidity [28] = -0.774364 
+Rapidity [29] = -0.733406 
+Rapidity [30] = -0.672194 
+Rapidity [31] = -0.558587 
+Rapidity [32] = -0.485416 
+Rapidity [33] = -0.127599 
+Rapidity [34] = -0.072303 
+Rapidity [35] = -0.069584 
+Rapidity [36] = 0.036526 
+Rapidity [37] = 0.094626 
+Rapidity [38] = 0.943882 
+Rapidity [39] = 1.408714 
+Rapidity [40] = 1.709993 
+Rapidity [41] = 1.903737 
+Rapidity [42] = 2.172873 
+Rapidity [43] = 2.193115 
+Rapidity [44] = 2.273743 
+Rapidity [45] = 2.275652 
+Rapidity [46] = 2.492398 
+Rapidity [47] = 9.498828 
+
+Configuration initialized for run 226062 (MC: 1):
+Collision trigger classes:
+&1 *0
+&1 *1
+&2 *2
+&8 *20
+&8 *21
+&8 *22
+&32 *3
+&64 *5
+&128 *6
+&256 *8
+&512 *9
+&1024 *14
+&1024 *15
+&2048 *7
+&8192 *16
+&8192 *17
+&16384 *23
+&16384 *25
+&32768 *24
+&32768 *26
+&65536 *19
+&524288 *18
+&1048576 *27
+&1048576 *28
+&2097152 *4
+&4194304 *11
+&8388608 *10
+&16777216 *12
+&33554432 *13
+&67108864 *29
+&268435456 *30
+&268435456 *31
+&268435456 *32
+&268435456 *33
+&268435456 *34
+&268435456 *35
+&268435456 *36
+Background trigger classes:
+
+Total available events:
+Trigger Classes:
+Event count for trigger combinations:
+  MB1  MBBG1  V0L : 12 triggers
+ : 12 triggers
+  MB1  MBBG1  V0R : 17 triggers
+  MB1  MBBG1  V0L  V0R : 154 triggers
+  MB1  MBBG1  MULow  V0L  V0R  MULL : 1 triggers
+  MB1  MBBG1  MULow  V0L  V0R : 4 triggers
+Event count for single trigger:
+  MULL: 1 triggers
+  MB1: 188 triggers
+  MBBG1: 188 triggers
+  V0L: 171 triggers
+  MULow: 5 triggers
+  V0R: 176 triggers
+Writing result to event_stat.root
+Real time 0:00:34, CP time 10.920
+======== AnalysisMM.C finished with exit code: 0 ========
+############## memory after: ##############
+             total       used       free     shared    buffers     cached
+Mem:          7882       7026        855       1222         22       1756
+-/+ buffers/cache:       5247       2635
+Swap:         8087       3117       4970
+*******************************************************
+* Automatically generated validation script           *
+* Time:    Son Okt  2 23:45:16 CEST 2016 
+* Dir:     .
+* Workdir: /home/user/Desktop/mikael_work/gridclass
+* ----------------------------------------------------*
+total 3704
+drwxrwxr-x  2 user user    4096 Okt  2 23:45 .
+drwxrwxr-x 12 user user    4096 Okt  1 19:01 ..
+-rw-rw-r--  1 user user    1547 Aug  3 19:33 AddAnalysisTaskDiffCrossSectionsMM.cxx
+-rw-rw-r--  1 user user     307 Aug  3 19:28 AddAnalysisTaskDiffCrossSectionsMM_cxx.d
+-rw-rw-r--  1 user user   38009 Okt  2 23:42 AliAnalysisTaskDiffCrossSectionsMM.cxx
+-rw-rw-r--  1 user user   12525 Sep 18 15:44 AliAnalysisTaskDiffCrossSectionsMM.cxx~
+-rw-rw-r--  1 user user   21814 Okt  2 23:42 AliAnalysisTaskDiffCrossSectionsMM_cxx.d
+-rwxrwxr-x  1 user user  944266 Okt  2 23:42 AliAnalysisTaskDiffCrossSectionsMM_cxx.so
+-rw-rw-r--  1 user user   10571 Okt  2 18:23 AliAnalysisTaskDiffCrossSectionsMM.h
+-rw-rw-r--  1 user user    6113 Sep 18 15:38 AliAnalysisTaskDiffCrossSectionsMM.h~
+-rw-rw-r--  1 user user    3641 Okt  2 23:44 AnalysisMM.C
+-rw-rw-r--  1 user user    3391 Okt  2 23:44 AnalysisMM_merge.C
+-rw-rw-r--  1 user user    1367 Okt  2 23:44 AnalysisMM_merge.sh
+-rw-r--r--  1 user user   14884 Okt  2 23:44 AnalysisMM.root
+-rw-rw-r--  1 user user    1408 Okt  2 23:44 AnalysisMM.sh
+-rw-rw-r--  1 user user    2058 Okt  2 23:44 AnalysisMM_validation_merge.sh
+-rw-rw-r--  1 user user    2451 Okt  2 23:44 AnalysisMM_validation.sh
+-rw-r--r--  1 user user   91410 Okt  2 23:45 AnalysisResults.root
+-rw-r--r--  1 user user 1217012 Okt  2 23:45 event_stat.root
+-rw-r--r--  1 user user 1207295 Okt  2 23:45 EventStat_temp.root
+-rw-r--r--  1 user user       7 Jun 27 08:51 LHC15f.txt
+-rw-r--r--  1 user user       7 Jun 27 08:55 LHC15g3a2.txt
+-rw-r--r--  1 user user     447 Jun 27 08:56 LHC15g3a3.txt
+-rw-r--r--  1 user user       7 Jun 27 08:55 LHC15g3c2.txt
+-rw-r--r--  1 user user       7 Jun 27 08:52 LHC15h.txt
+-rw-r--r--  1 user user      22 Jun 27 09:03 LHC16a2a2.txt
+-rw-r--r--  1 user user      22 Jun 27 09:03 LHC16a2b2.txt
+-rw-r--r--  1 user user      22 Jun 27 09:03 LHC16a2c2.txt
+-rw-r--r--  1 user user      23 Jul 26 17:03 LHC16a2d2_plus.txt
+-rw-r--r--  1 user user      23 Jul 26 17:02 LHC16a2d2.txt
+-rw-rw-r--  1 user user       0 Okt  2 23:45 outputs_valid
+-rw-rw-r--  1 user user   79791 Okt  2 23:45 Pythia6_LHC16a2a2.txt
+-rw-rw-r--  1 user user    1698 Sep 30 14:35 README
+-rw-r--r--  1 user user    7768 Okt  2 18:54 runGridMM.C
+-rw-rw-r--  1 user user     231 Okt  2 23:44 stderr
+-rw-rw-r--  1 user user    2408 Okt  2 21:54 stdout
+-rwxrwxr-x  1 user user     653 Okt  2 23:33 submit_all_MM.sh
+-rwxrwxr-x  1 user user     656 Sep 30 14:10 submit_all_MM.sh~
+-rwxrwxr-x  1 user user     702 Okt  2 21:30 terminate_all_MM.sh
+-rwxrwxr-x  1 user user     678 Sep 18 15:53 terminate_all_MM.sh~
+-rw-r--r--  1 user user     792 Okt  2 23:44 wn.xml
+* ----------------------------------------------------*
+* ----------------   Job Validated  ------------------*
+* ----------------------------------------------------*
+*******************************************************
+/home/user/Desktop/mikael_work/gridclass
+I-AliAnalysisAlien::StartAnalysis: 
+##### LOCAL MODE #####   Your analysis will be run locally on a subset of the requested       
+                         dataset.
+### AliEn analysis plugin current settings ###
+=   OverwriteMode:________________________________ 1
+***** NOTE: Overwrite mode will overwrite the input generated datasets and partial results from previous analysis.             
+*****       To disable, use: plugin->SetOverwriteMode(kFALSE);
+=   Copy files to grid: __________________________ YES
+=   Check if files can be copied to grid: ________ NO:Print
+=   Production mode:______________________________ 0
+=   Version of API requested: ____________________ V1.1x
+=   Version of ROOT requested: ___________________ 
+=   Version of AliRoot requested: ________________ 
+=   Version of AliPhysics requested: _____________ vAN-20160720-1
+=   Grid workdir relative to user $HOME: _________ LHC16a2a2_DiffCS
+=   Grid output directory relative to workdir: ___ output
+=   Data base directory path requested: __________ /alice/sim/2016/LHC16a2a2
+=   Data search pattern: _________________________ /*/AliESDs.root
+=   Input data format: ___________________________ xml-single
+=   Run numbers to be processed: _________________ 226062 234039
+=   Number of input files used in test mode: _____ 1
+=   List of output files to be registered: _______ EventStat_temp.root,AnalysisResults.root
+=   List of outputs going to be archived: ________ log_archive.zip:std*@disk=1 root_archive.zip:EventStat_temp.root,AnalysisResults.root,*.stat@disk=2
+=   List of outputs that should not be merged: ___ 
+=   List of outputs that should not be registered: 
+=   List of outputs produced during Terminate: ___ 
+=====================================================================
+=   Job price: ___________________________________ 1
+=   Time to live (TTL): __________________________ 21600
+=   Max files per subjob: ________________________ 75
+=   Number of replicas for the output files_______ 2
+=   Number of runs per master job: _______________ 1
+=   Number of files in one chunk to be merged: ___ 100
+=   Name of the generated execution script: ______ AnalysisMM.sh
+=   Executable command: __________________________ root -b -q -x
+=   Name of the generated analysis macro: ________ AnalysisMM.C
+=   User analysis files to be deployed: __________ AliAnalysisTaskDiffCrossSectionsMM.cxx
+=   Additional libs to be loaded or souces to be compiled runtime: <AliAnalysisTaskDiffCrossSectionsMM.h AliAnalysisTaskDiffCrossSectionsMM.cxx>
+=   Master jobs split mode: ______________________ se
+=   Custom name for the dataset to be created: ___ 
+=   Name of the generated JDL: ___________________ AnalysisMM.jdl
+=   Include path for runtime task compilation: ___ -I$ALICE_ROOT/include -I$ALICE_ROOT/lib -I$ALICE_PHYSICS/include -I$ALICE_PHYSICS/lib -I$ALICE_PHYSICS/OADB 
+I-AliAnalysisAlien::Connect: Trying to connect to AliEn ...
+=> Trying to connect to Server [0] root://pcapiserv03.cern.ch:10000 as User mmieskol 
+I-AliAnalysisAlien::Connect: 
+#####   Connected to AliEn as user mmieskol. Setting analysis user to <mmieskol>
+I-AliAnalysisAlien::CheckDataType: Using supplied run numbers (run ranges are ignored)
+I-AliAnalysisAlien::CheckDataType: 
+#####   file: /alice/cern.ch/user/m/mmieskol/LHC16a2a2_DiffCS/226062.xml type: xml_collection; using_tags: No
+I-AliAnalysisAlien::CheckDataType: 
+#####   file: /alice/cern.ch/user/m/mmieskol/LHC16a2a2_DiffCS/234039.xml type: xml_collection; using_tags: No
+I-AliAnalysisAlien::CreateDataset: Created dataset wn.xml with 1 files
+I-AliAnalysisAlien::WriteAnalysisFile: 
+#####   Analysis manager: TestManager wrote to file <AnalysisMM.root>
+
+I-AliAnalysisAlien::WriteAnalysisMacro: 
+#####   Analysis macro to run on worker nodes <AnalysisMM.C> written
+I-AliAnalysisAlien::StartAnalysis: 
+_______________________________________________________________________       
+   Running analysis script in a daughter shell as on a worker node       
+_______________________________________________________________________
+I-AliAnalysisManager::StartAnalysis: Grid analysis was stopped and cannot be terminated

@@ -1,0 +1,21 @@
+// Diffractive Cross Sections Grid Task README
+// --------------------------------------------
+//
+// See: submit_all_MM.sh and terminate_all_MM.sh
+//
+// For a quick test, run: aliroot -b -q .x runGridMM.C'("test", "LHC16a2b2")'
+//
+//
+// mikael.mieskolainen@cern.ch, 2018
+
+
+// MC GRID PRODUCTIONS
+
+# LHC15g3a2 pp 13 TeV, 2nd PYTHIA8 Monash-2013, LHC15f anchors, ALIROOT-6232 		Completed 	226062-226062 	4,305,800 		RAW OCDB 		20y 241d 	60d 20:58 	4.047 TB 	v5-06-39 	v5-06-39-01
+# LHC15g3a3 pp 13 TeV, again PYTHIA8 Monash-2013, LHC15f anchors, ALIROOT-6232 		Completed 	225000-226500 	68,191,200 		RAW OCDB 		297y 162d 	2y 53d 	64.08 TB 	v5-07-05-1 	v5-07-05-01-1
+# LHC15g3c2 pp 13 TeV, 2nd PYTHIA6(Perugia-2011) min.bias, LHC15f anchors, ALIROOT-6170 		Completed 	226062-226062 	4,338,600 		RAW OCDB 		20y 9d 	57d 13:28 	3.222 TB 	v5-06-39 	v5-06-39-01
+
+# LHC16a2a2 p-p, 13 TeV, Pythia6 (Perugia-2011) for runs near the VdM scan (new), LHC15h anchor, ALIROOT-6470 		Completed 	226062-234039 	9,907,800 		RAW OCDB 		38y 142d 	98d 0:10 	7.418 TB 	v5-07-12a-1 	v5-07-12-04-1
+# LHC16a2b2 p-p, 13 TeV, Pythia8 (Monash-2013) for runs near the VdM scan (new), LHC15h anchor, ALIROOT-6470 		Completed 	226062-234039 	9,895,000 		RAW OCDB 		38y 167d 	107d 16:37 	9.301 TB 	v5-07-12a-1 	v5-07-12-04-1
+# LHC16a2c2 p-p, 13 TeV, PHOJET for runs near the VdM scan (new), LHC15h anchor, ALIROOT-6470 		Completed 	226062-234039 	9,900,400 		RAW OCDB 		36y 358d 	97d 8:59 	7.457 TB 	v5-07-12a-1 	v5-07-12-04-1
+# LHC16a2d2 p-p, 13 TeV, EPOS-LHC for runs near the VdM scan (new), LHC15h anchor, ALIROOT-6470 		Running 	226062-234039 	8,913,600 		RAW OCDB 		53y 235d 	127d 22:51 	3.893 TB 	v5-08-08-1 	v5-08-08-01-1
