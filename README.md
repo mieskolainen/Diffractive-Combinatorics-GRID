@@ -3,6 +3,6 @@ ALICE grid processing code for https://github.com/mieskolainen/DiffractiveCombin
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Compatible with AliROOT
+Used with ALICE software: https://alice-doc.github.io/alice-analysis-tutorial/building/
 
 mikael.mieskolainen@cern.ch, 2019
