@@ -1,5 +1,5 @@
 # Diffractive-Combinatorics-GRID
-ALICE grid processing code for https://github.com/mieskolainen/DiffractiveCombinatorics
+ALICE grid processing code for https://github.com/mieskolainen/Diffractive-Combinatorics
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
